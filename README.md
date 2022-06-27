@@ -1,5 +1,5 @@
 # Scrapping-and-Sentiment-Analysis
-YouTube data scrapping and sentiment analysis
+# YouTube data scrapping and sentiment analysis
 
 ## This project is divided into 5 modules.
 ## All data will be scraped using selenium and helium.
