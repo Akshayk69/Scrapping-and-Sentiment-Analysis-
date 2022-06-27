@@ -1,0 +1,992 @@
+,Clean_text,Views_per_day
+0,"['plus', 'crisis']",216667.0
+1,"['president', 'vladimir', 'putin', 'condition', 'moscow', 'invasion', 'ukraine']",67778.0
+2,"['belarus', 'leader', 'blunder', 'putin', 'masterplan']",66667.0
+3,"['ground', 'report', 'kabul', 'morning', 'taliban', 'rule', 'afghan', 'flag']",19000.0
+4,"['trump', 'footages', 'president']",7639.0
+5,"['child', 'message', 'heart']",2944.0
+6,"['country', 'sri', 'lanka', 'way']",176667.0
+7,"['did', 'nato', 'push', 'ukraine', 'war']",55556.0
+8,"['president', 'joe', 'biden', 'journalist', 'microphone']",40833.0
+9,"['wuhan', 'coronavirus', 'china', 'newscorona', 'update']",6806.0
+10,"['interview', 'china', 'wuhan', 'coronavirus', 'fen']",6667.0
+11,"['delivers', 'statement', 'russiaukraine', 'conflict', 'international']",51111.0
+12,"['plus', 'ukraine', 'war', 'war', 'iii']",50000.0
+13,"['plus', 'ukraine', 'war', 'president', 'vladimir', 'putin']",48889.0
+14,"['russia', 'warning', 'west', 'russia', 'arm', 'supply']",46667.0
+15,"['taiwan', 'chinese', 'warship', 'warplane']",140000.0
+16,"['conflict', 'russia', 'launch', 'missile', 'sea', 'fighting']",45556.0
+17,"['china', 'russia', 'ukraine']",33333.0
+18,"['wuhan', 'scientist', 'coronavirus']",30833.0
+19,['hour'],9722.0
+20,"['great', 'resignation']",16667.0
+21,"['china', 'blast']",16190.0
+22,"['september', 'attack']",9444.0
+23,"['clash', 'thousands', 'home', 'gaza', 'hamas']",9444.0
+24,"['side', 'electric', 'vehicles']",56667.0
+25,"['russia', 'ukraine', 'letter']",55000.0
+26,"['story', 'ukraine', 'president', 'volodymyr', 'zelensky']",55000.0
+27,"['india', 'russia', 'warning']",53333.0
+28,"['china', 'robot', 'soldiers', 'border', 'india']",21333.0
+29,"['report', 'border', 'border', 'guard', 'warn', 'land', 'mine', 'snow']",26667.0
+30,"['bermuda', 'triangle']",8611.0
+31,"['plus', 'sri', 'lankan', 'crisis']",51667.0
+32,"['wideangle', 'india', 'china', 'sea', 'waters']",8611.0
+33,"['zelensky', 'miscalculation']",33333.0
+34,"['sharia', 'law']",11111.0
+35,"['pharma', 'push', 'drug', 'reaps', 'profit']",19333.0
+36,"['clash', 'gaza', 'violence', 'hamas', 'rocket', 'attacks']",8056.0
+37,"['belarus', 'nuclear', 'threat', 'west', 'will', 'nuclear', 'weapon', 'poland', 'lithuania']",31111.0
+38,"['video', 'china']",18000.0
+39,"['uighur', 'genocide', 'speak', 'islamic']",7500.0
+40,"['china', 'seed', 'terror', 'reach', 'country']",7500.0
+41,"['warning', 'china', 'general']",7500.0
+42,"['kremlin', 'president', 'vladimir', 'putin', 'delivers', 'west', 'russiaukraine', 'conflict']",30000.0
+43,"['does', 'george', 'soros', 'global', 'order']",8667.0
+44,"['how', 'mark', 'zuckerberg', 'fortune']",86667.0
+45,"['claim', 'putin']",123810.0
+46,"['mouse', 'plague', 'australia']",6944.0
+47,"['belt', 'road', 'initiative']",6944.0
+48,"['lab', 'leak', 'theory']",6944.0
+49,['exercise'],1736.0
+50,"['jets', 'taiwan', 'airspace']",10000.0
+51,"['china', 'floods', 'death', 'toll', 'thousand', 'henan']",7273.0
+52,"['trump', 'largest', 'bomb', 'afghanistan']",1333.0
+53,"['how', 'china', 'virus', 'wuhan', 'coronavirus']",3333.0
+54,"['china', 'woman']",6667.0
+55,"['fertility', 'rate']",12778.0
+56,"['thanks', 'america', 'taliban', 'air', 'force']",8519.0
+57,"['putin', 'move', 'ukraine']",19167.0
+58,"['ukraine', 'exodus', 'wideangle']",25556.0
+59,"['buying', 'china']",10952.0
+60,"['everything', 'forever', 'chemicals']",6970.0
+61,"['russia', 'ukraine', 'crisis', 'anas', 'mallick', 'rocket', 'strike', 'kyiv']",25556.0
+62,"['race', 'africa']",6111.0
+63,"['plus', 'dear', 'china', 'copying']",6111.0
+64,"['conflict', 'france', 'war', 'nato', 'response', 'force']",24444.0
+65,"['taliban', 'claim', 'aircraft']",8148.0
+66,"['filipino', 'swears', 'china']",6111.0
+67,"['ukrainians', 'people', 'invasion', 'russia']",18333.0
+68,"['russia', 'attack', 'site', 'russia', 'ukraine', 'conflict']",23333.0
+69,"['ufos', 'aliens', 'science']",5833.0
+70,"['watch', 'ukraine', 'zelensky', 'nato', 'zone', 'request', 'invasion']",23333.0
+71,"['saudi', 'arabia', 'america']",23333.0
+72,"['election', 'results', 'donald', 'trump', 'joe', 'biden', 'presidential', 'election', 'results']",5833.0
+73,"['india', 'russia', 'friendship']",11111.0
+74,"['wuhan', 'coronavirus', 'china', 'damage']",2778.0
+75,"['kabul', 'airport', 'evacuation', 'afghans', 'taliban', 'siege', 'country', 'afghanistan']",6333.0
+76,"['angela', 'merkel', 'europe', 'allowed', 'india', 'hub']",5278.0
+77,"['tonga', 'immediate', 'aid', 'eruption', 'volcano']",12667.0
+78,"['ukraine', 'jet', 'residential', 'building', 'plane', 'crash']",21111.0
+79,"['pfizer', 'country', 'shot']",7917.0
+80,"['bitcoin', 'cryptocurrency', 'blockchain', 'craze']",5278.0
+81,"['protester', 'page', 'muslim', 'book', 'antiislam', 'rally']",5000.0
+82,"['shade', 'imran', 'khan']",30000.0
+83,"['state', 'issue', 'chilling', 'warning']",60000.0
+84,"['germany', 'minister', 'worry', 'covid', 'impact']",2500.0
+85,"['sasikala', 'wait']",1000.0
+86,"['joe', 'saudi', 'ridicule', 'joe', 'biden']",30000.0
+87,"['wuhan', 'coronavirus', 'doctor', 'skin', 'treatment']",2500.0
+88,"['flareup', 'israel', 'hamas', 'gaza', 'chief', 'home']",5000.0
+89,"['wife', 'try', 'country', 'dollar', 'euro']",20000.0
+90,"['great', 'brain', 'drain']",11333.0
+91,"['gulf', 'india', 'prophet']",121429.0
+92,"['invasion', 'has', 'russia', 'china', 'support']",18889.0
+93,"['trump', 'card', 'trump', 'first', 'lady', 'modi', 'white', 'house']",1181.0
+94,"['health', 'food']",4722.0
+95,"['saudi', 'arabia', 'uae', 'phone', 'call', 'biden']",18889.0
+96,"['residents', 'window', 'video', 'shanghai', 'china', 'covid', 'crisis']",28333.0
+97,"['wuhan', 'coronavirus', 'video', 'panic']",2361.0
+98,"['medium', 'racist', 'reportage', 'refugee']",18889.0
+99,"['response', 'sanction', 'president', 'putin', 'threat', 'war']",18889.0
+100,"['china', 'biden', 'taiwan', 'comment']",80952.0
+101,"['supply', 'chain', 'crisis']",7083.0
+102,"['story', 'jerusalem']",4722.0
+103,['pandemic'],9444.0
+104,"['khalistan', 'movement']",4444.0
+105,"['global', 'summit', 'china', 'military', 'power', 'provocations', 'propaganda', 'session']",4444.0
+106,"['indians', 'south', 'africa']",4848.0
+107,"['standoff', 'south', 'china', 'sea', 'indonesia', 'message', 'china']",2222.0
+108,"['actor', 'puneeth', 'rajkumar', 'death', 'risk', 'workout']",7619.0
+109,"['talk', 'belarus', 'border', 'lukashenko', 'zelensky', 'invasion']",17778.0
+110,"['nuclear', 'response', 'team', 'report', 'fire', 'europe', 'plant']",17778.0
+111,"['americans', 'passport']",53333.0
+112,"['violence', 'escalates', 'palestinians', 'israelis', 'gaza', 'airstrikes']",4444.0
+113,"['israel', 'hamas', 'exchange', 'rocket', 'fire']",4444.0
+114,"['subscriber', 'netflix']",26667.0
+115,"['india', 'fear', 'taliban', 'target', 'indian', 'project']",4848.0
+116,"['russia', 'enters', 'kyiv', 'day', 'invasion']",17778.0
+117,"['clashes', 'troop', 'naku', 'sikkim', 'border']",4444.0
+118,"['kashmiri', 'militant', 'cricket', 'wicket']",1111.0
+119,"['china', 'ownership', 'city']",4167.0
+120,"['rich', 'country', 'india', 'america', 'disease', 'expert']",4167.0
+121,"['family', 'balcony']",25000.0
+122,"['apple', 'nokia']",4167.0
+123,"['light', 'poland', 'jet', 'us', 'migs', 'jets']",16667.0
+124,"['pakistan', 'woman', 'men', 'faisalabad']",8333.0
+125,"['michigan', 'nurse', 'video', 'covid', 'coronavirus']",2083.0
+126,"['plus', 'taliban', 'rise', 'threat', 'india']",4545.0
+127,"['pfizer', 'vaccine', 'deal']",4167.0
+128,"['israel', 'people', 'covid', 'pfizer', 'vaccine']",4167.0
+129,"['videos', 'life', 'taliban']",5000.0
+130,"['china', 'belt', 'road', 'initiative']",8333.0
+131,"['how', 'nature', 'space']",2083.0
+132,"['russia', 'air', 'force', 'action']",16667.0
+133,"['russia', 'ukraine', 'conflict', 'series', 'explosion', 'ukraine', 'capital', 'kyiv', 'city']",16667.0
+134,"['bill', 'gates', 'vaccine', 'formula']",4167.0
+135,"['north', 'korea', 'country']",4167.0
+136,"['ukraine', 'direct', 'inside', 'ukraine', 'training', 'camp', 'fighter']",12500.0
+137,"['rifles', 'battalion', 'call', 'duty', 'kashmir']",1042.0
+138,"['finland', 'war', 'russia']",23333.0
+139,[],15556.0
+140,"['refugee', 'ukraine', 'originals']",15556.0
+141,"['interview', 'taiwan', 'foreign', 'minister', 'china']",3889.0
+142,"['bolsonaro', 'vaccine', 'sideeffects']",3889.0
+143,"['russia', 'ukraine']",15556.0
+144,"['biggest', 'covid', 'scam']",7778.0
+145,"['how', 'britain', 'trillion', 'india']",1296.0
+146,"['thousands', 'cow', 'bangladesh', 'smallest', 'cow', 'guinness', 'records']",4242.0
+147,"['russia', 'invasion', 'plan', 'russiaukraine', 'conflict']",15556.0
+148,"['missile', 'target', 'earth']",23333.0
+149,"['video', 'afghan', 'displeasure', 'afghanistan', 'army', 'stone', 'shoe']",4667.0
+150,"['how', 'india', 'general', 'rawat', 'death']",7778.0
+151,"['vijay', 'mallya', 'booed', 'chor', 'chor', 'chant', 'oval', 'stadium']",778.0
+152,"['russia', 'economy', 'crisis']",15556.0
+153,"['saudi', 'arabia', 'rave', 'party', 'riyadh']",7778.0
+154,"['genesis', 'kashmir', 'issue', 'india', 'jammu', 'kashmir']",4667.0
+155,"['biden', 'hand', 'air']",23333.0
+156,"['iit', 'institute']",722.0
+157,"['west', 'information', 'war']",14444.0
+158,"['russia', 'response', 'provocation', 'ukraine']",43333.0
+159,"['vice', 'president', 'harris', 'fire', 'ukraine', 'refugee']",14444.0
+160,"['love', 'fugitive', 'billionaires']",3611.0
+161,"['ukraine', 'direct', 'shame', 'chinese', 'athlete', 'abuse']",10833.0
+162,"['palestinians', 'alaqsa', 'eid', 'israelhamas', 'conflict', 'gaza', 'jerusalem']",3611.0
+163,"['did', 'fauci', 'fund', 'wuhan', 'virus', 'research']",3611.0
+164,"['reaction', 'invasion', 'ukraine']",14444.0
+165,"['rare', 'earths', 'china', 'weapon']",3611.0
+166,"['conflict', 'trump', 'nato', 'leader', 'ukraine', 'crisis']",14444.0
+167,"['official', 'west', 'oligarch', 'yacht', 'jet', 'car', 'conflict']",14444.0
+168,"['gaza', 'tunnel']",3611.0
+169,"['country', 'cash']",3611.0
+170,"['black', 'fungus', 'mucormycosis']",3611.0
+171,"['wuhan', 'coronavirus', 'will', 'china', 'profit', 'outbreak']",1806.0
+172,"['app', 'ban', 'beijing', 'reaction', 'india', 'ban', 'apps']",3611.0
+173,"['russia', 'ukraine', 'putin', 'attack', 'sea', 'land', 'air']",14444.0
+174,"['people', 'kabul', 'airport', 'attempt', 'evacuation', 'afghanistan']",4000.0
+175,"['president', 'putin', 'geneva', 'summit', 'biden', 'highstakes', 'summit', 'geneva']",3333.0
+176,"['trump', 'biden', 'taliban', 'takeover', 'afghanistan', 'resignation', 'taliban', 'kabul']",4000.0
+177,"['dubai', 'collapse', 'leaf', 'dubai', 'money']",1667.0
+178,"['shanghai', 'residents', 'healthcare', 'worker']",20000.0
+179,"['covid', 'india', 'wave', 'october', 'claim']",3333.0
+180,"['small', 'pacific', 'nations', 'china', 'deal']",57143.0
+181,"['story', 'nxivm', 'allison', 'mack']",3636.0
+182,"['wuhan', 'coronavirus', 'thai', 'king', 'selfisolation', 'woman', 'covid', 'lockdown', 'updates']",1667.0
+183,"['russia', 'guarantee', 'vienna', 'stage']",13333.0
+184,"['coronavirus', 'china', 'discussion']",1667.0
+185,"['wuhan', 'coronavirus', 'japan', 'company', 'china']",1667.0
+186,"['ukraine', 'plea', 'immediate', 'membership', 'russiaukraine', 'conflict']",13333.0
+187,"['how', 'austria', 'islamist', 'infrastructure', 'border']",3333.0
+188,"['plus', 'justin', 'trudeau', 'cry', 'statesman']",3333.0
+189,"['pakistan', 'price', 'taliban']",4444.0
+190,"['leon', 'panetta', 'india', 'role', 'bin', 'laden', 'mission']",3333.0
+191,"['china', 'india', 'suffering']",3333.0
+192,['everyone'],5000.0
+193,"['japan', 'destroyer', 'china', 'liaoning', 'aircraft', 'okinawa']",3333.0
+194,"['new', 'variant', 'wuhan', 'virus']",6667.0
+195,"['wuhan', 'coronavirus', 'taiwan', 'claim']",1667.0
+196,"['indonesia', 'suffers', 'vaccines']",3636.0
+197,"['china', 'dump', 'imran', 'khan', 'rajapaksas']",20000.0
+198,"['russian', 'convoy', 'towards', 'kyiv', 'invasion', 'enters', 'day']",13333.0
+199,"['leader', 'pressure', 'china']",1667.0
+200,"['coronavirus', 'wuhan', 'lab']",1667.0
+201,"['truckers', 'antitrudeau', 'movement']",10000.0
+202,"['peace', 'talk', 'conflict', 'enters', 'day', 'updates']",12222.0
+203,"['india', 'ukraine']",12222.0
+204,"['question', 'china', 'wuhan', 'coronavirus']",1528.0
+205,"['black', 'fungus', 'rise', 'india', 'covid', 'infection']",3056.0
+206,"['woman', 'facebook', 'metaverse']",9167.0
+207,"['submarine', 'patrol', 'south', 'china', 'sea']",3056.0
+208,"['day', 'invasion', 'ukraine', 'kremlin', 'control']",12222.0
+209,"['hundred', 'bird', 'death', 'mexico']",9167.0
+210,"['mosquito', 'florida']",3056.0
+211,"['crude', 'oil', 'skyrocket', 'how', 'ukraine', 'war', 'household', 'budget']",12222.0
+212,"['tech', 'youtube', 'outrage']",18333.0
+213,"['india', 'wave', 'june']",12222.0
+214,"['kabul', 'airport', 'staff', 'country', 'taliban', 'kabul', 'afghanistan']",3667.0
+215,"['wuhan', 'coronavirus', 'country', 'india', 'medicine', 'supply']",1528.0
+216,"['ukraine', 'soldier', 'invasion', 'ukraine']",12222.0
+217,"['are', 'norway', 'sweden', 'victim', 'islamisation']",3056.0
+218,"['plus', 'france', 'elections']",18333.0
+219,[],3056.0
+220,"['plus', 'financial', 'literacy', 'need', 'hour']",3333.0
+221,"['saudi', 'royals', 'asset']",36667.0
+222,"['putinmacron', 'conversation', 'set', 'condition', 'settlement', 'ukraine', 'conflict']",12222.0
+223,"['china', 'attempt', 'praise', 'backfire', 'wuhan', 'coronavirus']",1528.0
+224,"['war', 'word', 'taiwan', 'taiwan', 'independence', 'fineprint']",100000.0
+225,"['india', 'vaccine', 'prince']",3056.0
+226,"['future', 'oil']",3056.0
+227,"['china', 'replica', 'taiwan', 'base']",36667.0
+228,"['harvard', 'professor', 'coronavirus', 'outbreak', 'covid', 'coronavirus']",1528.0
+229,"['government', 'billion', 'aid']",3056.0
+230,"['citizen', 'government']",1528.0
+231,"['russia', 'mercenary', 'ukraine', 'fighter', 'kyiv']",12222.0
+232,"['today', 'wave', 'crackdown', 'china', 'wuhan', 'coronavirus']",1528.0
+233,"['divide', 'split']",4583.0
+234,"['sri', 'lankan', 'sensation', 'yohani', 'song', 'manike', 'mage', 'hithe']",4167.0
+235,['history'],2778.0
+236,"['italy', 'claim', 'covid', 'vaccine', 'vaccine', 'humans', 'covid', 'vaccine']",1389.0
+237,"['year', 'independence', 'time', 'india', 'heritage']",8333.0
+238,"['president', 'joe', 'biden', 'reveals', 'america', 'deal', 'taliban', 'secret', 'deal', 'afghanistan']",3333.0
+239,"['sore', 'loser', 'england', 'fan', 'savage', 'euro', 'loss']",3030.0
+240,"['where', 'vladimir', 'putin', 'family']",11111.0
+241,"['america', 'covid', 'crisis', 'press']",3704.0
+242,"['jinping', 'mind', 'chinese', 'president']",4762.0
+243,"['putin', 'bet', 'india', 'help', 'energy', 'sector']",11111.0
+244,"['india', 'unga', 'hall', 'pakistan', 'speech']",2778.0
+245,"['full', 'interview', 'sushant', 'singh', 'rajput', 'kriti', 'sanon']",556.0
+246,"['ceo', 'people', 'zoom', 'call']",5556.0
+247,"['imf', 'pakistan', 'borrowing', 'request', 'imran', 'khan', 'money', 'country']",5556.0
+248,"['conflict', 'russia', 'vacuum', 'bomb', 'invasion', 'ukraine']",11111.0
+249,"['russia', 'end', 'ceasefire', 'evacuation', 'ceasefire', 'violation']",11111.0
+250,"['yuan', 'threat', 'dollar']",2778.0
+251,"['wuhan', 'flood', 'natural', 'deliberate']",2778.0
+252,"['turkey', 'muslim', 'nation', 'israel', 'recep', 'tayyip', 'erdogan', 'israelpalestine']",2778.0
+253,"['day', 'invasion', 'ukraine', 'unsc', 'emergency', 'meeting', 'assembly']",11111.0
+254,"['explosion', 'iran', 'city']",2778.0
+255,"['china', 'portrait', 'prophet', 'muhammad']",2778.0
+256,"['america', 'answer', 'aggression']",2778.0
+257,"['india', 'diplomacy', 'china']",2778.0
+258,"['defence', 'giants', 'billion', 'ukraine', 'war']",33333.0
+259,"['death', 'toll', 'gaza', 'rise', 'palestineisrael', 'conflict', 'lebanon']",2778.0
+260,"['india', 'neutrality', 'ukraine', 'backfiring']",11111.0
+261,"['russia', 'claim', 'ukraine', 'indians']",11111.0
+262,"['twitter', 'suspends', 'virologist', 'robert', 'malone', 'account', 'claim', 'pfizer', 'vaccine']",6667.0
+263,"['straight', 'talk', 'taiwan', 'invasion', 'interview', 'joseph']",2778.0
+264,"['ukrainians', 'till', 'finish', 'explosion', 'kyiv', 'russiaukraine', 'conflict']",11111.0
+265,['stock'],33333.0
+266,"['spain', 'expats', 'property', 'life', 'european', 'union']",2778.0
+267,"['india', 'resolve']",2778.0
+268,"['ukraine', 'nato', 'bid', 'tension', 'international', 'headlines']",11111.0
+269,"['reactions', 'rebuttal', 'ilhan', 'omar', 'antiindia', 'rhetoric']",1389.0
+270,"['president', 'joe', 'biden', 'bike', 'beach', 'ride']",250000.0
+271,"['america', 'capitulation', 'kabul']",3333.0
+272,"['largest', 'mass', 'execution', 'memory', 'saudi', 'arabia', 'men', 'day']",11111.0
+273,"['exercise', 'puneeth', 'rajkumar', 'death']",2778.0
+274,"['emmanuel', 'macron', 'issue', 'ultimatum', 'muslim', 'leaders']",2778.0
+275,"['ukraine', 'invasion', 'modi', 'biden']",16667.0
+276,"['ground', 'reality', 'taliban', 'rule', 'kabul']",3333.0
+277,"['israel', 'gaza', 'border', 'fence', 'barrier', 'sensor']",5556.0
+278,"['girl', 'train']",556.0
+279,"['report', 'death', 'rise', 'case', 'month', 'coronavirus']",4743.0
+280,"['biden', 'putin']",11056.0
+281,"['are', 'review']",2767.0
+282,"['north', 'korea', 'pakistan']",11044.0
+283,"['china', 'half', 'tajikistan', 'land']",2758.0
+284,"['look', 'today', 'kashmir', 'part']",551.0
+285,"['erdogan', 'islamic', 'domination']",2756.0
+286,"['pulwama', 'attack', 'pakistan', 'terror']",917.0
+287,"['russia', 'ukraine', 'invasion', 'day', 'first', 'sign', 'compromise', 'ukraine']",11000.0
+288,"['taliban', 'india']",3663.0
+289,"['boy', 'fight', 'dog', 'sister', 'bridger', 'walker']",2744.0
+290,"['official', 'pcr', 'test', 'may']",4117.0
+291,"['missiles', 'land', 'iraq']",10978.0
+292,"['day', 'russia', 'invasion', 'battle', 'kyiv']",10967.0
+293,"['story', 'shehbaz', 'sharif']",16450.0
+294,"['china', 'jackie', 'chan', 'campaign']",1362.0
+295,"['oligarchs', 'pinch', 'sanction', 'russiaukraine', 'conflict']",10878.0
+296,"['china', 'war', 'india']",1360.0
+297,"['taiwan', 'brace', 'invasion', 'ukraine', 'taiwan']",70071.0
+298,"['plus', 'india', 'ukraine', 'dilemma']",10822.0
+299,"['shamima', 'begum']",2694.0
+300,"['israel', 'jews', 'report', 'invasion']",8083.0
+301,"['wuhan', 'coronavirus', 'revolt', 'jinping']",1340.0
+302,"['nigeria', 'astrazeneca', 'covid', 'vaccine', 'omicron', 'variant', 'health']",5356.0
+303,"['sri', 'lanka', 'crisis', 'explodes', 'protesters', 'president', 'home']",16050.0
+304,"['president', 'china', 'consequence', 'covid']",1336.0
+305,"['alert', 'philippines', 'china', 'presence', 'philippines', 'china']",2664.0
+306,"['ukraine', 'direct', 'athletes', 'china', 'quarantine', 'camp']",7992.0
+307,"['saudi', 'arabia', 'uae', 'decline', 'fear', 'oil', 'price', 'spike', 'international']",10611.0
+308,"['attack', 'counting', 'saudi', 'arabia', 'attack']",5306.0
+309,"['germany', 'warship']",2653.0
+310,"['jerusalem', 'clashes', 'palestinians', 'israeli', 'police', 'alaqsa', 'mosque']",2647.0
+311,"['conflict', 'ukraine', 'president', 'zelensky']",10556.0
+312,"['new', 'threat', 'china', 'brain', 'control', 'weapons', 'boris', 'johnson', 'way']",5278.0
+313,"['ground', 'report', 'look', 'india', 'aircraft', 'carrier', 'ins', 'vikrant']",4529.0
+314,"['gorges', 'dam', 'china', 'dam', 'doom', 'china', 'flood']",2633.0
+315,"['imran', 'khan', 'grip', 'reality']",6320.0
+316,"['navy', 'hollow', 'force']",4533.0
+317,"['israel', 'practice', 'strike', 'iran']",31567.0
+318,"['heavy', 'kyiv', 'invasion', 'enters', 'day']",10467.0
+319,"['demand', 'who', 'boss', 'resignation']",1308.0
+320,"['blow', 'benjamin', 'netanyahu', 'palestineisrael', 'conflict']",2614.0
+321,"['how', 'china', 'water']",2611.0
+322,"['mystery', 'russia', 'symbol']",10433.0
+323,"['battle', 'dalai', 'lama', 'soul']",2600.0
+324,"['taliban', 'pakistan', 'war', 'tension', 'durand', 'line']",5200.0
+325,"['india', 'lion', 'covid', 'india', 'coronavirus']",2597.0
+326,"['product', 'risk', 'chemical']",5189.0
+327,"['russia', 'order', 'ukraine']",7767.0
+328,"['israel', 'breakthrough', 'develops', 'vaccine']",1294.0
+329,"['afghanistan', 'crisis', 'afghans', 'america', 'mistake']",3100.0
+330,"['taliban', 'reign', 'terror']",3100.0
+331,"['china', 'warning', 'taiwan', 'war']",78167.0
+332,"['hitler', 'comment', 'apology', 'president', 'putin', 'step']",30900.0
+333,"['soldier', 'taiwan']",3846.0
+334,"['report', 'china', 'russia', 'attack', 'ukraine', 'till', 'olympics']",10233.0
+335,"['pakistan', 'drama']",30533.0
+336,"['conflict', 'russia', 'video', 'airstrikes', 'combat', 'vehicle']",15200.0
+337,"['dictator', 'kim', 'jong', 'sos', 'signal']",2752.0
+338,"['south', 'africa', 'community', 'attack']",2748.0
+339,"['ukraine', 'invasion', 'day', 'west', 'russia', 'war']",10067.0
+340,['pakistan'],6020.0
+341,"['cache', 'weapon', 'arabian', 'sea']",2500.0
+342,"['mass', 'exodus', 'chinese', 'institute', 'scientist']",2497.0
+343,"['china', 'claim', 'mountain', 'peak']",1246.0
+344,"['taliban', 'capture', 'woman', 'governor', 'afghanistan', 'salima', 'mazari', 'updates']",2983.0
+345,"['bbc', 'deceit', 'diana', 'interview']",2492.0
+346,"['poland', 'offer', 'mig', 'fighter', 'jet', 'ukraine']",9944.0
+347,"['wuhan', 'virus', 'case', 'death', 'surge']",4257.0
+348,"['china', 'sanction', 'talk', 'rome']",9933.0
+349,"['george', 'floyd', 'trial', 'new', 'footage', 'floyd', 'arrest', 'day', 'highlight']",2481.0
+350,"['ground', 'report', 'city', 'afghanistan', 'fear', 'taliban', 'takeover', 'herat']",2957.0
+351,"['wuhan', 'coronavirus', 'china', 'propaganda']",1224.0
+352,"['zelensky', 'message', 'russia', 'troop', 'kyiv']",9744.0
+353,"['india', 'cds', 'general', 'bipin', 'rawat', 'chopper', 'crash', 'tamil', 'nadu', 'coonoor', 'iaf', 'helicopter', 'crash']",4872.0
+354,"['uschina', 'faceoff', 'taiwan', 'strait', 'missile', 'destroyer', 'taiwan', 'strait']",29200.0
+355,"['crisis', 'brewing', 'china']",3241.0
+356,"['troop', 'airbase', 'ukraine', 'explosions', 'heard', 'city']",9722.0
+357,"['force', 'nato', 'biden', 'plan', 'putin']",9711.0
+358,"['clashes', 'aqsa']",2422.0
+359,"['russia', 'weapon', 'tsunamis']",2436.0
+360,"['china', 'pak', 'advice', 'uighur', 'muslims']",2411.0
+361,"['putin', 'pay', 'rouble', 'gas', 'international', 'headlines']",14467.0
+362,"['nuclear', 'disaster', 'ukraine', 'europe', 'plant']",9644.0
+363,"['mass', 'graf', 'canada']",2627.0
+364,"['study', 'humans', 'year']",2411.0
+365,"['russia', 'country']",9600.0
+366,"['biden', 'china', 'joe', 'biden']",2389.0
+367,"['wuhan', 'coronavirus', 'african', 'nation', 'china']",1194.0
+368,"['wuhan', 'coronavirus', 'china', 'recovery']",1193.0
+369,"['solar', 'flare', 'radio', 'blackout', 'asia', 'australia']",14300.0
+370,"['story', 'coronavirus', 'weapon']",1186.0
+371,"['conflict', 'naftali', 'bennett', 'president', 'putin', 'kremlin']",9478.0
+372,"['tensions', 'india', 'china', 'galwan', 'valley', 'indiachina', 'conflict']",1183.0
+373,"['war', 'ukraine']",28233.0
+374,"['was', 'pfizer', 'vaccine', 'trial']",4029.0
+375,"['bid', 'india', 'army', 'chief', 'home', 'minister']",5633.0
+376,"['hamas', 'zionist', 'dolphin', 'commando']",5633.0
+377,"['videos', 'propaganda']",1172.0
+378,"['has', 'jinping', 'plot']",28133.0
+379,"['india', 'prime', 'minister', 'narendra', 'modi', 'car']",5600.0
+380,"['will', 'sweden', 'netherlands', 'muslim', 'nation']",2333.0
+381,"['india', 'turkey', 'place', 'kashmir']",2381.0
+382,"['germany', 'onceinamillenium', 'flood']",2536.0
+383,"['trudeau', 'trucker', 'ottawa']",6967.0
+384,"['pakistan', 'weather', 'war']",1161.0
+385,"['geography', 'lesson', 'imran', 'khan']",2317.0
+386,"['status', 'breakaway', 'region', 'president', 'zelensky']",9267.0
+387,"['biden', 'india', 'problem']",27767.0
+388,"['india', 'power', 'bollywood']",2311.0
+389,"['west', 'oil', 'import']",13867.0
+390,"['saudi', 'arabia', 'loudspeaker', 'mosque']",2311.0
+391,"['indians', 'thousand', 'dollar', 'india']",2308.0
+392,"['imran', 'khan', 'russia', 'ukraine', 'crisis']",9233.0
+393,"['quad', 'past', 'present', 'future']",2308.0
+394,"['vaccine', 'makers', 'booster', 'variant']",4611.0
+395,"['russia', 'ceasefire', 'ukraine', 'corridor']",9189.0
+396,"['elon', 'musk', 'vladimir', 'putin', 'series', 'tweet']",9178.0
+397,"['fbi', 'researcher', 'week']",1147.0
+398,"['united', 'nations', 'redundant', 'body']",2294.0
+399,"['video', 'afghans', 'plane', 'desperate', 'youth', 'hang', 'plane']",2750.0
+400,"['intelligence', 'report', 'leader', 'ill', 'heart', 'surgery', 'kim', 'jongun']",1144.0
+401,"['who', 'director', 'general', 'china', 'line', 'coronavirus']",1144.0
+402,"['sikh', 'regiment', 'army', 'village', 'boy', 'soldier']",457.0
+403,"['pakistan', 'highprofile', 'assassin']",2281.0
+404,"['fund', 'hamas']",2278.0
+405,"['ronaldo', 'fizz', 'coke']",2278.0
+406,"['russia', 'ukraine', 'putin', 'troop', 'kyiv']",9100.0
+407,"['ghislaine', 'maxwell', 'sex', 'trafficking']",5447.0
+408,"['heavy', 'fighting', 'panjshir', 'valley', 'hour', 'kabul']",3015.0
+409,"['yemen', 'houthis', 'attack', 'saudi', 'city']",3876.0
+410,"['north', 'korea', 'missile']",2253.0
+411,"['things', 'india', 'who']",1125.0
+412,"['amid', 'offensive', 'ukraine', 'nato', 'bid']",8978.0
+413,"['wuhan', 'coronavirus', 'china', 'coronavirus', 'cure']",1118.0
+414,"['russia', 'gas', 'poland', 'bulgaria']",26800.0
+415,"['inside', 'china', 'sports', 'centres', 'children']",2233.0
+416,"['india', 'help', 'outbreak']",1115.0
+417,['child'],2217.0
+418,"['colony', 'india', 'backyard', 'colombo', 'port', 'city', 'project']",2211.0
+419,"['threat', 'war', 'russia', 'right', 'nuke']",13267.0
+420,"['israel', 'palestine', 'india', 'support']",2208.0
+421,"['china', 'floods', 'rain', 'year']",2406.0
+422,"['watch', 'upadhyay', 'oli', 'caretaker']",2203.0
+423,"['question', 'wuhan', 'coronavirus']",1101.0
+424,"['election', 'result', 'donald', 'trump', 'joe', 'biden', 'presidential', 'election', 'results']",2200.0
+425,"['phone', 'mistake']",2200.0
+426,"['video', 'company', 'wrath', 'pakistanis', 'insult', 'prophet', 'muhammad']",3296.0
+427,"['conflict', 'tank', 'kilometre', 'kyiv']",8789.0
+428,"['canada', 'student', 'shot', 'toronto', 'indian', 'govt', 'pledge', 'support', 'family']",13183.0
+429,"['spice', 'girls', 'hit', 'wannabe', 'makeover']",437.0
+430,"['asia', 'russiaukraine', 'war']",8722.0
+431,"['china', 'nato']",2181.0
+432,"['india', 'company']",1090.0
+433,"['week', 'office', 'joe', 'biden', 'warning', 'beijing']",2175.0
+434,"['britain', 'grooming', 'gang']",435.0
+435,"['israeli', 'official', 'alien']",2175.0
+436,"['bed', 'tokyo', 'olympics']",2370.0
+437,"['russia', 'satellite', 'cloud', 'space', 'junk']",3733.0
+438,"['taliban', 'deploy', 'suicide', 'squad', 'china', 'border']",5200.0
+439,"['sweden', 'quran', 'easter', 'weekend']",12983.0
+440,"['day', 'fighting', 'russia', 'ceasefire', 'aid', 'evacuation']",8633.0
+441,"['membership', 'ukraine']",8622.0
+442,"['wuhan', 'coronavirus', 'china', 'incubator', 'business']",1071.0
+443,"['standoff', 'india', 'china', 'naku', 'pass']",1068.0
+444,"['donald', 'trump', 'return', 'ohio']",2330.0
+445,"['gupta', 'brother', 'dubai']",55000.0
+446,"['taliban', 'body', 'crane', 'afghanistan', 'kidnapper']",3200.0
+447,"['russia', 'landing', 'odessa']",8522.0
+448,"['how', 'america', 'benefit', 'war']",2833.0
+449,"['ukraine', 'invasion', 'day', 'ukraine', 'leak', 'chernobyl', 'imminent']",8500.0
+450,"['freedom', 'convoy', 'protests', 'trudeau', 'upset', 'hindus']",6375.0
+451,"['coronavirus', 'disease', 'china']",1060.0
+452,"['pakistan', 'ayaz', 'sadiq', 'truth', 'commander', 'abhinandan', 'varthaman', 'release']",2117.0
+453,"['ukraine', 'direct', 'putin', 'hint', 'response', 'nato', 'attack']",6342.0
+454,"['pak', 'cafe', 'owner', 'manager']",2114.0
+455,"['china', 'debt', 'bomb']",3162.0
+456,"['trump', 'beijing', 'paper', 'bill', 'china']",1054.0
+457,"['saudi', 'arabia']",8433.0
+458,"['putin', 'war', 'era', 'power', 'politics']",8422.0
+459,"['invasion', 'ukraine']",8422.0
+460,"['putin', 'france', 'macron', 'putin', 'ukraine', 'worst']",8411.0
+461,"['americans', 'india', 'wuhan', 'coronavirus']",1051.0
+462,"['story', 'bomb', 'hit', 'isis', 'cave']",419.0
+463,"['russia', 'label', 'journalist', 'sex', 'object', 'putin']",3146.0
+464,"['india', 'missile', 'pakistan', 'seek', 'joint', 'probe']",8367.0
+465,"['china', 'xinjiang']",2089.0
+466,"['jinping', 'overplays', 'hand', 'india', 'standoff', 'grip', 'power', 'home']",2086.0
+467,"['china', 'information', 'war']",1042.0
+468,"['european', 'union', 'sanction', 'russia', 'oil']",25000.0
+469,"['company', 'russian', 'gas', 'rouble']",24933.0
+470,"['china', 'coronavirus', 'outbreak', 'covid']",1038.0
+471,"['threatens', 'india', 'muslim', 'nation', 'silent']",53357.0
+472,"['wuhan', 'coronavirus', 'blood', 'group']",1033.0
+473,"['china', 'million', 'maldives', 'india', 'step', 'help']",2067.0
+474,"['how', 'vladimir', 'putin']",8267.0
+475,"['covid', 'fruit', 'china', 'supermarket']",4960.0
+476,"['china', 'tibetan', 'structure']",4953.0
+477,"['wang', 'india']",12367.0
+478,"['wuhan', 'virus']",4947.0
+479,"['greta', 'thunberg', 'activist', 'imposter']",1029.0
+480,"['food', 'crisis', 'sri', 'lanka', 'debt', 'mount']",2741.0
+481,"['wuhan', 'lab', 'database', 'virus', 'sample', 'offline']",2050.0
+482,"['embassy', 'meltdown', 'report']",4094.0
+483,"['russia', 'sanction', 'west', 'invasion', 'ukraine']",8178.0
+484,"['activist', 'rip', 'nato', 'leadership']",8156.0
+485,"['president', 'president', 'putin', 'tension', 'finland', 'nato', 'bid']",24367.0
+486,"['wuhan', 'coronavirus', 'new', 'china', 'pay']",1014.0
+487,"['global', 'summit', 'decoding', 'china', 'wall', 'debt', 'economic', 'distancing', 'session', 'one']",2028.0
+488,"['business', 'body', 'positivity']",2028.0
+489,"['nuclear', 'war', 'threat', 'people', 'potassium', 'iodide']",8056.0
+490,"['ukraine', 'russia', 'crisis', 'putin', 'message', 'nato']",6025.0
+491,"['russia', 'delivery', 'china']",1997.0
+492,"['hungary', 'gas', 'ruble', 'energy', 'crisis', 'europe']",11917.0
+493,"['saudi', 'arabia', 'pakistan', 'billion']",1983.0
+494,"['central', 'asia', 'new', 'global', 'turf', 'war']",4733.0
+495,"['hong', 'kong', 'container', 'body']",7878.0
+496,"['did', 'putin', 'assassination', 'attempt']",33762.0
+497,"['sweden', 'riots', 'hundreds', 'protest', 'activity']",1961.0
+498,"['end', 'date']",981.0
+499,"['jinping', 'covid', 'probe']",979.0
+500,"['moment', 'boeing']",7822.0
+501,"['russians', 'delegation', 'hold', 'talk', 'belarus', 'international', 'headlines']",7800.0
+502,"['commission', 'sanction', 'india']",23367.0
+503,"['russia', 'fighter', 'ukraine', 'russiaukraine', 'conflict']",7767.0
+504,"['warplane', 'taiwan', 'defence', 'zone', 'taiwan', 'airspace', 'wiion']",1939.0
+505,"['brazil', 'president', 'covid', 'biological', 'warfare']",1939.0
+506,"['conflict', 'area', 'kyiv', 'report', 'massive', 'missile', 'strike']",7756.0
+507,"['war', 'crime', 'syria', 'civilian']",3319.0
+508,"['zelensky', 'nato', 'zone']",7744.0
+509,"['nirmala', 'sitharaman', 'union', 'budget', 'indian', 'budget', 'business']",1936.0
+510,"['china', 'holy', 'book', 'bible', 'quran']",968.0
+511,"['nato', 'membership', 'president', 'volodymyr', 'zelensky']",7733.0
+512,"['pak', 'use', 'jet', 'india']",644.0
+513,"['boris', 'johnson', 'vroom', 'brah', 'brah']",3856.0
+514,"['china', 'debt', 'trap', 'karachi', 'port']",2888.0
+515,"['cds', 'gen', 'bipin', 'rawat', 'crash', 'body', 'breaking']",3850.0
+516,"['pilot', 'america']",4613.0
+517,"['mercenaries', 'zelensky']",7656.0
+518,"['conflict', 'force', 'kyiv', 'zelensky']",7656.0
+519,"['russia', 'footage', 'novotroitske', 'village', 'convoy', 'vehicle']",7633.0
+520,"['putin', 'silence', 'food', 'crisis', 'west', 'food', 'crisis']",49071.0
+521,"['sergei', 'lavrov', 'india', 'visit', 'minister', 'sergei', 'lavrov', 'eam', 'jaishankar']",11450.0
+522,"['russia', 'ukraine', 'europe', 'syria', 'will', 'mercenaries', 'zelensky']",7633.0
+523,"['jinping', 'file', 'china']",3811.0
+524,"['spain', 'return', 'test', 'kit', 'china', 'spain', 'coronavirus']",951.0
+525,"['scientist', 'virus', 'study']",1903.0
+526,"['new', 'wuhan', 'virus', 'variant', 'india']",1900.0
+527,"['china', 'country']",1900.0
+528,"['china', 'thousand', 'troop', 'india', 'border']",2073.0
+529,"['conflict', 'troop', 'ukraine', 'kharkiv', 'city']",7589.0
+530,"['china', 'people']",7589.0
+531,"['heavy', 'bombing', 'kyiv', 'ukraine', 'missile', 'invasion']",7578.0
+532,"['india', 'example', 'vaccine', 'maitri']",1894.0
+533,"['car', 'gun', 'kyiv', 'shop', 'ukrainians', 'edge']",7567.0
+534,"['nato', 'eastern', 'flank', 'defence', 'troop', 'romania', 'invasion']",7556.0
+535,"['germany', 'next', 'china', 'trap']",1886.0
+536,"['ukraine', 'direct', 'indians', 'ukraine', 'students']",5650.0
+537,"['pakistan', 'cash', 'month']",32286.0
+538,"['baby', 'dinosaur']",3761.0
+539,"['day', 'ukraine', 'war', 'russiaukraine', 'conflict']",7511.0
+540,"['taliban', 'afghan', 'commandos']",2048.0
+541,"['exodus', 'north', 'korea']",1878.0
+542,"['outcry', 'pak', 'foreign', 'minister', 'qureshi', 'insult', 'saudi', 'envoy']",4500.0
+543,"['president', 'vladimir', 'putin', 'ready', 'negotiation', 'kyiv']",7489.0
+544,"['missile', 'system', 'poland', 'threat', 'area']",7489.0
+545,"['joe', 'biden', 'mission', 'oil', 'price']",7456.0
+546,"['donald', 'trump', 'who', 'bias', 'china', 'funding']",931.0
+547,"['nato', 'movement', 'force', 'ukraine', 'conflict']",5583.0
+548,"['does', 'vladimir', 'putin', 'parkinson']",1858.0
+549,"['afghanistan', 'show', 'taliban', 'force', 'kabul']",3181.0
+550,"['imran', 'khan', 'record', 'twitter']",11117.0
+551,"['shoes', 'blood', 'sole']",1853.0
+552,"['sweden', 'woman', 'prime', 'minister', 'hour', 'office']",3706.0
+553,"['india', 'dialogue']",11100.0
+554,"['republicans', 'democrats', 'law', 'china']",3694.0
+555,"['crisis', 'india']",1844.0
+556,"['chinese', 'practice', 'taiwan']",22200.0
+557,"['indonesia', 'export', 'oil']",22100.0
+558,"['hamas', 'israel', 'killing', 'palestinians']",11000.0
+559,"['sri', 'lanka', 'crisis', 'exam', 'paper', 'embassy']",7333.0
+560,"['putin', 'west', 'zone', 'ukraine', 'invasion']",7333.0
+561,"['tajikistan', 'ashraf', 'ghani', 'flight', 'land', 'ghani', 'oman']",2197.0
+562,"['situation', 'india', 'pakistan', 'trump', 'pulwama', 'attack']",610.0
+563,"['coronavirus', 'company', 'china', 'india']",915.0
+564,"['conflict', 'nato', 'response', 'force', 'russia']",7311.0
+565,"['orders', 'foreign', 'students']",1828.0
+566,"['trump', 'threat', 'india', 'president', 'term']",914.0
+567,"['pakistanis', 'saudi', 'oil', 'tap']",1819.0
+568,"['president', 'ashraf', 'ghani', 'afghanistan', 'taliban', 'control', 'kabul']",2183.0
+569,"['china', 'war', 'taiwan', 'china', 'gray', 'zone', 'warfare']",3119.0
+570,"['jinping', 'genocide', 'uighurs']",3639.0
+571,"['india', 'china', 'trade']",1814.0
+572,"['russia', 'nuclear', 'deterrence', 'force', 'alert', 'invasion', 'ukraine']",7233.0
+573,"['europe', 'energy', 'supply', 'russia']",7222.0
+574,"['official', 'kyiv', 'seige']",7211.0
+575,"['wuhan', 'death', 'toll', 'coronavirus', 'outbreak']",901.0
+576,"['will', 'rich', 'countries', 'pandemic']",4327.0
+577,"['samoa', 'leader', 'cancel', 'chinabacked', 'port']",1800.0
+578,"['behaviour', 'police']",1794.0
+579,"['france', 'germany', 'arm', 'embargo', 'weapons', 'russia', 'embargo', 'arm', 'shipment']",10750.0
+580,"['conflict', 'gaza', 'death', 'toll', 'israelis', 'hamas']",1789.0
+581,['metaverse'],4293.0
+582,['pandemic'],1783.0
+583,"['president', 'biden', 'house', 'delaware', 'plane', 'breach', 'air', 'space']",45857.0
+584,"['nature', 'touch', 'india', 'coronavirus', 'lockdown']",892.0
+585,"['china', 'power', 'grab']",890.0
+586,"['entrepreneur', 'billion', 'invention']",4260.0
+587,"['taliban', 'control', 'majority', 'area', 'afghanistan', 'kabul', 'updates']",2127.0
+588,"['antichina', 'sentiment', 'galwan', 'provocation']",885.0
+589,"['capital', 'kyiv', 'fortress', 'family', 'troop', 'invasion', 'ukraine']",7078.0
+590,"['islamic', 'state', 'china', 'hit', 'list']",2654.0
+591,"['china', 'country']",3033.0
+592,"['tensions', 'korean', 'peninsula', 'north', 'korea', 'rocket', 'launcher']",7056.0
+593,"['urge', 'people', 'resistance', 'russia', 'column', 'kyiv']",7056.0
+594,"['youtube', 'big', 'win', 'reportage']",10567.0
+595,"['effect', 'lockdown', 'earth', 'ozone', 'layer', 'global', 'lockdown']",879.0
+596,"['riots', 'sweden']",10550.0
+597,"['china', 'flood', 'people']",1756.0
+598,"['india', 'farm', 'reform']",3010.0
+599,"['joe', 'biden', 'good', 'india']",1756.0
+600,"['taliban', 'hundred', 'fighter', 'panjshir', 'valley', 'afghanistan']",2107.0
+601,"['bid', 'clash', 'ukraine', 'mull', 'hotline', 'force']",7022.0
+602,"['china', 'wuhan', 'virus', 'day', 'ukraine', 'war']",7011.0
+603,"['pakistan', 'war']",30095.0
+604,"['armed', 'taliban', 'fighter', 'city', 'qalat', 'afghanistan']",2103.0
+605,"['putin', 'sorry']",21033.0
+606,['india'],1753.0
+607,"['govt', 'afghanistan', 'collapse', 'taliban', 'control', 'kabul', 'afghanistan', 'ashraf', 'ghani']",2103.0
+608,"['missile', 'system', 'saudi', 'arabia', 'updates']",2337.0
+609,"['taliban', 'girl', 'fighter', 'wife']",1912.0
+610,"['day', 'invasion', 'ukraine', 'russia']",7000.0
+611,"['sanction', 'china', 'minority', 'travel', 'ban', 'act']",7000.0
+612,"['india', 'validation', 'west']",872.0
+613,"['report', 'think', 'tank', 'west', 'import', 'oil', 'russia', 'attack', 'ukraine']",20933.0
+614,"['india', 'exercise', 'right', 'general', 'assembly', 'usa', 'direct']",2617.0
+615,"['india', 'development', 'diplomacy', 'china', 'debt', 'trap']",1891.0
+616,"['global', 'covid', 'case']",6933.0
+617,"['amrullah', 'saleh', 'face', 'resistance']",2080.0
+618,"['strange', 'radio', 'wave', 'heart', 'milky', 'way']",2596.0
+619,"['twitter', 'ban', 'vaccine', 'scientist', 'account', 'misinformation']",4147.0
+620,"['currency', 'rouble', 'rebound']",10350.0
+621,"['norovirus', 'outbreak', 'wuhan', 'virus', 'resurgence']",1882.0
+622,"['blue', 'helmet', 'congo', 'force', 'heart']",431.0
+623,"['broadcast', 'taliban', 'responsibility', 'afghan', 'afghanistan']",2063.0
+624,"['ties', 'washington', 'beijing', 'firm', 'china']",858.0
+625,"['bolstering', 'ukraine', 'defence', 'attack', 'australia', 'aid']",6867.0
+626,"['philippines', 'india', 'brahmos', 'missile']",4120.0
+627,"['ukraine', 'india', 'reaction']",6867.0
+628,"['wuhan', 'coronavirus', 'china', 'fact']",857.0
+629,"['russiaukraine', 'conflict']",1711.0
+630,"['russia', 'biolabs', 'ukraine']",6844.0
+631,"['weapon', 'taliban', 'hand']",2050.0
+632,"['air', 'india', 'tata', 'group', 'crore']",2562.0
+633,"['india', 'freedom', 'report']",43786.0
+634,"['russia', 'sanction', 'president', 'joe', 'biden']",6800.0
+635,"['disowns', 'lab', 'coronavirus', 'conspiracy']",849.0
+636,"['kim', 'jong', 'weight', 'loss', 'speculation']",1697.0
+637,"['florida', 'law', 'firm', 'china', 'coronavirus']",849.0
+638,"['plus', 'killing', 'money', 'business', 'private', 'armies']",4073.0
+639,"['nepotism', 'debate', 'reignites', 'bollywood']",847.0
+640,"['china', 'time', 'bomb', 'will', 'china', 'crisis']",2256.0
+641,['era'],1692.0
+642,"['taliban', 'push', 'panjshir', 'afghanistan']",2256.0
+643,"['china', 'warns', 'virus']",1689.0
+644,"['gun', 'terror', 'america']",28905.0
+645,"['death', 'citizens', 'china', 'halt', 'belt', 'road', 'project']",1839.0
+646,"['videos', 'horror', 'china']",4047.0
+647,"['pakistan', 'prime', 'minister']",10117.0
+648,"['india', 'bilawal', 'bhutto', 'kashmir', 'issue']",20200.0
+649,"['uae', 'drone', 'attack', 'houthis', 'warn', 'attack', 'united', 'arab', 'emirates', 'pledge']",4040.0
+650,"['mystery', 'havana', 'syndrome']",2013.0
+651,"['tense', 'faceoff', 'war', 'game', 'sea', 'japan', 'navy', 'destroyer', 'naval', 'exercise']",2512.0
+652,"['turkey', 'sweden', 'finland', 'nato', 'bid', 'international']",20100.0
+653,"['putin', 'set', 'condition', 'ceasefire', 'russia', 'column', 'kyiv']",6700.0
+654,"['china', 'dam', 'ticking', 'time', 'bomb', 'china', 'flood', 'three', 'gorges', 'dam']",1672.0
+655,"['china', 'pakistan', 'citizen', 'terrorist']",1672.0
+656,"['water', 'electricity', 'shortage', 'protest', 'thousand', 'road', 'gwadar']",3339.0
+657,"['pod', 'ensures', 'death', 'minute']",3333.0
+658,"['wideangle', 'india', 'war']",3339.0
+659,"['warship', 'beijing', 'south', 'china', 'sea']",1818.0
+660,"['president', 'joe', 'biden', 'oil', 'import', 'conflict']",6656.0
+661,"['paris', 'attackers', 'family', 'proud', 'son', 'ali', 'hassan', 'pakistan']",1664.0
+662,"['greece', 'role', 'model', 'covid', 'coronavirus']",832.0
+663,"['speculations', 'kim', 'jongun', 'body']",831.0
+664,"['coronavirus', 'china', 'firestorm']",831.0
+665,"['ground', 'report', 'overtime', 'worker', 'japan']",28571.0
+666,"['aircraft', 'enter', 'taiwanese', 'airspace']",28476.0
+667,"['ukraine', 'attack', 'day', 'russian', 'kill', 'student']",6622.0
+668,"['leader', 'modi', 'initiative', 'australia', 'modi', 'call', 'linkup']",828.0
+669,"['japan', 'man', 'joker', 'passenger', 'tokyo', 'train']",2833.0
+670,"['russia', 'warns', 'retaliation', 'west', 'accusation', 'blackmail']",19833.0
+671,"['troop', 'poland', 'germany', 'bomber', 'belarus']",4950.0
+672,"['conflict', 'state', 'cut', 'putin', 'international']",6600.0
+673,"['united', 'states', 'woman', 'train', 'septa', 'rider']",2475.0
+674,"['afghan', 'woman', 'officer', 'india']",412.0
+675,"['satellite', 'buildup', 'ukraine']",4942.0
+676,"['ukraine', 'diplomacy', 'shift', 'india']",9867.0
+677,"['researcher', 'cause', 'blood', 'event', 'astrazeneca', 'covid']",1639.0
+678,"['wave', 'india', 'month']",1967.0
+679,"['how', 'system', 'work']",9833.0
+680,"['investor', 'stock']",9817.0
+681,"['china', 'waste', 'south', 'china', 'sea']",1785.0
+682,"['girl', 'boris', 'johnson', 'partygate']",3927.0
+683,"['halal', 'kosher', 'slaughter', 'greece']",2805.0
+684,"['modi', 'coronavirus', 'pandemic', 'covid']",817.0
+685,"['russia', 'sanction', 'president', 'joe', 'biden']",6522.0
+686,"['viral', 'video', 'pak']",815.0
+687,"['conflict', 'russia', 'kinzhal', 'dagger', 'missile', 'black', 'sea']",6522.0
+688,"['epidemic', 'outbreak', 'china']",1631.0
+689,"['pentagon', 'russia', 'ukraine', 'today', 'russia', 'plan', 'bidenputin', 'summit']",4892.0
+690,"['covid', 'wuhan', 'lab', 'november']",1631.0
+691,"['thailand', 'king', 'rama', 'king', 'wife', 'mistress']",1625.0
+692,"['new', 'york', 'times', 'india', 'afghan', 'hindus', 'sikhs']",1950.0
+693,"['underwater', 'volcano', 'erupts', 'pacific', 'island', 'nation', 'tonga']",3893.0
+694,"['air', 'strike', 'iraq', 'syria', 'militia', 'group']",1767.0
+695,"['museum', 'artefact']",3233.0
+696,"['ukraine', 'troop', 'capital', 'kyiv', 'helicopter']",6456.0
+697,"['joe', 'biden', 'jinping', 'ukraine', 'war']",6456.0
+698,"['afghanistan', 'taliban', 'judge', 'jury', 'executioner']",2412.0
+699,"['russia', 'pitch', 'ukraine', 'president', 'belarus', 'talk']",6422.0
+700,"['tensions', 'rise', 'korean', 'peninsula', 'north', 'korea', 'issue', 'nuclear', 'threat']",9633.0
+701,"['wuhan', 'coronavirus', 'how', 'china', 'war']",801.0
+702,"['nato', 'troop', 'ukraine', 'russia']",4808.0
+703,"['economic', 'turmoil', 'sri', 'lanka', 'oic', 'leader', 'pakistan']",6411.0
+704,"['president', 'jinping', 'message', 'mongolian']",1603.0
+705,"['afghanistan', 'slain', 'commander', 'ahmad', 'shah', 'massoud', 'tomb']",2133.0
+706,"['justin', 'trudeau', 'mum', 'trucker', 'protest', 'ottawa']",4792.0
+707,"['uae', 'tax']",4792.0
+708,"['salima', 'mazari', 'arm', 'taliban', 'afghanistan']",1913.0
+709,"['crisis', 'putin', 'russians', 'sanction']",6378.0
+710,"['demonstrators', 'street', 'nato', 'demand', 'ukraineminsk', 'treaty']",4783.0
+711,"['wuhan', 'virus', 'pandemic', 'audio', 'featuring', 'official', 'china', 'lapse']",1592.0
+712,"['india', 'batch', 'missile']",1592.0
+713,"['conflict', 'ukraine', 'status', 'russia', 'zelensky']",6367.0
+714,"['hundreds', 'israeli', 'alaqsa', 'mosque']",1589.0
+715,"['russia', 'announces', 'operation', 'ukraine', 'tension', 'climax']",6356.0
+716,"['pilot', 'helicopter', 'city', 'palmyra']",317.0
+717,"['israel', 'vaccine']",1727.0
+718,"['china', 'batwoman']",792.0
+719,"['pakistan', 'imran', 'khan', 'jet', 'game']",6333.0
+720,"['bouncing', 'oil', 'price']",6322.0
+721,"['donbas', 'rebel', 'republic', 'russia']",9483.0
+722,"['meet', 'grace', 'healthcare', 'covid', 'celebrity', 'humanoid', 'robot', 'sophia', 'robot', 'nurse']",1575.0
+723,"['upadhyay', 'zelensky', 'congress', 'weapon']",6300.0
+724,"['will', 'russia', 'invade', 'finland']",18900.0
+725,"['pakistan', 'minister', 'sanctionpakistan', 'trend']",1890.0
+726,"['pakistan', 'bailout', 'saudi', 'arabia']",18867.0
+727,"['iran', 'muscle', 'azerbaijan', 'border']",2358.0
+728,"['wuhan', 'virus', 'lab', 'virologist']",1567.0
+729,"['unrest', 'riots', 'south', 'africa']",1709.0
+730,"['aircraft', 'strike', 'ukraine', 'antonov']",6256.0
+731,"['russia', 'food', 'weapon', 'food']",18833.0
+732,"['suez', 'canal', 'blockage', 'hour']",1558.0
+733,"['ukraine', 'attack', 'russia', 'attack', 'kyiv', 'region', 'russiaukraine', 'conflict']",6233.0
+734,"['kabul', 'hamid', 'karzai', 'international', 'airport', 'hkia', 'evacuation', 'afghanistan', 'taliban']",1870.0
+735,"['conflict', 'image', 'force', 'capital', 'kyiv']",6233.0
+736,"['russia', 'ukraine', 'invasion', 'ukrainians']",6222.0
+737,"['road', 'troop']",6200.0
+738,"['india', 'security', 'council']",1550.0
+739,"['global', 'summit', 'deal', 'sand', 'west', 'asiathe', 'postpandemic', 'order']",1547.0
+740,"['bank', 'payment', 'card', 'atms', 'sanctions', 'toll', 'russians']",6178.0
+741,"['warship', 'alaska']",2059.0
+742,"['did', 'america', 'block', 'transfer', 'fighter', 'jet']",6167.0
+743,"['disaster', 'william', 'kate', 'caribbean']",9250.0
+744,"['germany', 'warship', 'south', 'china', 'sea']",1847.0
+745,"['ukraine', 'attack', 'day', 'intense', 'kharkiv', 'putin', 'nuke']",6156.0
+746,"['canada', 'freedom', 'convoy', 'strength']",4608.0
+747,"['ship', 'south', 'china', 'sea', 'tension', 'china']",1536.0
+748,"['putin', 'india', 'corner']",3072.0
+749,"['china', 'batwoman', 'resurfaces', 'break', 'silence', 'coronavirus']",767.0
+750,"['pulse', 'weapon', 'emps']",3089.0
+751,"['india', 'enters', 'china', 'sea', 'theatre', 'brahmos', 'vietnam']",44077.0
+752,"['clamor', 'philippines', 'manila']",1533.0
+753,"['jaishankar', 'criticism']",1533.0
+754,"['beijing', 'evergrande', 'investor', 'cash']",2624.0
+755,"['india', 'kashmir', 'era', 'tourism', 'boom', 'army', 'kashmir', 'tourism']",18367.0
+756,"['india', 'message', 'china', 'business', 'beijing']",1531.0
+757,"['vice', 'president', 'kamala', 'harris', 'warsaw', 'missile', 'system', 'poland']",6111.0
+758,"['donald', 'trump', 'vladimir', 'putin', 'favor', 'international', 'top', 'headlines']",9167.0
+759,"['will', 'china', 'habit', 'wuhan', 'coronavirus']",764.0
+760,"['china', 'mystery', 'seed', 'country']",1528.0
+761,"['conflict', 'govt', 'launch', 'mission', 'troop']",6111.0
+762,"['food', 'future']",2619.0
+763,"['saudi', 'arabian', 'man', 'crash', 'car', 'gate', 'mecca', 'grand', 'mosque']",1525.0
+764,"['crisis', 'attack', 'russia', 'consequence', 'joe', 'biden']",6100.0
+765,"['robot', 'baby', 'xenobots']",3050.0
+766,"['aircraft', 'qatar', 'team', 'land', 'kabul', 'exits', 'afghanistan']",2030.0
+767,"['champions', 'trophy', 'final', 'pakistan', 'stun', 'india', 'review', 'sports']",304.0
+768,"['china', 'covid', 'policy', 'backfire', 'record', 'surge', 'covid', 'case', 'shanghai']",9117.0
+769,"['pak', 'taliban', 'kashmir']",2026.0
+770,"['delta', 'variant', 'china', 'virus', 'defence']",1817.0
+771,"['berlin', 'gas', 'supply', 'euros', 'change', 'putin', 'tell', 'scholz']",9067.0
+772,"['who', 'drug', 'trial', 'covid', 'coronavirus', 'vaccine']",756.0
+773,"['intel', 'report', 'wagner', 'mercenary', 'kyiv', 'order', 'president', 'zelensky']",6044.0
+774,['trends'],1511.0
+775,"['china', 'campaign', 'taiwan']",2267.0
+776,"['uniform', 'civil', 'code', 'india', 'ready']",39000.0
+777,"['india', 'vaccine', 'producer']",1511.0
+778,"['russia', 'flaunt', 'victory', 'day']",18067.0
+779,"['invasion', 'how', 'china']",6022.0
+780,"['france', 'citizen', 'pakistan']",1503.0
+781,"['china', 'india', 'weapon', 'weapon']",3011.0
+782,"['edition', 'evergrande', 'payment', 'china', 'crisis']",2254.0
+783,"['swedenchina', 'tie', 'hostile']",750.0
+784,"['ready', 'ttp', 'pak', 'govt', 'deal']",3000.0
+785,"['china', 'strategy', 'taiwan']",4500.0
+786,"['japan', 'planning', 'base', 'taiwan', 'attack', 'china']",3600.0
+787,"['iran', 'alcohol', 'covid', 'cure', 'coronavirus', 'alert']",750.0
+788,"['france', 'lyon', 'attacker', 'flees']",1500.0
+789,"['trump', 'strike', 'syria']",299.0
+790,"['war', 'wars', 'tensions', 'iran', 'israel', 'intensifies']",5989.0
+791,"['turkey', 'water', 'supply', 'embassy']",1489.0
+792,"['israel', 'hamas']",1489.0
+793,"['planning', 'afghanistan']",1787.0
+794,"['conflict', 'president', 'zelensky', 'modi', 'support']",5956.0
+795,"['conflict', 'kharkiv', 'ukraine', 'northeast', 'battleground']",5956.0
+796,"['bill', 'gates', 'microsoft', 'probe', 'affair', 'staffer']",1486.0
+797,"['macron', 'flag']",2543.0
+798,"['citizen', 'jinping', 'rule']",1780.0
+799,"['taiwan', 'support']",1483.0
+800,"['kuleba', 'russia', 'invasion', 'ukraine', 'shelling']",5922.0
+801,"['joe', 'biden', 'putin', 'war', 'criminal']",5922.0
+802,"['emergency', 'unsc', 'meeting', 'ukraine', 'security', 'council', 'resolution', 'russia']",5922.0
+803,"['volodymyr', 'zelensky', 'strategy']",5911.0
+804,"['china', 'russia']",5911.0
+805,"['defence', 'china']",1475.0
+806,"['new', 'iron', 'curtain', 'descends', 'russia']",5889.0
+807,"['conflict', 'president', 'speaks', 'prez', 'vladimir', 'putin']",17667.0
+808,"['dispatch', 'talk', 'chushul', 'indiachina', 'standoff']",1472.0
+809,"['agent', 'iran', 'scientist', 'mohsen', 'fakhrizadeh', 'report']",1963.0
+810,"['official', 'china', 'wuhan', 'coverup']",5878.0
+811,"['biden', 'rating', 'tank', 'russia', 'tension']",5878.0
+812,"['russia', 'spy', 'chief', 'india']",1959.0
+813,"['china', 'muscle', 'south', 'china', 'sea']",733.0
+814,"['citizen', 'baby']",5867.0
+815,"['covid', 'wuhan', 'lab', 'wuhan', 'virology', 'lab', 'scanner', 'coronavirus', 'pandemic']",733.0
+816,"['indiachina', 'standoff', 'dragon', 'retreat']",733.0
+817,"['people', 'kabul', 'airport', 'blast', 'day', 'august', 'deadline']",1956.0
+818,"['limeng', 'yan', 'upadhyay', 'wuhan', 'whistleblower']",1464.0
+819,"['conflict', 'battle', 'kharkiv', 'rage', 'rocket', 'area']",5856.0
+820,"['ambani', 'day', 'asia', 'man']",732.0
+821,"['conflict', 'kalibr', 'cruise', 'missile', 'russia']",5856.0
+822,"['taiwan', 'china', 'assault', 'taiwanchina', 'standoff']",1461.0
+823,"['philippines', 'india', 'brahmos', 'missile']",1461.0
+824,"['china', 'aggression', 'move']",731.0
+825,"['new', 'wuhan', 'virus', 'ring', 'alarm', 'bell']",2922.0
+826,"['embarrassment', 'pakistan', 'japan', 'pak', 'visit']",487.0
+827,"['india', 'role', 'framework']",1461.0
+828,"['china', 'rocket', 'launcher', 'india', 'border']",2500.0
+829,"['human', 'trash', 'mars']",92000.0
+830,"['zelenskyy', 'warns', 'attack', 'nato', 'soil', 'airstrike']",5833.0
+831,"['quad', 'response', 'invasion', 'ukraine', 'india', 'kyiv', 'quad', 'agenda']",5822.0
+832,"['conflict', 'support', 'pours', 'india', 'germany', 'others']",4358.0
+833,"['volodymyr', 'zelensky', 'kyiv', 'ukraine', 'president', 'clarifies', 'russia', 'claim', 'country']",5811.0
+834,"['vatican', 'office', 'asset']",1453.0
+835,"['ukraine', 'direct', 'putin', 'join', 'force', 'nato', 'china', 'games', 'kick']",4350.0
+836,"['troop', 'withdrawal', 'civilian']",1933.0
+837,"['independence', 'day', 'shame', 'pakistan']",1740.0
+838,"['china', 'provokes', 'skirmish', 'sikkim']",725.0
+839,"['singer', 'sidhu', 'moose', 'wala', 'originals']",24857.0
+840,"['conflict', 'kyiv', 'heavy', 'ukraine', 'international']",5789.0
+841,"['afghanistan', 'turmoil', 'canada', 'troop', 'kabul']",1737.0
+842,"['nasa', 'spacecraft', 'sun']",2894.0
+843,"['right', 'violation', 'home']",8667.0
+844,"['astroworld', 'festival', 'tragedy', 'student', 'bharti', 'shahani', 'brain', 'travis', 'scott']",2471.0
+845,"['imran', 'khan', 'salary']",721.0
+846,"['nestle', 'longlist', 'food', 'product']",1442.0
+847,"['china', 'volcano', 'unrest', 'video', 'fate', 'critic']",1442.0
+848,"['force', 'advance', 'towards', 'kyiv', 'direction']",5767.0
+849,"['great', 'fall', 'china', 'wideangle']",3453.0
+850,"['trade', 'rupees']",89500.0
+851,"['company', 'china']",1439.0
+852,"['govt', 'amidst', 'battle', 'privacy', 'whatsapp', 'user', 'india']",1439.0
+853,"['china', 'explanation', 'cop']",2462.0
+854,"['russia', 'range', 'missile', 'system', 'india']",2462.0
+855,"['russia', 'mig', 'sukhoi', 'sumki', 'fighter', 'jet', 'india']",718.0
+856,"['country', 'equality']",1433.0
+857,"['desperate', 'pakistan', 'record', 'interest']",4300.0
+858,"['russia', 'ukraine', 'war', 'sanction', 'canadians', 'trudeau']",5733.0
+859,"['afghan', 'force', 'taliban', 'clash', 'herat', 'afghanistan', 'ground', 'report']",1717.0
+860,"['china', 'omicron', 'hotspot']",3433.0
+861,"['meet', 'boji', 'dog', 'commuter', 'ferry', 'bus', 'metro', 'train', 'istanbul']",2142.0
+862,"['warship', 'saudi', 'arabia']",17133.0
+863,"['expert', 'warns', 'covid', 'wave', 'england', 'coronavirus', 'pandemic']",1425.0
+864,"['coronavirus', 'india', 'kit', 'china']",711.0
+865,"['kim', 'jong', 'pic', 'spark', 'kim', 'jong', 'north', 'korea']",711.0
+866,"['stakeholders', 'country', 'china', 'pay', 'coronavirus']",711.0
+867,"['paper', 'hint', 'russia', 'collapse']",17067.0
+868,"['india', 'maritime', 'deal', 'sri', 'lanka']",8533.0
+869,"['pakistan', 'maryam', 'sharif', 'jibe', 'imran', 'khan', 'wife', 'jemima', 'goldsmith']",1552.0
+870,"['modi', 'cabinet', 'security', 'meet', 'crash', 'cds', 'bipin', 'rawat', 'chopper', 'crash']",2839.0
+871,"['medium', 'kremlin', 'talk', 'ukraine', 'belarus', 'russiaukraine', 'conflict']",5678.0
+872,"['vaccine', 'scrutiny']",1417.0
+873,"['china', 'seven', 'sins', 'video']",354.0
+874,"['putin', 'fighter', 'ukraine']",5667.0
+875,"['bangladesh', 'knock', 'new', 'zealand', 'out', 'review']",283.0
+876,"['imran', 'khan', 'smithed', 'pak', 'army', 'chief']",8500.0
+877,"['suez', 'canal', 'pass', 'suez', 'canal']",1414.0
+878,"['nyt', 'reader', 'strike']",8483.0
+879,"['upadhyay', 'international', 'politics', 'india', 'protest']",1414.0
+880,"['sri', 'lanka', 'power', 'hour']",3393.0
+881,"['how', 'jinping', 'plan']",1411.0
+882,"['germany', 'nato', 'operation', 'lithuania', 'troop']",4233.0
+883,"['joke', 'that', 'pakistan', 'science', 'technology', 'minister']",706.0
+884,"['bangladesh', 'rohingya', 'refugee', 'facility', 'bhasan', 'char', 'island']",1411.0
+885,"['harry', 'meghan', 'interview', 'oprah', 'winfrey', 'meghan', 'child']",1411.0
+886,"['infection', 'hong', 'kong', 'wet', 'market']",2112.0
+887,"['ashraf', 'ghani', 'kabul', 'taliban', 'afghanistan']",1690.0
+888,"['indiachina', 'border', 'face']",704.0
+889,"['passengers', 'woman']",2112.0
+890,"['israel', 'strike', 'gaza', 'strip', 'response', 'attack']",8450.0
+891,"['india', 'relevance', 'reservation']",2414.0
+892,"['china', 'threat', 'taiwan', 'invasion']",36143.0
+893,"['iran', 'israel', 'clash', 'retaliatory', 'attack', 'war', 'west', 'asia', 'post']",1700.0
+894,"['thousands', 'putin', 'russia']",1406.0
+895,"['china', 'announces', 'sale', 'oil', 'reserve']",1870.0
+896,"['chopper', 'ladakh']",701.0
+897,"['united', 'states', 'philippines', 'joint', 'drill']",8417.0
+898,"['debt', 'time', 'bomb', 'china', 'hid']",2400.0
+899,"['plus', 'afghanistan']",1867.0
+900,"['stock', 'market']",5589.0
+901,"['coronavirus', 'impact', 'chinese', 'telecom', 'company']",699.0
+902,"['who', 'hypocrisy', 'naming', 'virus', 'variants']",1397.0
+903,"['china', 'kit', 'government', 'nepal', 'coronavirus']",699.0
+904,"['wuhan', 'coronavirus', 'china', 'criticism', 'italy', 'wuhan', 'coronavirus']",699.0
+905,"['women', 'army', 'battle', 'rape', 'assault']",2395.0
+906,"['antivaccination', 'protester', 'france', 'hundreds', 'protest', 'vaccine', 'mandate']",3353.0
+907,"['russia', 'navy', 'destroyer', 'standoff', 'sea', 'japan', 'word']",2096.0
+908,['recession'],56333.0
+909,"['exchief', 'outbreak', 'result', 'escape', 'virus', 'wuhan', 'lab']",697.0
+910,"['denmark', 'russia']",23905.0
+911,"['russia', 'action', 'debt', 'default', 'business']",8350.0
+912,"['ukraine', 'direct', 'elon', 'musk', 'support', 'truckers']",4175.0
+913,"['uproar', 'sri', 'lanka', 'chinese', 'project']",1389.0
+914,"['russia', 'help', 'fighter', 'ukraine', 'both', 'side', 'fighter', 'army']",5556.0
+915,"['corruption', 'jinping', 'family']",1389.0
+916,"['tanzania', 'kit', 'goat', 'sheep', 'covid']",692.0
+917,"['taliban', 'control', 'afghanistan', 'capital', 'kabul', 'ashraf', 'ghani']",1660.0
+918,"['macron', 'putin']",16600.0
+919,"['support', 'ukraine', 'nations', 'arm', 'ukraine']",5522.0
+920,"['china', 'food']",1381.0
+921,"['china', 'missile', 'south', 'china', 'sea', 'uschina']",1381.0
+922,"['north', 'korea', 'heat', 'united', 'states', 'president', 'joe', 'biden', 'bulletin']",1381.0
+923,"['russia', 'ukraine', 'kyiv', 'donbas']",8283.0
+924,"['bill', 'gates', 'islamabad']",4142.0
+925,"['myanmar', 'india', 'officer', 'parthasarthy', 'former', 'diplomat']",1378.0
+926,"['ukraine', 'war', 'west', 'ukraine', 'weapon', 'russia']",16533.0
+927,"['france', 'nation', 'boycott']",1375.0
+928,"['conflict', 'modi', 'president', 'putin', 'ceasefire']",5500.0
+929,"['russiaukraine', 'war', 'update', 'zelensky', 'nato']",5500.0
+930,"['tensions', 'war', 'imminent', 'wideangle']",3300.0
+931,"['goof', 'pakistan', 'minister', 'mics']",2062.0
+932,"['india', 'chabahar', 'railway', 'project']",1375.0
+933,"['force', 'kyiv', 'effort', 'capital']",5500.0
+934,"['president', 'vladimir', 'putin', 'west', 'culture']",8233.0
+935,"['strike', 'video', 'army', 'terror', 'camp', 'pok']",457.0
+936,"['trump', 'biden', 'crisis', 'afghanistan', 'taliban', 'kabul']",1647.0
+937,"['conflict', 'ukraine', 'soldier', 'civilian', 'updates']",5478.0
+938,"['diwali', 'life']",1369.0
+939,"['how', 'china', 'twitter']",682.0
+940,"['fungus', 'case', 'fungus', 'india']",1364.0
+941,"['joe', 'biden', 'saint']",1364.0
+942,"['how', 'india', 'threat']",1361.0
+943,"['inside', 'vladimir', 'putin', 'mind']",4075.0
+944,"['people', 'china', 'wuhan', 'lockdown']",679.0
+945,"['china', 'america', 'move', 'dragon']",1356.0
+946,"['fields', 'tree', 'batch', 'aid', 'arrives', 'tonga', 'climate']",3253.0
+947,"['people', 'kabul', 'airport', 'exodus', 'afghanistan', 'updates']",1627.0
+948,"['india', 'mastercard', 'ban']",1479.0
+949,"['deepfake', 'president', 'ukraine', 'war']",5411.0
+950,"['troop', 'clash', 'army', 'intelligence']",676.0
+951,"['china', 'economy', 'time', 'decade']",676.0
+952,"['china', 'coronavirus', 'outbreak']",676.0
+953,"['fall', 'panjshir', 'pakistan']",1804.0
+954,"['india', 'island', 'base', 'ocean']",1350.0
+955,"['weakness', 'people', 'liberation', 'army']",675.0
+956,"['russia', 'india', 'neutrality', 'ukraine']",8100.0
+957,"['nepal', 'sri', 'lanka', 'way']",16200.0
+958,"['turkiye', 'concern', 'finland', 'sweden', 'membership', 'nato', 'chief']",48600.0
+959,"['russia', 'vacuum', 'bomb', 'ukraine']",5378.0
+960,"['ukraine', 'direct', 'did', 'nato', 'betray', 'russia']",4033.0
+961,"['home', 'president', 'zelensky', 'russia', 'ukrainians', 'soldier', 'invasion']",5378.0
+962,"['ground', 'report', 'israel', 'rocket', 'strike', 'upadhyay']",1344.0
+963,"['pakistan', 'heading', 'towards', 'war', 'bailout', 'talk']",23095.0
+964,"['navic', 'india', 'navigation', 'system']",34714.0
+965,"['plus', 'saudi', 'arabia', 'iran', 'rivalry']",3227.0
+966,"['afghanistan', 'taliban', 'nrf', 'arm', 'panjshir', 'valley']",1785.0
+967,"['rule', 'kim', 'jong', 'north', 'korea']",3220.0
+968,"['man', 'citizenship']",335.0
+969,"['conflict', 'missile', 'oil', 'terminal', 'town', 'vasylkiv']",5344.0
+970,"['will', 'europe', 'russia', 'ukraine', 'invasion']",5333.0
+971,"['china', 'india', 'integrity']",667.0
+972,"['press', 'india', 'quad', 'link']",1331.0
+973,"['beirut', 'people', 'france', 'takeover', 'lebanon']",1331.0
+974,"['big', 'takeaway', 'india', 'state', 'election', 'result']",5322.0
+975,"['gaffes', 'hits', 'misses', 'decoding', 'biden', 'state', 'union', 'address']",5322.0
+976,"['chinese', 'investment']",664.0
+977,"['report', 'isis', 'attack', 'kabul', 'airport', 'blast']",1767.0
+978,"['congresswoman', 'ilhan', 'omar', 'pakistan']",7917.0
+979,"['power', 'diwali']",2262.0
+980,"['bomber', 'taliban', 'position', 'afghanistan', 'kunduz', 'sare', 'pul']",1583.0
+981,"['china', 'russia', 'friendship', 'west', 'standard', 'ukraine']",5278.0
+982,"['upadhyay', 'great', 'showdown', 'putin', 'navalny']",1317.0
+983,"['china', 'warplane', 'taiwan', 'air', 'defence', 'zone']",22571.0
+984,"['story', 'chinese', 'general', 'threatenes', 'taiwan', 'china', 'taiwan', 'face']",658.0
+985,"['interview', 'general', 'bipin', 'rawat']",1317.0
+986,"['tories', 'rishi', 'sunak', 'prime', 'minister']",3160.0
+987,"['disease', 'china']",1314.0
+988,"['gurmeet', 'ram', 'rahim', 'violence', 'panchkula']",329.0
+989,"['new', 'zealand', 'motion', 'pulwama']",438.0
+990,"['conflict', 'gazans', 'israeli', 'bombardment', 'car', 'cart']",1311.0

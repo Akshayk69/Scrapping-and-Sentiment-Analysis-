@@ -1,0 +1,2583 @@
+,Clean_text,Views_per_day
+0,"['sri', 'lanka', 'crisis', 'official', 'talk', 'aid', 'dispatch']",1100.0
+1,"['pakistan', 'loan', 'china', 'dispatch']",6900.0
+2,"['brics', 'summit', 'warns', 'tie', 'prez', 'putin', 'asia', 'push']",12000.0
+3,"['brics', 'summit', 'russia', 'tie', 'asia', 'international', 'dispatch']",16000.0
+4,"['jupiter', 'planet', 'research', 'originals']",2500.0
+5,"['brics', 'recovery', 'narendra', 'modi', 'brics', 'summit']",6400.0
+6,"['broadcast', 'russia', 'gas', 'europe', 'fed', 'chair', 'caution', 'recession']",9900.0
+7,"['united', 'kingdom', 'half', 'rail', 'network', 'scotland', 'wales', 'england']",5400.0
+8,"['brics', 'summit', 'beijing', 'meeting', 'brics', 'economy']",2700.0
+9,"['earthquake', 'countries', 'aid', 'death', 'toll', 'originals']",3300.0
+10,"['africa', 'rebellion', 'france', 'cold', 'war', 'brewing', 'sahel', 'west', 'africa']",6700.0
+11,"['army', 'vigil', 'loc', 'risk', 'infiltration', 'kashmir', 'border', 'report']",16000.0
+12,"['united', 'states', 'biden', 'suspension', 'tax', 'fuel']",3700.0
+13,"['digital', 'poverty', 'thing', 'originals']",2600.0
+14,"['pakistan', 'shehbaz', 'govt', 'imran', 'army', 'chief']",5600.0
+15,"['broadcast', 'russia', 'rogue', 'move', 'gas', 'international']",7400.0
+16,"['pakistan', 'negotiation', 'terror', 'group']",6100.0
+17,"['russia', 'europe', 'gas', 'supply', 'originals', 'international']",25000.0
+18,"['day', 'rail', 'strike', 'train', 'service', 'disruption', 'delay']",4900.0
+19,"['iea', 'issue', 'russia', 'europe', 'gas', 'supply', 'international']",99000.0
+20,"['iran', 'visit', 'talks', 'iran', 'deal', 'international']",22000.0
+21,"['johnson', 'verdict', 'railway', 'strike', 'influence', 'voter']",2100.0
+22,"['earthquake', 'taliban', 'help', 'nation', 'assistance']",6000.0
+23,"['delegation', 'cea', 'nageswaran', 'sri', 'lanka', 'talk', 'aid']",4700.0
+24,"['india', 'cup', 'contender', 'south', 'africa', 'originals', 'sports']",1900.0
+25,"['china', 'security', 'anxiety', 'india', 'australian', 'defence', 'minister']",6100.0
+26,"['israel', 'coalition', 'partner', 'netanyahu', 'comeback']",4700.0
+27,"['bulgaria', 'crisis', 'petkov', 'party', 'chance', 'government']",3600.0
+28,"['malta', 'abortion', 'ban', 'couple', 'transfer', 'international']",3400.0
+29,"['war', 'russia', 'kharkiv', 'eastern', 'donbas', 'soldier']",41000.0
+30,"['official', 'talk', 'aid', 'sri', 'lanka', 'international']",3900.0
+31,"['pandemic', 'rise', 'abortions', 'england', 'wales', 'international']",7300.0
+32,"['traces', 'polio', 'virus', 'london', 'sewer', 'international']",3600.0
+33,"['capitol', 'riot', 'extends', 'july', 'evidence', 'international']",2500.0
+34,"['brics', 'summit', 'modi', 'brics', 'recovery']",17000.0
+35,"['fed', 'jerome', 'powell', 'recession', 'possibility', 'international']",21000.0
+36,"['inflation', 'americans', 'price', 'hike', 'business', 'watch']",24000.0
+37,"['time', 'year', 'business', 'watch']",6900.0
+38,"['jurisdiction', 'right', 'court']",3700.0
+39,"['president', 'joe', 'biden', 'plan', 'fuel', 'price', 'international']",33000.0
+40,"['brics', 'summit', 'jinping', 'alliance', 'international']",216000.0
+41,"['policy', 'mental', 'health', 'climate', 'change', 'challenge']",4600.0
+42,"['climate', 'change', 'bangladesh', 'dead', 'northeast', 'india']",6500.0
+43,"['fineprint', 'freebies', 'influencers', 'doctor', 'tds']",10000.0
+44,"['mexico', 'water', 'supply', 'buckle', 'dams', 'country']",22000.0
+45,"['water', 'level', 'rome', 'river', 'tiber', 'remains', 'neronian', 'bridge', 'emerge']",15000.0
+46,"['bulgaria', 'crisis', 'govt', 'vote']",11000.0
+47,"['bar', 'robot', 'munich', 'shortage']",3500.0
+48,"['saudi', 'crown', 'prince', 'erdogan', 'talk', 'mbs', 'ankara']",10000.0
+49,"['afghanistan', 'earthquake', 'kill', 'india', 'pakistan', 'promise', 'assistance']",17000.0
+50,"['plant', 'tree', 'legacy', 'project', 'campaign', 'plant', 'tree']",2500.0
+51,"['fineprint', 'russia', 'eye', 'arctic', 'dominance', 'canada', 'catchup']",44000.0
+52,"['fineprint', 'chinese', 'health', 'tracker', 'surveillance', 'tool']",4500.0
+53,"['scientists', 'snow', 'blood', 'climate', 'change', 'climate', 'tracker']",12000.0
+54,"['saudi', 'crown', 'prince', 'meet', 'erdogan', 'turkey']",59000.0
+55,"['floods', 'china', 'province']",28000.0
+56,"['biocon', 'executive', 'regulator']",49000.0
+57,"['indiachina', 'trade', 'boom', 'border', 'aggression']",96000.0
+58,"['global', 'headlines', 'texas', 'school', 'pakistan', 'imf', 'deal']",3700.0
+59,"['surge', 'currency']",304000.0
+60,"['social', 'medium', 'influencers', 'tds', 'freebie']",59000.0
+61,"['putin', 'russia', 'nuke', 'sovereignty']",290000.0
+62,"['tensions', 'taiwan', 'china', 'situation']",33000.0
+63,"['fears', 'recession', 'mount', 'stock', 'oil', 'market', 'dispatch']",29000.0
+64,"['knesset', 'vote', 'coalition', 'partner', 'netanyahu', 'comeback']",6300.0
+65,"['earthquake', 'hit', 'afghanistan', 'house', 'landslide']",43000.0
+66,"['rail', 'strike', 'disruption', 'business', 'boris', 'johnson']",5200.0
+67,"['rare', 'forest', 'variety', 'tree', 'brazil', 'originals']",7400.0
+68,"['broadcast', 'gimmer', 'hope', 'gun', 'reform', 'inflation']",3700.0
+69,"['russiaukraine', 'war', 'luhansk', 'moscow', 'settlement']",50000.0
+70,"['ukraine', 'war', 'inflation', 'international', 'headlines']",26000.0
+71,"['country', 'europe', 'bathing', 'water', 'originals', 'international']",4800.0
+72,"['delegation', 'sri', 'lanka', 'crisis', 'international', 'headlines']",7200.0
+73,"['kaliningrad', 'center', 'row', 'russia', 'lithuania', 'originals']",26000.0
+74,"['broadcast', 'seek', 'bill', 'right', 'afghan', 'earthquake', 'life']",5600.0
+75,"['earthquake', 'jolt', 'afghanistan']",26000.0
+76,"['european', 'union', 'decision', 'candidate', 'status', 'ukraine']",6900.0
+77,"['road', 'work', 'wireless', 'road', 'evs', 'sweden', 'edge']",10000.0
+78,"['quake', 'jolt', 'afghanistan', 'tremors', 'neighboring', 'india', 'pakistan']",21000.0
+79,"['taliban', 'national', 'national', 'month']",4700.0
+80,"['circulation', 'day']",1900.0
+81,"['sudan', 'country', 'water', 'food', 'shortage']",4400.0
+82,"['nicotine', 'level', 'cigarette', 'level', 'international']",4100.0
+83,"['auto', 'market', 'stellantis', 'india', 'business', 'watch']",2500.0
+84,"['decision', 'candidate', 'status', 'ukraine', 'international']",9100.0
+85,"['covid', 'parent', 'toddler', 'sigh', 'relief']",2200.0
+86,"['earthquake', 'strike', 'afghanistan', 'international', 'alert']",31000.0
+87,"['owners', 'america', 'best', 'restaurant', 'pani', 'speak', 'international']",83000.0
+88,"['biden', 'china', 'tariff', 'inflation', 'international']",26000.0
+89,"['kremlin', 'prisoner', 'location', 'men', 'international']",17000.0
+90,"['mohammed', 'bin', 'salman', 'tour', 'prince', 'mbs', 'jordan', 'king']",9200.0
+91,"['gasoline', 'tax', 'holiday', 'will', 'plunge', 'recession', 'business']",21000.0
+92,"['australia', 'maryborough', 'town', 'hall', 'toilet']",2300.0
+93,"['report', 'air', 'india', 'plane', 'business', 'watch']",8200.0
+94,"['comeback', 'oil', 'price', 'word', 'business', 'watch']",4700.0
+95,"['china', 'hungary', 'dragon', 'special', 'series', 'promo']",2600.0
+96,"['germany', 'plan', 'car', 'business']",30000.0
+97,"['gas', 'crisis', 'deepens', 'europeans', 'stage', 'gas', 'crisis', 'business']",104000.0
+98,"['bangladesh', 'flood', 'displace', 'million', 'resident', 'climate', 'tracker']",3700.0
+99,"['texas', 'school', 'probe', 'role', 'police', 'scanner']",5600.0
+100,"['conflict', 'fight', 'severodonetsk', 'eastern', 'ukraine', 'intensifies']",146000.0
+101,"['senator', 'bill', 'gun', 'safety', 'international']",2400.0
+102,"['people', 'rainstorms', 'flood', 'china']",59000.0
+103,"['yair', 'lapid', 'caretaker']",4900.0
+104,"['has', 'elon', 'musk', 'father', 'international']",47000.0
+105,"['monsoon', 'rain', 'bangladesh', 'cause', 'recordbreaking', 'flood', 'million', 'climate', 'tracker']",14000.0
+106,"['poland', 'drop', 'maciej', 'rybus', 'cup', 'squad', 'footballer', 'russia']",3400.0
+107,"['effects', 'climate', 'change', 'lead', 'food', 'shortage', 'air', 'pollution', 'infertility']",4700.0
+108,"['global', 'headlines', 'india', 'opposition', 'pick', 'prez', 'candidate', 'macron', 'resignation']",4900.0
+109,"['india', 'bharatiya', 'janata', 'party', 'name', 'draupadi', 'murmu', 'president', 'post']",52000.0
+110,['workers'],22000.0
+111,"['lanka', 'gotabaya', 'rajapaksa', 'power']",19000.0
+112,"['wildfire', 'southern', 'new', 'jersey', 'cause', 'fire']",8400.0
+113,"['rock', 'secret', 'mars']",152000.0
+114,"['israel', 'election', 'year']",84000.0
+115,"['singapore', 'inflation', 'relief', 'package']",45000.0
+116,"['assam', 'flood', 'million']",44000.0
+117,"['south', 'asia', 'diary', 'app', 'pakistan', 'deaf', 'community']",2100.0
+118,"['europe', 'fossil', 'fuel', 'reserve', 'nation']",278000.0
+119,"['britain', 'railway', 'strike', 'year']",90000.0
+120,"['islamist', 'mob', 'storm', 'event', 'malé']",150000.0
+121,"['stingray', 'cambodia', 'originals', 'international']",7000.0
+122,"['broadcast', 'house', 'panel', 'jan', 'riot', 'texas', 'school', 'shooting', 'new', 'detail']",2400.0
+123,"['trains', 'england', 'wales', 'scotland', 'worker', 'wage']",11000.0
+124,"['summer', 'hell', 'iraq', 'city', 'heat', 'climate', 'change', 'edge']",2500.0
+125,"['country', 'step', 'plastic', 'originals']",1650.0
+126,"['chit', 'amendment', 'bill', 'sri', 'lankan', 'supreme', 'court']",1850.0
+127,"['macron', 'government', 'paralysis', 'talk', 'elysee', 'palace']",3250.0
+128,"['case', 'mass', 'violence', 'nigeria', 'gunman', 'villager']",9000.0
+129,"['rail', 'strike', 'first', 'strike', 'people']",8000.0
+130,"['new', 'zealand', 'india', 'countries', 'cost', 'crisis', 'originals']",6500.0
+131,"['turkiye', 'thursday', 'israel', 'turkiye', 'attack']",1600.0
+132,"['europe', 'energy', 'woe', 'austria', 'germany', 'denmark']",80000.0
+133,"['narendra', 'modi', 'international', 'yoga', 'day', 'event', 'yoga', 'peace']",2250.0
+134,"['grievance', 'ethiopia', 'oromia', 'region']",3350.0
+135,"['protests', 'fuel', 'price', 'hike', 'police', 'gas', 'protester']",2350.0
+136,"['rail', 'strike', 'boris', 'johnson', 'compromise', 'biggest', 'strike', 'year']",6000.0
+137,"['people', 'rainstorms', 'flood', 'china']",8500.0
+138,"['week', 'israel', 'deal']",1900.0
+139,"['freshwater', 'fish', 'record', 'stingray', 'cambodia']",5000.0
+140,"['hong', 'kong', 'diner', 'sink', 'south', 'china', 'sea', 'restaurant', 'operation']",11500.0
+141,"['israel', 'election', 'lapid', 'deal']",3100.0
+142,"['future', 'mobility', 'mobility', 'sector']",2000.0
+143,"['war', 'unemployment', 'zone', 'record', 'low']",9500.0
+144,"['mull', 'cap', 'oil', 'price', 'ban', 'insurance', 'oil', 'financing']",10000.0
+145,"['tesla', 'employee', 'sue', 'mass', 'layoff', 'workers', 'gigafactory', 'plant']",4400.0
+146,"['global', 'air', 'transport', 'crisis', 'lurk', 'threat']",2250.0
+147,"['killings', 'violence', 'mali', 'kill', 'civilian', 'government', 'katiba', 'group']",8500.0
+148,"['food', 'crisis', 'russia', 'moscow', 'west', 'grain', 'stance']",83000.0
+149,"['japan', 'court', 'rule', 'gay', 'marriage', 'ban']",7000.0
+150,"['france', 'paralysis', 'talk', 'elysee', 'palace', 'tough', 'day', 'negotiation']",8500.0
+151,"['fall', 'coalition', 'bennett', 'lapid', 'strike', 'deal', 'parliament']",8500.0
+152,"['india', 'international', 'yoga', 'day', 'narendra', 'modi', 'yoga', 'peace']",16000.0
+153,"['international', 'yoga', 'day', 'yoga', 'exercise', 'way', 'life']",6000.0
+154,"['international', 'yoga', 'day', 'practice', 'originals']",3750.0
+155,"['australia', 'citizen', 'science', 'project', 'effort', 'sea', 'lion']",1900.0
+156,"['china', 'policy', 'waste', 'management', 'system', 'climate', 'tracker']",11000.0
+157,"['russia', 'kazakh', 'president', 'vladimir', 'putin']",123500.0
+158,"['new', 'president', 'climate', 'policy', 'climate', 'tracker']",1500.0
+159,"['sudan', 'authority', 'wheat', 'farmer', 'wheat', 'wait']",9000.0
+160,"['modi', 'afghan', 'sikh', 'community', 'kabul', 'gurudwara', 'attack']",4350.0
+161,"['emmanuel', 'macron', 'majority']",43000.0
+162,"['inflation', 'trigger', 'protest']",67000.0
+163,"['south', 'asia', 'diary', 'sri', 'lanka', 'work', 'week']",2100.0
+164,"['inflation', 'crisis', 'america', 'recession', 'fineprint']",17000.0
+165,"['gustavo', 'petro', 'colombia', 'president', 'fineprint']",3350.0
+166,"['president', 'emmanuel', 'macron', 'majority', 'fineprint']",6500.0
+167,"['great', 'inflation', 'global', 'economic', 'crisis', 'protests', 'worldwide']",117000.0
+168,"['united', 'states', 'apple', 'towards', 'unionisation']",1767.0
+169,"['united', 'states', 'travel', 'chaos', 'flight', 'passenger', 'airport']",12667.0
+170,"['member', 'pakistan', 'attempt', 'dispatch']",6000.0
+171,"['probability', 'recession', 'soar', 'united', 'states']",29667.0
+172,"['security', 'concern', 'iran', 'israel', 'attack', 'iran', 'dispatch']",2867.0
+173,"['south', 'asia', 'diary', 'sri', 'lanka', 'work', 'week', 'gay', 'icon', 'miss', 'bhutan']",1833.0
+174,"['china', 'may', 'oil', 'import', 'russia', 'dispatch']",21333.0
+175,"['pakistan', 'inflation', 'week', 'deal', 'imf', 'international', 'dispatch']",5000.0
+176,"['broadcast', 'china', 'russia', 'oil', 'buyer', 'all', 'cryptocrash']",5667.0
+177,"['mechanic', 'rally', 'car', 'combat', 'buggy']",4000.0
+178,"['suah', 'chinese', 'edge', 'international']",1333.0
+179,"['transport', 'unions', 'strike', 'job', 'cut', 'international']",7000.0
+180,"['united', 'kingdom', 'commonwealth', 'economy', 'rwanda']",1367.0
+181,"['pakistan', 'pti', 'supporter', 'imran', 'khan', 'protest', 'inflation', 'govt']",7667.0
+182,"['china', 'flood', 'landslide', 'rescuers', 'rope', 'tunnel', 'villager']",38333.0
+183,"['macron', 'challenge', 'control', 'national', 'assembly', 'originals']",2233.0
+184,"['austria', 'coal', 'power', 'station', 'energy', 'crisis', 'europe']",35333.0
+185,"['unsc', 'block', 'pakistan', 'move', 'list']",136667.0
+186,"['opposition', 'people', 'party', 'majority', 'spain', 'andalusia', 'poll']",1233.0
+187,"['china', 'test', 'interception', 'system', 'tension', 'region']",17333.0
+188,"['washington', 'police', 'gun']",26333.0
+189,"['june', 'refugee', 'day', 'wideangle']",767.0
+190,"['israel', 'foreign', 'minister', 'yair', 'lapid', 'turkiye', 'threat', 'iran', 'attack']",2300.0
+191,"['mark', 'day', 'ukraine', 'war', 'ukrainians', 'donbas']",2400.0
+192,"['spain', 'germany', 'battle', 'europe', 'swelters', 'heatwave']",3333.0
+193,"['fuel', 'shortage', 'sri', 'lankans', 'crisis']",10667.0
+194,"['philippines', 'vice', 'president', 'swornin', 'sara', 'dutertecarpio', 'unity']",3333.0
+195,"['manufacturer', 'tax', 'cut', 'report', 'slowdown', 'order']",2433.0
+196,"['tesla', 'shareholder', 'sue', 'car', 'maker', 'workplace', 'discrimination', 'harassment']",2000.0
+197,"['china', 'tariff', 'inflation', 'country']",16333.0
+198,"['apple', 'worker', 'union', 'union', 'ground', 'mncs']",1033.0
+199,"['tide', 'reach', 'colombia', 'colombia', 'president', 'gustavo', 'petro']",1633.0
+200,"['france', 'setback', 'macron', 'majority']",8667.0
+201,"['apple', 'store', 'worker', 'union', 'maryland', 'international']",2433.0
+202,"['colombia', 'poll', 'will', 'petro', 'colombia', 'president']",1500.0
+203,"['switzerland', 'artists', 'truth', 'humanity', 'artwork', 'fineprint']",4333.0
+204,"['poll', 'macron', 'majority', 'line', 'france', 'fineprint']",2150.0
+205,"['nato', 'warns', 'russiaukraine', 'war', 'international']",18750.0
+206,"['cryptocurrency', 'bitcoin']",22250.0
+207,"['flood', 'storm', 'southern', 'china', 'international']",21750.0
+208,"['pakistan', 'ready', 'tie', 'israel', 'international']",9000.0
+209,"['spain', 'battle', 'originals', 'international']",1900.0
+210,"['agnipath', 'scheme', 'railways', 'loss', 'protest']",5000.0
+211,"['pakistan', 'ppp', 'government', 'president', 'zardari']",1550.0
+212,"['researcher', 'skin', 'pain', 'international']",3250.0
+213,"['mexico', 'city', 'resident', 'guinness', 'record', 'edge', 'international']",1200.0
+214,"['heat', 'wave', 'western', 'europe', 'spain', 'climate', 'tracker']",4500.0
+215,"['backlash', 'boris', 'johnson', 'migration', 'policy']",1600.0
+216,"['people', 'china', 'flood', 'originals', 'international', 'climate']",10500.0
+217,"['sri', 'lanka', 'surge', 'violence', 'fuel', 'shortage', 'international']",7500.0
+218,"['thousands', 'globe', 'lgbtq', 'right', 'pride', 'international']",2500.0
+219,"['voter', 'turnout', 'role', 'election']",950.0
+220,"['boris', 'johnson', 'kyiv', 'putin']",37000.0
+221,"['scribe', 'brazil', 'cops', 'philips']",1700.0
+222,"['bangladesh', 'abdul', 'momen', 'discus', 'trade', 'india', 'bangladesh']",5000.0
+223,"['election', 'polls', 'race']",1375.0
+224,"['thousands', 'summer', 'solstice', 'britain', 'stonehenge']",7000.0
+225,"['nepal', 'everest', 'base', 'camp', 'khumbu', 'glacier']",9750.0
+226,"['padma', 'bridge', 'part', 'china', 'belt', 'road', 'initiative', 'bangladesh']",8500.0
+227,"['president', 'joe', 'biden', 'bike', 'beach', 'ride']",250000.0
+228,"['medium', 'video', 'national', 'international']",126250.0
+229,"['report', 'tiktok', 'user', 'data', 'international']",3500.0
+230,"['steepest', 'slide', 'stock', 'markets', 'recession', 'record', 'inflation']",8500.0
+231,"['trade', 'india', 'bangladesh', 'abdul', 'momen']",3000.0
+232,"['war', 'episode', 'war', 'terror', 'prison', 'guantanamo', 'bay']",6400.0
+233,"['sneak', 'peak', 'westminster', 'dog', 'show', 'edge', 'international']",1420.0
+234,"['heat', 'result', 'hottest', 'may', 'spain', 'firefighter', 'fire', 'climate', 'tracker']",3000.0
+235,"['macron', 'melenchon', 'president', 'macron', 'coalition', 'poll', 'fineprint']",1220.0
+236,"['recruitment', 'protest', 'government', 'announces', 'concession']",3800.0
+237,"['film', 'ban', 'middle', 'east', 'lgbtq', 'original', 'international']",2400.0
+238,"['india', 'northeast', 'hit', 'monsoon', 'flood', 'assam']",3000.0
+239,"['johnson', 'legality', 'rwanda', 'migrant', 'plan', 'originals', 'international']",800.0
+240,"['plastic', 'surgery', 'debate']",53000.0
+241,"['pak', 'foreign', 'minister', 'bilawal', 'bhutto', 'bid', 'india', 'trouble']",30000.0
+242,"['boris', 'johnson', 'trip', 'kyiv', 'aid', 'ukraine']",1480.0
+243,"['covid', 'case', 'europe', 'variant', 'drive', 'rise', 'case', 'international']",2600.0
+244,"['blasts', 'gurudwara', 'kabul', 'afghan', 'ministry']",2800.0
+245,"['ecuador', 'emergency', 'province', 'response', 'protest']",2800.0
+246,"['israelis', 'turkiye', 'sign', 'nationality', 'tension', 'iran']",16200.0
+247,"['dogecoin', 'investor', 'sue', 'billionaire', 'elon', 'musk', 'scheme']",7000.0
+248,"['twin', 'blast', 'kabul', 'city', 'gunmen', 'gurudwara', 'premise']",2800.0
+249,"['heatwave', 'sweep', 'europe', 'weekend']",3800.0
+250,"['wto', 'covid', 'vaccine', 'patent', 'year', 'experts', 'deal']",2400.0
+251,"['brazil', 'remains', 'journalist', 'analysis', 'police', 'second', 'suspect']",900.0
+252,"['google', 'russia', 'file', 'bankruptcy', 'service']",1840.0
+253,"['president', 'donald', 'trump', 'committee', 'witchhunt']",13000.0
+254,"['parliamentary', 'polls', 'france', 'battle', 'macron', 'majority', 'line']",3200.0
+255,"['putin', 'russia', 'business', 'elite', 'sanction', 'mad', 'thoughtless']",55200.0
+256,"['life', 'refugee', 'wideangle']",860.0
+257,"['president', 'joe', 'biden', 'inflation', 'recession']",5000.0
+258,"['steepest', 'slide', 'stock', 'march', 'rule', 'investor']",1220.0
+259,"['colombia', 'historic', 'presidential', 'polls', 'former', 'guerrilla', 'king']",920.0
+260,"['rwanda', 'commonwealth', 'summit']",12000.0
+261,"['sixmetre', 'whale', 'beach', 'panama', 'climate', 'tracker']",1340.0
+262,"['saudi', 'prince', 'mbs', 'turkey']",14000.0
+263,"['scandal', 'president']",12800.0
+264,"['extradition', 'assange']",11200.0
+265,"['effects', 'climate', 'change', 'scientists', 'subpopulation', 'bear', 'climate', 'tracker']",4000.0
+266,"['recommends', 'status', 'ukraine']",24800.0
+267,"['taiwan', 'target', 'china', 'warship']",78400.0
+268,"['conflict', 'report', 'company', 'russia', 'international']",7600.0
+269,"['china', 'shield', 'pakistani', 'terrorist', 'unsc']",15600.0
+270,"['heat', 'grip', 'part', 'europe', 'temperatures', 'celsius', 'france', 'climate', 'tracker']",3400.0
+271,"['war', 'ukraine', 'lab', 'cern', 'cooperation', 'russia', 'international']",4600.0
+272,"['conflict', 'leader', 'kyiv', 'membership', 'bid', 'international']",1500.0
+273,"['soweto', 'south', 'africa', 'landscape']",380.0
+274,"['want', 'amalfi', 'coast', 'think', 'fineprint']",1240.0
+275,"['pakistan', 'fatf', 'list', 'top', 'headlines']",2200.0
+276,"['technology', 'perfumes', 'way', 'perfume', 'international']",1760.0
+277,"['extradition', 'wikileaks', 'founder', 'julian', 'assange', 'international']",2000.0
+278,"['old', 'iphones', 'fineprint']",5000.0
+279,"['joe', 'biden', 'leader', 'effort', 'climate', 'change', 'originals']",580.0
+280,"['swimmer', 'break', 'record', 'mile', 'second', 'edge']",883.0
+281,"['united', 'kingdom', 'lydia', 'wood', 'sketch', 'pub', 'london']",367.0
+282,"['israel', 'delivery', 'drone', 'tel', 'aviv', 'package', 'edge']",1367.0
+283,"['samoa', 'pacific', 'security', 'issue', 'originals', 'international']",533.0
+284,"['north', 'korea', 'outbreak', 'covid', 'fever', 'case', 'originals']",817.0
+285,"['spacex', 'employees', 'letter', 'ceo', 'elon', 'musk']",4667.0
+286,"['money', 'people', 'life', 'study', 'originals']",883.0
+287,"['rule', 'misinformation', 'company', 'service', 'act']",517.0
+288,"['north', 'korea', 'disease', 'region']",2167.0
+289,"['russia', 'war', 'force', 'international']",1833.0
+290,"['market', 'meltdown', 'rate', 'hike', 'inflation']",2667.0
+291,"['wikileaks', 'founder', 'julian', 'assange', 'step']",1200.0
+292,"['broadcast', 'ethic', 'adviser', 'number', 'ukraine', 'membership']",1033.0
+293,"['european', 'union', 'ukraine', 'candidacy', 'alert']",2000.0
+294,"['ukraine', 'candidate', 'status', 'invasion']",1017.0
+295,"['china', 'aircraft', 'carrier', 'fujian', 'province', 'taiwan']",11167.0
+296,"['post', 'afghan', 'anchor', 'food', 'street', 'trend', 'medium']",28667.0
+297,"['nepal', 'everest', 'base', 'camp', 'warming', 'activity']",883.0
+298,"['deputy', 'vow', 'better', 'debt']",2167.0
+299,"['china', 'influence', 'pacific', 'pacific', 'initiative']",8000.0
+300,"['taliban', 'poster', 'kandahar', 'women', 'look', 'animal']",2500.0
+301,"['sri', 'lanka', 'fuel', 'crisis', 'thousand', 'gas', 'station']",2500.0
+302,"['toyota', 'production', 'plant', 'semiconductor', 'shortage', 'haunt', 'toyota']",3333.0
+303,"['wall', 'street', 'plunge', 'recession', 'fear', 'stock', 'morning', 'trade']",2333.0
+304,"['shift', 'zeroemission', 'model', 'ferrari', 'engine', 'electrics']",950.0
+305,"['slowdown', 'blue', 'economy', 'bank', 'england', 'hike', 'rate']",900.0
+306,"['government', 'reacts', 'agnipath', 'age', 'year']",4667.0
+307,"['elon', 'musk', 'pyramid', 'scheme']",4833.0
+308,"['sudan', 'hunger', 'crisis', 'aid', 'darfur', 'region']",633.0
+309,"['brazil', 'remains', 'journalist', 'suspect', 'men']",1117.0
+310,"['americans', 'ukraine', 'report']",10333.0
+311,"['elon', 'musk', 'twitter', 'staff', 'interaction', 'acquisition', 'bid']",5333.0
+312,"['ukraine', 'european', 'union', 'dream', 'talks', 'ukraine', 'membership', 'today']",1833.0
+313,"['cost', 'crisis', 'food', 'inflation', 'summer']",2333.0
+314,"['market', 'meltdown', 'series', 'hike', 'bank', 'market']",2833.0
+315,"['sri', 'lanka', 'crisis', 'sri', 'lankans', 'passport', 'life']",3500.0
+316,"['eastern', 'ukraine', 'ambulance', 'team', 'soldier']",9000.0
+317,"['saudi', 'toy', 'homosexuality', 'crackdown', 'fineprint']",7667.0
+318,"['global', 'headlines', 'site', 'pakistan', 'fuel', 'price', 'hike']",600.0
+319,"['human', 'trash', 'mars']",92167.0
+320,"['india', 'country', 'climate', 'damage']",16500.0
+321,"['denmark', 'canada', 'whiskey', 'war']",20500.0
+322,"['youth', 'agnipath', 'recruitment', 'scheme']",19500.0
+323,"['watchdog', 'biden', 'administration', 'yemen', 'role']",6000.0
+324,"['poland', 'russia', 'target']",65833.0
+325,"['trade', 'rupees']",89833.0
+326,"['fed', 'interest', 'hike']",80167.0
+327,"['india', 'afc', 'asian', 'cup', 'berth', 'gurpreet', 'singh', 'sandhu', 'sports']",1317.0
+328,"['hollywood', 'actor', 'kevin', 'spacey', 'bail', 'assault', 'charge']",900.0
+329,"['capitol', 'riots', 'hearing', 'panel', 'pressure', 'mike', 'pence', 'count']",567.0
+330,"['economy', 'india', 'employment', 'originals']",1667.0
+331,"['fear', 'recession', 'fed', 'interest', 'rate', 'budget']",61333.0
+332,"['united', 'states', 'federal', 'reserve', 'benchmark', 'rate', 'hike']",1833.0
+333,"['life', 'medium', 'dermatologist', 'skincare', 'lifestyle']",957.0
+334,"['coal', 'production', 'india', 'climate', 'goal', 'climate', 'tracker']",1714.0
+335,"['pakistan', 'fuel', 'price', 'hike', 'day', 'international', 'updates', 'dispatch']",3571.0
+336,"['fuel', 'crisis', 'worsens', 'citizens', 'food', 'travel', 'sri', 'lanka', 'dispatch']",1714.0
+337,"['did', 'scientist', 'origin', 'death', 'plague', 'year', 'originals']",743.0
+338,"['boris', 'johnson', 'ethic', 'adviser', 'lord', 'geidt', 'quits', 'frustration', 'partygate', 'row']",457.0
+339,"['united', 'kingdom', 'food', 'inflation', 'summer']",6714.0
+340,"['winner', 'north', 'dakota', 'republican', 'tom', 'rice', 'trump']",7000.0
+341,"['govt', 'scheme', 'defence', 'service', 'men', 'woman']",986.0
+342,"['end', 'whiskey', 'war', 'canada', 'denmark', 'sign', 'agreement']",1857.0
+343,"['india', 'minister', 'delhi']",1714.0
+344,"['nusrat', 'sharif', 'bushra', 'bibi', 'pakistan', 'prime', 'ministers', 'spouse']",1857.0
+345,"['conflict', 'macron', 'scholz', 'draghi', 'kyiv', 'zelensky']",3000.0
+346,"['heat', 'grip', 'country', 'temperatures', 'part', 'spain']",1714.0
+347,"['saudi', 'official', 'raid', 'capital', 'rainbow', 'international']",6714.0
+348,"['iran', 'launch', 'break', 'unsc', 'resolution', 'international']",4714.0
+349,"['washington', 'saudi', 'embassy', 'street', 'khashoggi', 'way']",1157.0
+350,"['netflix', 'recruit', 'game', 'international']",1043.0
+351,"['conflict', 'leader', 'night', 'train', 'kyiv', 'international']",3000.0
+352,"['asean', 'meet', 'edition', 'delhi', 'dialogue', 'day', 'international']",886.0
+353,"['north', 'korea', 'tunnel', 'test', 'site', 'think', 'tank']",1714.0
+354,"['ethic', 'adviser', 'christopher', 'geidt', 'resigns', 'office', 'international']",600.0
+355,"['pakistan', 'govt', 'price', 'time', 'day', 'international']",15857.0
+356,"['government', 'airwave', 'network', 'business']",914.0
+357,"['brazil', 'police', 'search', 'journalist', 'confesses', 'men']",857.0
+358,"['ukraine', 'attack', 'volunteer', 'ukraine', 'russia']",11714.0
+359,"['federal', 'reserve', 'benchmark', 'rate', 'interest', 'rate', 'hike', 'decade']",14714.0
+360,"['china', 'support', 'call', 'president', 'putin', 'international']",49571.0
+361,"['sanctions', 'oil', 'gas', 'prompt', 'burning', 'fuel', 'climate', 'tracker']",8714.0
+362,"['pollution', 'threat', 'health', 'india', 'climate', 'tracker']",1714.0
+363,"['bank', 'coffee', 'plantation', 'people', 'coffee', 'plants', 'forest']",986.0
+364,"['satellite', 'image', 'iran', 'rocket', 'launch']",26143.0
+365,"['tensions', 'lac', 'round', 'talk', 'place', 'galwan', 'clashes']",1571.0
+366,"['england', 'brace', 'day', 'year', 'temperatures']",971.0
+367,"['global', 'headlines', 'war', 'joe', 'biden', 'saudi', 'arabia', 'visit']",914.0
+368,"['survey', 'people']",2714.0
+369,"['kpop', 'band', 'bts', 'announce', 'hiatus']",4286.0
+370,"['penguins', 'new', 'zealand', 'beach']",2143.0
+371,"['japan', 'jail', 'term', 'online', 'insult']",1857.0
+372,"['india', 'fight', 'fishery', 'subsidy', 'wto', 'meeting']",25714.0
+373,"['iran', 'rocket', 'launch']",13857.0
+374,"['debtor', 'default']",34000.0
+375,"['pakistan', 'minister', 'people', 'tea']",35143.0
+376,"['johnson', 'rwanda', 'plan', 'backfire']",15286.0
+377,"['ukrainerussia', 'war', 'force', 'gas', 'supply', 'alternative', 'dispatch']",3750.0
+378,"['united', 'states', 'pakistan', 'look', 'tie', 'dispatch']",1088.0
+379,"['life', 'internal', 'shower', 'life', 'hack', 'top']",1250.0
+380,"['brazil', 'progress', 'amazon', 'case', 'suspect', 'police']",488.0
+381,"['largest', 'cryptocurrency', 'bitcoin', 'originals']",3500.0
+382,"['prominent', 'lawyer', 'theary', 'seng', 'dozen', 'treason', 'cambodia']",650.0
+383,"['broadcast', 'landmine', 'litter', 'threat', 'ukrainians', 'farewell', 'internet', 'explorer']",925.0
+384,"['sachin', 'tendulkar', 'virender', 'sehwag', 'int', 'batter', 'originals']",288.0
+385,"['russia', 'claim', 'nato', 'arm', 'ukraine', 'international']",43750.0
+386,"['proceeding', 'plan', 'northern', 'ireland', 'protocol']",725.0
+387,"['united', 'kingdom', 'flight', 'rwanda', 'international', 'headlines']",712.0
+388,"['independence', 'vote', 'scotland', 'minister', 'plan']",812.0
+389,"['ukraine', 'attack', 'severodonetsk', 'mariupol', 'originals']",2250.0
+390,"['south', 'korea', 'trucker', 'union', 'transport', 'ministry', 'agreement']",338.0
+391,"['health', 'emergency', 'chief', 'tedros', 'monkeypox', 'spread']",1625.0
+392,"['abiy', 'ahmed', 'mention', 'peace', 'talk', 'tigray', 'rebel']",1750.0
+393,"['hong', 'kong', 'restaurant', 'tourist', 'attraction', 'edge']",1250.0
+394,"['enmity', 'nawaz', 'sharif', 'pakistan', 'govt', 'pervez', 'musharraf', 'homecoming']",2500.0
+395,"['country', 'china', 'xinjiang', 'abuses', 'international']",21125.0
+396,"['inflation', 'interest', 'rate', 'consumer', 'business', 'watch', 'international']",800.0
+397,"['heatwaves', 'flood', 'wildfire', 'thunderstorm', 'climate', 'tracker']",5375.0
+398,"['south', 'sudan', 'year', 'independence', 'international']",650.0
+399,"['president', 'joe', 'biden', 'plan', 'grain', 'export', 'international']",2000.0
+400,"['west', 'quad', 'summit', 'focus', 'food', 'security', 'area', 'cooperation']",650.0
+401,"['wall', 'street', 'slip', 'market', 'eye', 'interest', 'rate', 'hike', 'business']",1750.0
+402,"['india', 'year', 'jammu', 'kashmir', 'police', 'ground', 'report']",1250.0
+403,"['monkeypox', 'scientist', 'discriminatory', 'name']",900.0
+404,"['ethiopia', 'negotiation', 'body', 'peace', 'talk', 'tplf']",450.0
+405,"['airbus', 'paint', 'dispute', 'europe', 'regulator', 'safety', 'concern', 'business']",1250.0
+406,"['cci', 'tataair', 'asia', 'acquisition', 'proposal', 'business', 'watch', 'international']",700.0
+407,"['russia', 'india', 'oil', 'supplier', 'business', 'watch', 'international']",3625.0
+408,"['president', 'joe', 'biden', 'crown', 'prince', 'saudi', 'arabia', 'trip']",1750.0
+409,"['summit', 'first', 'india', 'israel', 'uae', 'summit', 'july', 'international']",1750.0
+410,"['bts', 'band', 'member', 'project', 'international']",3125.0
+411,"['monkeypox', 'health', 'emergency', 'international']",800.0
+412,"['agneepath', 'how', 'duty', 'benefit', 'indian', 'armed', 'forces', 'international']",2375.0
+413,"['war', 'europe', 'west', 'asia', 'gas', 'supply', 'international']",21750.0
+414,"['farmer', 'good', 'international']",1625.0
+415,"['ukraine', 'attack', 'severodonetsk', 'fight', 'ukraine', 'international']",24375.0
+416,"['tensions', 'iran', 'israel', 'iran', 'israel', 'scientist']",20625.0
+417,"['global', 'headlines', 'israel', 'coalition', 'collapse', 'ecuador', 'burkina', 'faso']",600.0
+418,"['saudi', 'league', 'split', 'golfer']",1250.0
+419,"['asylumseekers', 'rwanda']",4500.0
+420,"['president', 'pla', 'mission']",20875.0
+421,"['agnipath', 'india', 'force', 'scheme']",43000.0
+422,"['ukraine', 'arm', 'war']",8625.0
+423,"['stock', 'market', 'territory']",46000.0
+424,"['how', 'europe', 'china', 'fund', 'russia', 'war', 'ukraine']",40125.0
+425,"['africa', 'africa', 'referee', 'fifa', 'cup']",238.0
+426,"['africa', 'confronting', 'reportage', 'will', 'suffering']",425.0
+427,"['africa', 'kenyan', 'hunger', 'menace', 'people', 'hunger']",612.0
+428,"['west', 'bank', 'product', 'spark', 'fury', 'israel', 'fineprint']",2500.0
+429,"['africa', 'kenyan', 'hunger', 'menace', 'worrying', 'food', 'crisis', 'will', 'suffering']",550.0
+430,"['biden', 'prince', 'mbs', 'from', 'pariah', 'fineprint']",5000.0
+431,"['elon', 'musk', 'twitter', 'town', 'hall', 'twitter', 'staff', 'concern']",950.0
+432,"['russia', 'india', 'oil', 'supplier', 'who', 'fund', 'russia', 'ukraine', 'war']",53625.0
+433,"['kevin', 'spacey', 'assault', 'case', 'trial', 'london']",775.0
+434,"['agnipath', 'india', 'recruitment', 'know', 'eligibility', 'detail', 'originals']",778.0
+435,"['chinese', 'meet', 'focus', 'north', 'korea', 'china', 'veto']",1033.0
+436,"['rafale', 'fighter', 'jet', 'contender', 'air', 'force', 'mrfa', 'deal', 'originals']",3444.0
+437,"['japan', 'bex', 'population', 'originals']",456.0
+438,"['broadcast', 'trump', 'rant', 'jan', 'committee', 'special', 'coverage', 'washington']",1222.0
+439,"['disney', 'lightyear', 'row', 'depiction', 'couple']",989.0
+440,"['national', 'herald', 'case', 'gandhi', 'family', 'india', 'originals']",5889.0
+441,"['people', 'ukraine', 'use', 'comedy', 'therapy', 'ukrainians', 'comedy', 'club']",289.0
+442,"['russiaukraine', 'war', 'russia', 'severodonetsk', 'bridge']",7889.0
+443,"['asylum', 'seeker', 'rwanda', 'plan', 'refugee']",3889.0
+444,"['lightyear', 'ban', 'country', 'movie', 'star', 'originals']",3444.0
+445,"['mars', 'originals']",1778.0
+446,"['broadcast', 'faceoff', 'northern', 'ireland', 'protocol', 'special', 'coverage', 'london']",500.0
+447,"['grip', 'southwest', 'heatwave', 'fuel', 'wildfire', 'arizona', 'california']",678.0
+448,"['report', 'wto', 'meeting', 'geneva', 'india', 'stand', 'custom', 'duty', 'moratorium']",711.0
+449,"['south', 'asia', 'diary', 'how', 'pakistani', 'family', 'record', 'inflation']",2667.0
+450,"['turkiye', 'rainfall', 'flood', 'capital', 'ankara', 'death']",722.0
+451,"['pakistan', 'economic', 'crisis', 'price', 'hike', 'pak', 'imf', 'bailout', 'risk', 'subsidy']",12556.0
+452,"['rwanda', 'deal', 'are', 'seeker', 'rwanda']",611.0
+453,"['northern', 'ireland', 'protocol', 'decision']",511.0
+454,"['women', 'theatre', 'abuse', 'trauma', 'guatemala', 'originals']",167.0
+455,"['stock', 'slide', 'market', 'loss', 'business']",567.0
+456,"['protests', 'sindh', 'pakistan', 'police', 'protestors']",700.0
+457,"['economic', 'output', 'month']",867.0
+458,"['samsung', 'chip', 'production', 'disruption', 'business']",633.0
+459,"['men', 'burkina', 'faso', 'group', 'responsibility']",911.0
+460,"['journalists', 'brazil', 'amazon', 'jungle']",844.0
+461,"['man', 'horse', 'foot']",644.0
+462,"['court', 'deportation', 'flight', 'rwanda', 'international', 'headlines']",1556.0
+463,"['january', 'capitol', 'riots', 'hearing', 'trump', 'fraud', 'claim', 'trump', 'aide']",633.0
+464,"['flash', 'flood', 'ravage', 'part', 'turkey', 'death', 'climate', 'tracker']",1667.0
+465,"['pakistan', 'crisis', 'energy', 'deal', 'china', 'imf', 'pakistan', 'spot']",4667.0
+466,"['absolute', 'evil', 'zelensky', 'russia', 'bridge', 'severodonetsk']",10333.0
+467,"['did', 'china', 'silence', 'austin', 'jiaqi', 'medium', 'influencer', 'ice', 'cream']",3778.0
+468,"['bonorong', 'wildlife', 'sanctuary', 'treat', 'pet', 'highlight', 'rehab', 'climate', 'tracker']",733.0
+469,"['climate', 'crisis', 'threat', 'iraq', 'country', 'sandstorm', 'april']",1100.0
+470,"['turkiye', 'rains', 'hailstorms', 'weekend', 'cause', 'flood', 'weather', 'town']",589.0
+471,"['town', 'adapting', 'city', 'life', 'change', 'climate', 'tracker']",378.0
+472,"['minister', 'climate', 'change', 'challenge', 'conflict', 'climate', 'tracker']",478.0
+473,"['worst', 'heat', 'wave', 'year', 'spain', 'temperatures', 'part']",956.0
+474,"['issue', 'resident', 'temperature']",800.0
+475,"['sri', 'lanka', 'fuel', 'crisis', 'worsens']",5000.0
+476,"['pakistan', 'say', 'cpec']",38778.0
+477,['recession'],56333.0
+478,"['fall', 'value', 'currency', 'economy']",5000.0
+479,"['south', 'asia', 'diary', 'pakistan', 'record', 'inflation', 'cricket', 'crisis', 'sri', 'lanka']",222.0
+480,"['atp', 'ranking', 'update', 'daniil', 'medvedev', 'ranking', 'djokovic', 'sports']",822.0
+481,"['economy', 'distress', 'monday', 'mayhem', 'india', 'stock', 'market']",49556.0
+482,"['big', 'mac', 'russia', 'russia', 'mcdonald', 'restaurant']",20222.0
+483,"['rwanda', 'asylum', 'plan', 'challenge', 'international']",1222.0
+484,"['capitol', 'riots', 'january', 'capitol', 'hearing']",250.0
+485,"['dmitry', 'medvedev', 'russia', 'president', 'russia', 'enemy']",33700.0
+486,"['israel', 'national', 'turkey', 'originals', 'international']",1100.0
+487,"['israel', 'coalition', 'govt', 'israel', 'government', 'achieve', 'year']",280.0
+488,"['bipartisan', 'gun', 'reform', 'proposal', 'tougher', 'check', 'buyer']",500.0
+489,"['nine', 'men', 'woman', 'restaurant', 'assault', 'spark', 'outrage', 'china']",2300.0
+490,"['venice', 'old', 'renovation']",360.0
+491,"['malaysia', 'labour', 'crisis', 'fruit', 'industry', 'hit']",1300.0
+492,"['broadcast', 'gun', 'safety', 'law', 'robots', 'feeling']",550.0
+493,"['invasion', 'russia', 'hundred', 'kharkiv']",6600.0
+494,"['ipl', 'media', 'right', 'digital', 'right', 'crore', 'originals']",1900.0
+495,"['ukraine', 'war', 'battle', 'luhansk', 'farm', 'threat', 'farmer', 'originals']",1700.0
+496,"['economy', 'contract', 'april', 'economic', 'output', 'month']",1000.0
+497,"['robot', 'feeling', 'google', 'engineer', 'sentient']",1600.0
+498,"['brutal', 'attack', 'woman', 'restaurant', 'china', 'assault', 'outrage']",1200.0
+499,"['fuel', 'crisis', 'worsens', 'sri', 'lanka', 'lankan', 'government', 'plan', 'scheme']",1600.0
+500,"['beijing', 'covid', 'restriction', 'case', 'bar']",1200.0
+501,"['dinosaur', 'year', 'europe', 'dinosaur']",1600.0
+502,"['dinosaur', 'year', 'europe', 'dinosaur']",1600.0
+503,"['delhi', 'spell', 'heat', 'wave', 'summer', 'temperature', 'celsius', 'may']",1000.0
+504,"['wto', 'ministerial', 'conference', 'food', 'crisis', 'agenda', 'can', 'wto', 'unblock', 'bottleneck']",390.0
+505,"['tensions', 'peninsula', 'south', 'korea', 'north', 'korea', 'artillery', 'shot']",6600.0
+506,"['year', 'spain', 'temperature', 'celsius', 'part']",1000.0
+507,"['turmoil', 'iraq', 'lawmaker', 'parliament']",1000.0
+508,"['pardon', 'britons', 'death', 'former', 'british', 'soldier', 'ukraine']",7000.0
+509,"['stock', 'sink', 'inflation', 'trigger', 'worry', 'business']",770.0
+510,"['south', 'korea', 'truck', 'strike', 'steel', 'maker', 'posco', 'plant']",600.0
+511,"['industry', 'outlook', 'highest', 'growth', 'rate', 'decade', 'nasscom']",3200.0
+512,"['study', 'set', 'worrying', 'data', 'tension']",5500.0
+513,"['russia', 'car', 'sale', 'auto', 'industry', 'supply', 'issue']",930.0
+514,"['order', 'review', 'fuel', 'market', 'fuel', 'pump', 'price']",610.0
+515,"['turkiye', 'concern', 'finland', 'sweden', 'membership', 'nato', 'chief']",48600.0
+516,"['leadership', 'series', 'crisis', 'dollar', 'crisis', 'sri', 'lankan']",25800.0
+517,"['pride', 'art', 'madrid', 'street', 'pride', 'festival', 'originals']",870.0
+518,"['leadership', 'series', 'sri', 'lanka', 'crisis', 'emergency']",510.0
+519,"['leadership', 'series', 'did', 'sri', 'lankan', 'ranil', 'wickremesinghe', 'job']",1200.0
+520,"['wto', 'ministerial', 'conference', 'india', 'union', 'minister', 'piyush', 'goyal']",630.0
+521,"['ukraine', 'attack', 'strike', 'ukraine', 'town', 'international', 'fineprint']",46100.0
+522,"['war', 'war', 'ukraine', 'war', 'food', 'crisis', 'fineprint']",3900.0
+523,"['leadership', 'series', 'sri', 'lankan', 'ranil', 'wickremesinghe']",6500.0
+524,"['volcano', 'erupts', 'philippines', 'volcano', 'blanket', 'town']",6091.0
+525,"['leaders', 'geneva', 'wto', 'conference', 'international']",573.0
+526,"['france', 'election', 'melenchon', 'coalition', 'hurdle', 'macron']",445.0
+527,"['age', 'brain']",17818.0
+528,"['mcdonald', 'russia', 'vkusno', 'tochka', 'international']",8091.0
+529,"['zelensky', 'luhansk', 'international']",1364.0
+530,"['wimbledon', 'money', 'year', 'winner', 'originals']",345.0
+531,"['taiwan', 'china', 'wto', 'china', 'fish', 'import']",12455.0
+532,"['imf', 'pakistan', 'budget', 'urge', 'tax']",9545.0
+533,"['france', 'election', 'macron', 'majority', 'international']",455.0
+534,"['are', 'royals', 'migration', 'policy', 'asylumseekers', 'rwanda']",1182.0
+535,"['zelensky', 'time', 'country', 'ukraine', 'call', 'candidacy']",2273.0
+536,"['france', 'election', 'polls', 'fight']",291.0
+537,"['gun', 'violence', 'america', 'special', 'rise', 'mass', 'shooting']",455.0
+538,"['mainland', 'china', 'surge', 'covid', 'case', 'fresh', 'covid', 'curb', 'beijing']",1364.0
+539,"['sonali', 'bendre', 'cancer', 'journey', 'ott', 'debut']",764.0
+540,"['protests', 'violence', 'gun', 'law', 'advocate', 'measure']",455.0
+541,"['lgbtqi', 'bias', 'discrimination', 'wideangle']",682.0
+542,"['spain', 'heatwave', 'temperature', 'celsius']",2091.0
+543,"['parliament', 'election', 'polls', 'macron', 'coalition', 'seat']",764.0
+544,"['royal', 'prince', 'william', 'day', 'street', 'magazine']",909.0
+545,"['leadership', 'series', 'ranil', 'wickremesinghe', 'prime', 'minister', 'ceo', 'promo']",2455.0
+546,"['deportation', 'plan', 'court', 'light', 'international']",1273.0
+547,"['strife', 'miner', 'local', 'wildcat', 'gold', 'mining', 'boom', 'bolivia', 'international']",600.0
+548,"['country', 'sri', 'lanka', 'way']",15455.0
+549,"['india', 'sri', 'lanka', 'partner']",10091.0
+550,"['sri', 'lanka', 'country', 'crisis']",1818.0
+551,"['government', 'crisis']",627.0
+552,"['shortages', 'sri', 'lankan', 'economy']",4182.0
+553,"['rajapaksas', 'power', 'scene']",836.0
+554,"['bees', 'case', 'animal', 'right', 'originals']",417.0
+555,"['canada', 'interception', 'aircraft', 'international']",20167.0
+556,"['fukushima', 'water', 'release', 'plan', 'international']",333.0
+557,"['north', 'korea', 'appoints', 'minister', 'international']",1333.0
+558,"['beautiful', 'miniature', 'art', 'presentation', 'originals']",225.0
+559,"['biden', 'reveals', 'migration', 'plan', 'summit', 'originals']",592.0
+560,"['war', 'south', 'pacific']",22500.0
+561,"['syria', 'halt', 'flight', 'damascus', 'airport', 'israeli', 'attack', 'international']",9667.0
+562,"['war', 'word', 'china', 'issue', 'warning', 'taiwan', 'international']",8417.0
+563,"['meet', 'president', 'zelensky', 'ukraine', 'membership']",1750.0
+564,"['west', 'asia', 'post', 'talk', 'saudi', 'israel']",1667.0
+565,"['bank', 'england', 'interest', 'rate', 'inflation', 'head', 'international']",3417.0
+566,"['italy', 'robot', 'dog', 'archaeologist', 'companion', 'pompeii']",533.0
+567,"['west', 'asia', 'post', 'jordan', 'push', 'tourism']",317.0
+568,"['new', 'zealand', 'pacific', 'islands', 'authority', 'decision', 'china', 'originals']",367.0
+569,"['inflation', 'respite', 'cost', 'ground', 'report']",6000.0
+570,"['russiachina', 'crossborder', 'bridge', 'international']",25083.0
+571,"['justin', 'bieber', 'paralysis', 'tour', 'international']",9417.0
+572,"['pakistan', 'imran', 'khan', 'ally', 'air', 'stir', 'international']",742.0
+573,"['tensions', 'region', 'tokyo', 'china', 'influence']",34833.0
+574,"['residents', 'stock', 'food', 'supply', 'shanghai', 'covid', 'lockdown', 'curb']",1167.0
+575,"['lawmakers', 'change', 'mass', 'shooting']",517.0
+576,"['partnership', 'change', 'new', 'zealand', 'australia', 'climate', 'plan']",292.0
+577,"['cholera', 'fear', 'ukraine', 'mariupol', 'mayor', 'city', 'sewage']",583.0
+578,"['tensions', 'region', 'japan', 'war', 'east', 'asia']",3500.0
+579,"['journey', 'book', 'shakespeare', 'auction']",242.0
+580,"['israeli', 'football', 'fan', 'fan', 'qatar', 'fifa', 'cup']",508.0
+581,"['city', 'city', 'list']",1583.0
+582,"['canada', 'covid', 'travel', 'restriction', 'tourist']",2583.0
+583,"['january', 'hearing', 'trump', 'trump', 'how', 'ivanka', 'jared', 'donald', 'trump']",1500.0
+584,"['manushi', 'chhillar', 'debut', 'akshay', 'kumar']",633.0
+585,"['china', 'warning', 'taiwan', 'war']",78167.0
+586,"['melt', 'conversation', 'gaurav', 'gupta', 'motor', 'india']",283.0
+587,"['united', 'states', 'prepare', 'fire', 'season', 'workforce', 'shortage', 'climate', 'tacker']",833.0
+588,"['portugal', 'temperature', 'may', 'drought', 'climate', 'tracker']",1250.0
+589,"['heavy', 'rain', 'flood', 'life', 'southern', 'china', 'climate', 'tracker']",1083.0
+590,"['sea', 'water', 'desalination', 'plant', 'controversy', 'senegal']",917.0
+591,"['united', 'states', 'pronoun', 'new', 'york', 'international']",775.0
+592,"['phala', 'phala', 'farm', 'robbery', 'scandal', 'prez', 'cyril', 'ramaphosa', 'role']",14417.0
+593,"['erdogan', 'reelection', 'bid']",3667.0
+594,"['power', 'oil', 'price']",34333.0
+595,"['look', 'role', 'extremist', 'oath', 'keepers', 'proud', 'boys', 'january', 'riot', 'originals']",358.0
+596,"['meet', 'pope', 'francis', 'vatican', 'ukraine', 'originals']",408.0
+597,"['china', 'anyone', 'taiwan', 'china', 'war']",22667.0
+598,"['buyers', 'cartel', 'ally', 'oil', 'price']",29250.0
+599,"['life', 'rise', 'antiwork', 'movement', 'era']",1250.0
+600,"['life', 'rise', 'antiwork', 'movement', 'era']",1250.0
+601,"['president', 'country', 'protector', 'ombudswoman', 'mkhwebane']",692.0
+602,"['maryland', 'mass', 'shooting', 'shooter', 'fire']",1154.0
+603,"['pakistan', 'demise', 'politician', 'host', 'aamir', 'liaquat', 'death']",769.0
+604,"['west', 'asia', 'post', 'lebanonisrael', 'maritime', 'row', 'iraq', 'climate', 'crisis', 'legacy', 'saddam', 'hussein']",1231.0
+605,"['poll', 'sri', 'lanka', 'crisis', 'chairman']",369.0
+606,"['gobekli', 'tepe', 'temple', 'civilization', 'originals']",662.0
+607,"['london', 'anniversary', 'grenfell', 'tower', 'fire', 'tragedy', 'people']",338.0
+608,"['liz', 'truss', 'northern', 'ireland', 'bill', 'international']",385.0
+609,"['broadcast', 'mass', 'shooting', 'maryland', 'kyiv', 'appeal', 'aid']",731.0
+610,"['war', 'town', 'shelling', 'resident']",2308.0
+611,"['invasion', 'court', 'sentence', 'death', 'citizen']",1231.0
+612,"['wildfire', 'spain', 'force', 'town', 'evacuation', 'climate', 'tracker']",569.0
+613,"['election', 'sri', 'lanka', 'crisis']",500.0
+614,"['president', 'ombudswoman', 'mkhwebane', 'grave', 'charge']",377.0
+615,"['wildfire', 'spain', 'warm', 'weather', 'wind', 'blaze']",200.0
+616,"['israel', 'naftali', 'bennett', 'talk', 'uae', 'president', 'israel', 'motion', 'iran']",1308.0
+617,"['mercenary', 'ukraine', 'death', 'sentence', 'britons', 'moroccan']",10462.0
+618,"['putin', 'putin', 'monarch', 'peter', 'great']",10538.0
+619,"['school', 'resource', 'officer', 'are', 'gun', 'school', 'solution']",200.0
+620,"['amendment', 'say', 'america', 'child']",585.0
+621,"['america', 'numb', 'violence', 'spate', 'mass', 'shooting', 'debate']",300.0
+622,"['americans', 'economy', 'inflation', 'president', 'joe', 'biden', 'priority']",592.0
+623,"['energy', 'price', 'pakistan', 'proposal', 'market', 'energy', 'crisis']",2538.0
+624,"['japan', 'business', 'community', 'relaxation', 'japan', 'border', 'control']",446.0
+625,"['europe', 'summer', 'travel', 'labour', 'strife', 'chaos', 'airport']",331.0
+626,"['household', 'wealth', 'drop', 'time', 'year']",646.0
+627,"['journey', 'love', 'war', 'veteran', 'reunites', 'love']",715.0
+628,"['mystery', 'spill', 'baltic', 'sea', 'coast', 'guard', 'spill', 'plane']",1231.0
+629,"['jan', 'capitol', 'riot', 'hearing', 'congress', 'committee', 'hearing']",369.0
+630,"['pakistan', 'politician', 'host', 'aamir', 'liaquat']",2846.0
+631,"['maryland', 'factory', 'shooting', 'shooter', 'fire', 'factory', 'worker']",6308.0
+632,"['iaea', 'camera', 'nuke', 'facility', 'iran', 'blinken', 'iran', 'move']",846.0
+633,"['report', 'property', 'risk', 'flooding', 'climate', 'tracker']",677.0
+634,"['united', 'kingdom', 'work', 'week', 'trial']",2077.0
+635,"['new', 'zealand', 'tax', 'cow', 'burp']",769.0
+636,"['thailand', 'mean', 'restriction', 'use', 'edge']",1154.0
+637,"['global', 'headlines', 'jet', 'crash', 'shanghai', 'curb']",415.0
+638,"['new', 'zealand', 'tax', 'farmer', 'burpy', 'cattle']",1462.0
+639,"['hindu', 'temple', 'karachi']",14846.0
+640,"['iran', 'minister', 'meet', 'modi']",24692.0
+641,"['depositor', 'china', 'protest', 'money']",14846.0
+642,"['texas', 'recall', 'horror']",1462.0
+643,"['sanctions', 'russia', 'war']",12385.0
+644,"['russia', 'scrap', 'pact', 'japan']",7308.0
+645,"['russia', 'ukraine', 'stronghold']",34000.0
+646,"['south', 'china', 'sea', 'dispute', 'india', 'arm', 'china', 'rival']",35615.0
+647,"['russia', 'grain', 'ukraine', 'international', 'headlines']",3692.0
+648,"['gold', 'medalist', 'simone', 'biles', 'others', 'fbi']",2308.0
+649,"['edition', 'margaret', 'atwood', 'the', 'handmaid', 'tale']",238.0
+650,"['president', 'joe', 'biden', 'americas', 'summit', 'plan']",623.0
+651,"['gun', 'bill', 'buffalo', 'uvalde', 'attacks']",577.0
+652,"['india', 'enters', 'china', 'sea', 'theatre', 'brahmos', 'vietnam']",44154.0
+653,"['war', 'veteran', 'reunites']",607.0
+654,"['joe', 'biden', 'plan', 'summit', 'americas', 'originals']",229.0
+655,"['pakistan', 'energy', 'fuel', 'consumption', 'energy', 'price']",1000.0
+656,"['soldier', 'narrates', 'war', 'music', 'russia']",400.0
+657,"['end', 'crisis', 'boris', 'johnson', 'rebel', 'tory', 'mps', 'wait', 'johnson']",236.0
+658,"['broadcast', 'ukraine', 'premiership']",421.0
+659,"['new', 'police', 'uniform', 'afghanistan', 'taliban', 'islamic', 'emirate', 'flag', 'flag']",7643.0
+660,"['back', 'car', 'carmakers', 'electrification']",1571.0
+661,"['plane', 'crash', 'area', 'alert']",1714.0
+662,"['boris', 'johnson', 'costofliving']",414.0
+663,"['country', 'prostitution', 'originals']",13143.0
+664,"['president', 'americas', 'summit', 'plan', 'international']",1429.0
+665,"['twitter', 'share', 'data', 'threat', 'elon', 'musk', 'international']",1286.0
+666,"['russia', 'fishing', 'pact', 'japan', 'international']",13643.0
+667,"['prime', 'minister', 'boris', 'johnson', 'vote', 'international']",393.0
+668,"['india', 'record', 'jump', 'case']",786.0
+669,"['oil', 'hovers', 'china', 'optimism', 'back', 'price', 'surge', 'business']",650.0
+670,"['coalition', 'suffers', 'loss', 'face', 'uncertainty', 'international']",457.0
+671,"['australia', 'facility', 'nasa', 'rocket']",293.0
+672,"['china', 'parts', 'shanghai', 'restriction', 'international']",786.0
+673,"['hunger', 'problem', 'sudan', 'farmer', 'money', 'crop', 'international']",264.0
+674,"['gun', 'violence', 'survivor', 'recount', 'house', 'panel', 'gun', 'violence']",257.0
+675,"['miracle', 'breakthrough', 'cancer', 'cure', 'international']",6429.0
+676,"['war', 'moscow', 'responsibility', 'global', 'food', 'crisis']",1857.0
+677,"['capitol', 'attack', 'hearing', 'police', 'officer', 'filmmaker']",929.0
+678,"['house', 'gun', 'control', 'bill', 'assault', 'purchase', 'age']",1286.0
+679,"['battle', 'severodonetsk', 'russia', 'intensifies', 'eastern', 'ukraine']",5286.0
+680,"['japan', 'regulator', 'approval', 'wastewater']",2000.0
+681,"['particle', 'liter', 'type', 'plastic']",1143.0
+682,"['new', 'zealand', 'climate', 'draft', 'aim', 'methane', 'emission']",414.0
+683,"['thousands', 'salvador', 'policy']",257.0
+684,"['rare', 'albino', 'galapagos', 'tortoise', 'baby', 'tortoise', 'debut']",579.0
+685,"['ugandan', 'researcher', 'air', 'pollution', 'unprecedented', 'air', 'pollution', 'kampala']",279.0
+686,"['impact', 'decade', 'deforestation', 'nigeria', 'hectare', 'cover']",429.0
+687,"['drug', 'cancer', 'trial', 'cancer', 'patient']",2143.0
+688,"['families', 'victim', 'witness', 'house', 'panel', 'gun', 'violence']",221.0
+689,"['need', 'spy', 'china', 'international', 'headlines', 'top']",714.0
+690,"['life', 'vanity', 'sizing', 'trend']",607.0
+691,"['colombia', 'discovers', 'gold', 'coin', 'treasure', 'edge']",2214.0
+692,"['global', 'headlines', 'soldier', 'russia', 'north', 'korea', 'test']",1143.0
+693,"['president', 'joe', 'biden', 'summit', 'americas', 'leader', 'event']",1000.0
+694,"['debate', 'mass', 'shooting', 'gun', 'bill', 'united', 'states']",300.0
+695,"['ukraine', 'food', 'grain', 'problem', 'kyiv', 'originals']",857.0
+696,"['alqaeda', 'attack', 'india', 'gulf', 'alqaeda', 'threat']",19143.0
+697,"['president', 'joe', 'biden', 'envoy', 'joseph', 'yun', 'marshall', 'islands']",586.0
+698,"['oceans', 'day', 'creating', 'awareness', 'ocean', 'climate', 'tracker']",107.0
+699,"['nasa', 'launch', 'australia']",236.0
+700,"['matthew', 'mcconaughey', 'white', 'house', 'speech', 'gun', 'control']",443.0
+701,"['tie', 'iran', 'minister', 'visit', 'india']",1500.0
+702,"['austerity', 'drive', 'government', 'announces', 'measure']",450.0
+703,"['united', 'states', 'response', 'north', 'korea', 'test', 'nukes']",6571.0
+704,"['israel', 'coalition', 'survive']",293.0
+705,"['noisy', 'show', 'support', 'boris', 'johnson', 'opposition', 'rip', 'house', 'commons']",557.0
+706,"['broadcast', 'start', 'summit', 'americas', 'south', 'korea', 'unite', 'north', 'korea']",350.0
+707,"['invasion', 'image', 'extent', 'damage', 'severodonetsk']",4929.0
+708,"['amid', 'invasion', 'sloviansk', 'resident', 'aid', 'kid']",236.0
+709,"['russiasyria', 'air', 'strike', 'simulation', 'drill', 'turkey']",3214.0
+710,"['airline', 'ticket', 'price', 'right', 'originals']",593.0
+711,"['miracle', 'cancer', 'drug', 'trial', 'tear', 'trial', 'patient', 'international']",3071.0
+712,"['oceans', 'day', 'island', 'marine', 'debris']",364.0
+713,"['pakistan', 'govt', 'measure', 'austerity', 'drive']",1429.0
+714,"['depp', 'visit', 'restaurant', 'actor', 'rejoices', 'cuisine', 'international']",2429.0
+715,"['union', 'set', 'rule', 'gender', 'balance', 'international']",200.0
+716,"['conflict', 'vow', 'severodonetsk', 'international']",5000.0
+717,"['central', 'bank', 'rate', 'basis', 'point', 'business', 'watch']",643.0
+718,"['debris', 'plague', 'guanabara', 'bay', 'fisherman']",264.0
+719,"['warns', 'test', 'north', 'korea', 'international']",1071.0
+720,"['german', 'chancellor', 'angela', 'merkel', 'policy', 'international']",4714.0
+721,"['japan', 'gdp', 'economy', 'business', 'watch']",564.0
+722,"['record', 'export', 'help', 'trade', 'deficit', 'business', 'watch']",414.0
+723,"['rebel', 'tories', 'boris', 'johnson', 'uncertainty', 'bojo', 'future']",436.0
+724,"['hulusi', 'akar', 'turkiye', 'sergei', 'shoigu', 'russia', 'international']",15857.0
+725,"['minister', 'day', 'india', 'visit', 'international']",929.0
+726,"['regulator', 'sue', 'airbnb', 'customer', 'business', 'watch']",286.0
+727,"['kyrgyzstan', 'inflation', 'poverty', 'resident', 'work']",407.0
+728,"['wastage', 'vaccine', 'america', 'million', 'shot']",1000.0
+729,"['threatens', 'attack', 'india', 'security', 'force', 'alert']",16571.0
+730,"['point', 'device', 'international']",557.0
+731,"['algae', 'climate', 'change', 'algae', 'textile', 'industry']",693.0
+732,"['ryanair', 'nationality', 'test', 'afrikaans']",857.0
+733,"['apple', 'cports', 'technology']",1214.0
+734,"['jammu', 'kashmir', 'attack', 'india']",1714.0
+735,"['bonn', 'climate', 'conference', 'first', 'climate', 'meet', 'russiaukraine', 'war']",486.0
+736,"['sweden', 'magdalena', 'andersson', 'cabinet', 'international']",443.0
+737,"['africa', 'survivors', 'church', 'massacre', 'bitcoin', 'rise', 'african', 'republic']",607.0
+738,"['treasure', 'bottle', 'winery', 'edge']",471.0
+739,"['global', 'headlines', 'south', 'korea', 'north', 'korea', 'capitol', 'hill', 'riots']",286.0
+740,"['nigeria', 'church', 'massacre']",24643.0
+741,"['covid', 'shot']",1714.0
+742,"['biden', 'failure', 'home']",11643.0
+743,"['elon', 'musk', 'twitter', 'deal']",9214.0
+744,"['gupta', 'brother', 'dubai']",55000.0
+745,"['boris', 'johnson', 'trouble']",3071.0
+746,"['talk', 'israel', 'saudi', 'arabia']",6929.0
+747,"['china', 'base', 'cambodia']",27286.0
+748,"['poland', 'pregnancy', 'register', 'doctors', 'information', 'pregnancy']",336.0
+749,"['major', 'winner', 'phil', 'mickelson', 'golf', 'breakaway', 'sports']",164.0
+750,"['mexico', 'summit', 'exclusion', 'country']",2500.0
+751,"['south', 'asia', 'diary', 'dire', 'time', 'lankan', 'tuk', 'tuk', 'driver']",100.0
+752,"['broadcast', 'new', 'york', 'law', 'mexican', 'president', 'summit', 'americas']",357.0
+753,"['elon', 'musk', 'twitter', 'deal', 'data', 'account']",507.0
+754,"['afghan', 'child', 'malnutrition']",264.0
+755,"['britain', 'ukraine', 'rocket', 'launcher', 'zelensky', 'thanks', 'boris', 'johnson', 'weapon']",786.0
+756,"['boris', 'johnson', 'convenes', 'cabinet', 'tory', 'vow', 'government']",243.0
+757,"['jennifer', 'lopez', 'generation', 'award', 'mtv', 'movie', 'awards', 'originals']",293.0
+758,"['broadcast', 'boris', 'johnson', 'policy', 'vote']",271.0
+759,"['nora', 'fatehi', 'dance']",436.0
+760,"['israel', 'coalition', 'government', 'vote', 'settlements', 'law']",500.0
+761,"['south', 'africa', 'gupta', 'brother', 'uae', 'duo', 'fraud']",786.0
+762,"['boris', 'johnson', 'confidence', 'vote', 'challenge', 'year']",286.0
+763,"['setback', 'israel', 'coalition', 'government', 'west', 'bank', 'bill', 'margin']",486.0
+764,"['summit', 'americas', 'biden', 'partnership', 'mexican', 'president', 'boycott']",929.0
+765,"['climate', 'change', 'impact', 'country']",786.0
+766,"['sri', 'lanka', 'bankruptcy', 'sri', 'lanka', 'afloat']",1000.0
+767,"['carplay', 'chip', 'announcement', 'apple', 'developers', 'conference', 'originals']",336.0
+768,"['gun', 'violence', 'state', 'teacher']",1071.0
+769,"['conflict', 'russia', 'assault', 'severodonetsk']",8357.0
+770,"['new', 'york', 'law', 'reforms', 'gun', 'killing']",121.0
+771,"['heatwave', 'pakistan', 'mango', 'output']",529.0
+772,"['ground', 'report', 'sri', 'lanka', 'capital', 'livelihood', 'crisis', 'driver']",1286.0
+773,"['unions', 'rise', 'united', 'states', 'ithaca', 'starbucks', 'store']",786.0
+774,"['bill', 'crypto', 'miner', 'power', 'bitcoin', 'gain']",264.0
+775,"['apple', 'developer', 'conference', 'apple', 'automobile']",343.0
+776,"['test', 'afrikaans', 'ryanair', 'force', 'south', 'africans', 'nationality']",407.0
+777,"['citizens', 'demand', 'artist', 'pakistan', 'taliban', 'rule', 'afghanistan']",857.0
+778,"['nigeria', 'church', 'attack', 'police', 'explosive', 'church', 'attack']",1500.0
+779,"['briton', 'geologist', 'artefact', 'iraqi', 'court']",357.0
+780,"['boris', 'johnson', 'result', 'confidence', 'vote']",393.0
+781,"['sri', 'lanka', 'crisis', 'gotabaya', 'president']",414.0
+782,"['council', 'president', 'corner', 'russia', 'west', 'russia', 'war', 'crime']",2214.0
+783,"['plane', 'abramovich', 'russian', 'oligarch']",2857.0
+784,"['afghan', 'music', 'artist', 'pakistan', 'citizens', 'artist']",393.0
+785,"['musk', 'twitter', 'deal', 'data', 'account']",2643.0
+786,"['gupta', 'brother', 'fraud', 'uae']",3214.0
+787,"['boris', 'johnson', 'confidence', 'vote', 'resignation', 'call']",1143.0
+788,"['kazakhstan', 'vote', 'overhaul', 'kazakhstan', 'nazarbayev', 'era']",521.0
+789,"['gun', 'terror', 'mass', 'shooting', 'weekend']",2714.0
+790,"['respite', 'india', 'northern', 'temperature', 'climate', 'tracker']",650.0
+791,"['layer', 'perfume', 'rape', 'joke']",17929.0
+792,"['australiachina', 'fighter', 'jet', 'encounter', 'spark', 'tension']",23357.0
+793,"['zero', 'covid']",6000.0
+794,"['boris', 'johnson', 'vote']",1857.0
+795,"['party', 'boris', 'johnson', 'tory', 'mps', 'confidence', 'international', 'headlines', 'top']",207.0
+796,"['pak', 'govt', 'imran', 'khan', 'june']",10357.0
+797,"['asia', 'oil', 'saudi', 'arabia']",29429.0
+798,"['gulf', 'india', 'prophet']",121429.0
+799,"['global', 'headlines', 'britain', 'rocket', 'launcher', 'ukraine']",264.0
+800,"['landings', 'assault', 'france', 'hitler', 'force']",486.0
+801,"['diversity', 'nora', 'fatehi', 'bollywood', 'shorts']",671.0
+802,"['france', 'anniversary', 'normandy', 'landings', 'international', 'headlines']",136.0
+803,"['amid', 'talk', 'iran', 'censure']",857.0
+804,"['australia', 'trade', 'investment', 'tie', 'indonesia', 'originals']",171.0
+805,"['united', 'states', 'moscow', 'embassy', 'international', 'headlines']",11357.0
+806,"['weapons', 'france', 'germany', 'originals']",1214.0
+807,"['rafael', 'nadal', 'beat', 'set', 'sports']",1571.0
+808,"['bjp', 'spox', 'india', 'spot', 'silent', 'uighurs', 'india', 'fringe']",12214.0
+809,"['mps', 'boris', 'johnson', 'fate', 'today', 'international', 'headlines', 'top']",321.0
+810,"['broadcast', 'boris', 'johnson', 'confidence', 'south', 'korea', 'testfires', 'missile']",593.0
+811,"['hasina', 'rhetoric', 'bangladesh', 'opposition', 'right', 'issue']",493.0
+812,"['boris', 'johnson', 'vote', 'today']",929.0
+813,"['putin', 'west', 'weapon', 'kyiv', 'time', 'week']",19214.0
+814,"['rare', 'snowfall', 'blanket', 'part', 'bolivia', 'local', 'sheet']",693.0
+815,"['nigeria', 'church', 'attack', 'gunmen', 'church', 'worshipper']",4571.0
+816,"['moment', 'prince', 'louis', 'tantrum', 'steal', 'queen', 'platinum', 'jubilee', 'finale', 'show']",3143.0
+817,"['gun', 'violence', 'ohio', 'louisiana', 'push', 'teacher']",1143.0
+818,"['iaea', 'meet', 'talk', 'iran', 'violation']",379.0
+819,"['india', 'condemnation', 'oic', 'row', 'remark', 'prophet']",3071.0
+820,"['exhibit', 'tribute', 'toronto', 'fireworks', 'peril', 'climate', 'change']",243.0
+821,"['coral', 'reef', 'floor', 'experts', 'sound', 'reef']",271.0
+822,"['google', 'defamation', 'fight', 'court', 'google', 'john', 'barilaro', 'video', 'youtube']",857.0
+823,"['boris', 'johnson', 'vote', 'letter', 'support']",1500.0
+824,"['thailand', 'pride', 'parade', 'year', 'drag', 'artist', 'sex', 'worker', 'feminist']",557.0
+825,"['row', 'remark', 'prophet', 'muhammad', 'india', 'oic', 'statement']",5071.0
+826,"['recovery', 'consumer', 'finance', 'covid', 'period', 'consumer', 'finance']",136.0
+827,"['india', 'witness', 'rise', 'case', 'case', 'hour']",1429.0
+828,"['kazakhstan', 'constitution', 'referendum', 'pass', 'majority']",1214.0
+829,"['nigeria', 'church', 'attack', 'gunmen', 'fire', 'detonate', 'explosive', 'worshipper']",3929.0
+830,"['china', 'relaxes', 'covid', 'restriction', 'resident', 'covid', 'test', 'everything']",707.0
+831,"['japan', 'missile', 'launch', 'north', 'korea', 'korea']",9500.0
+832,"['putin', 'target', 'west', 'weapon', 'ukraine']",18143.0
+833,"['tribute', 'toronto', 'art', 'exhibit', 'toronto', 'sky', 'purple', 'gas']",500.0
+834,"['china', 'harsh', 'covid', 'restriction', 'international']",464.0
+835,"['movement', 'technology', 'supporter', 'modi', 'climate', 'tracker']",643.0
+836,"['visit', 'prime', 'ministers', 'museum', 'new', 'delhi', 'tech']",7571.0
+837,"['wang', 'islandhopping', 'pacific', 'island', 'nations', 'international']",2571.0
+838,"['monkeypox', 'outbreak', 'spread', 'virus', 'who', 'international']",2714.0
+839,"['imran', 'khan', 'army', 'pakistan', 'military', 'water', 'international']",6643.0
+840,"['power', 'resource', 'international']",929.0
+841,"['kazakhstan', 'referendum', 'prez', 'tokayev', 'parliament', 'international']",521.0
+842,"['pakistan', 'imran', 'khan', 'army', 'ouster', 'prime', 'minister']",1643.0
+843,"['soil', 'taiwan', 'record', 'rise', 'aquaponics', 'sale']",1571.0
+844,"['uniform', 'civil', 'code', 'india', 'ready']",39000.0
+845,"['britain', 'drones', 'international']",2214.0
+846,"['narendra', 'modi', 'environment', 'movement']",1071.0
+847,"['bangladesh', 'fire', 'chemical', 'explosion', 'international']",3857.0
+848,"['celebrity', 'iraq', 'moustache', 'man', 'edge']",486.0
+849,"['royal', 'australian', 'air', 'force', 'aircraft', 'fighter', 'aircraft']",25429.0
+850,"['mumbai', 'train', 'railways', 'plan', 'train']",1357.0
+851,"['suniel', 'shetty', 'talk', 'comeback']",286.0
+852,"['china', 'race', 'space', 'power', 'astronaut', 'space']",5143.0
+853,"['nargis', 'fakhri', 'favourite', 'designer']",457.0
+854,"['canada', 'surge', 'sale', 'canadians', 'rush', 'gun', 'law']",2857.0
+855,"['conflict', 'zelensky', 'putin', 'fight', 'severodonetsk', 'intensifies']",9429.0
+856,"['north', 'korea', 'testfires', 'missile', 'south', 'korea', 'joint', 'drill']",1500.0
+857,"['sydney', 'opera', 'house', 'makeover', 'spent', 'upgradation']",193.0
+858,"['greece', 'wildfire', 'athens', 'suburb', 'casualty']",564.0
+859,"['explosion', 'electronics', 'factory', 'india', 'blast']",857.0
+860,"['sri', 'lankan', 'warns', 'job', 'loss', 'crisis']",1714.0
+861,"['storm', 'florida', 'heavy', 'rain', 'miami']",929.0
+862,"['president', 'biden', 'house', 'delaware', 'plane', 'breach', 'air', 'space']",45857.0
+863,"['abu', 'dhabi', 'bollywood', 'star']",1857.0
+864,"['environment', 'day', 'impact', 'climate', 'change']",529.0
+865,"['watch', 'old', 'phone', 'artwork', 'ivory', 'coast', 'artist', 'edge']",521.0
+866,"['judges', 'tunisia', 'arm', 'tunisian', 'president', 'judges', 'international']",1214.0
+867,"['hong', 'kong', 'light', 'candle', 'tiananmen', 'international']",786.0
+868,"['crisis', 'north', 'korea', 'pandemic', 'food', 'crisis']",2143.0
+869,"['tiananmen', 'massacre', 'day', 'china', 'everyone']",2071.0
+870,"['navic', 'india', 'navigation', 'system']",34714.0
+871,"['turkiye', 'tonne', 'wheat', 'shipment', 'india', 'international']",7714.0
+872,"['russia', 'turkiye', 'international']",9500.0
+873,"['president', 'putin', 'west', 'food', 'crisis', 'international']",2714.0
+874,"['india', 'attention', 'international']",1929.0
+875,"['tiananmen', 'massacre', 'year', 'china', 'death', 'toll']",16643.0
+876,"['aeroflot', 'dispute', 'company', 'international']",1714.0
+877,"['erdogan', 'threat', 'offensive', 'syria', 'international']",1357.0
+878,"['day', 'ukraine', 'war', 'conflict', 'international']",857.0
+879,"['neha', 'kakkar', 'tip', 'singer']",486.0
+880,"['tongue', 'twister', 'lara', 'dutta']",479.0
+881,"['sara', 'ali', 'khan', 'game', 'abu', 'dhabi']",857.0
+882,"['deal', 'point', 'lawmaker', 'june']",1357.0
+883,"['tanishk', 'bagchi', 'favourite', 'song', 'talk', 'music', 'direction']",207.0
+884,"['psy', 'song', 'gangnam', 'style', 'year', 'international']",5500.0
+885,"['myanmar', 'junta', 'spree', 'raid']",493.0
+886,"['tiger', 'shroff', 'passion']",314.0
+887,"['joe', 'biden', 'week', 'summit', 'los', 'angeles', 'political']",621.0
+888,"['china', 'crackdown', 'tiananmen', 'hong', 'kong', 'victoria', 'park']",1357.0
+889,"['wideangle', 'israel', 'turmoil']",26143.0
+890,"['storm', 'alex', 'flood', 'cuba', 'part']",1429.0
+891,"['california', 'hospital', 'stabbing', 'authorities', 'attacker']",607.0
+892,"['south', 'africa', 'shortage', 'doctor', 'opposition', 'anc', 'government']",286.0
+893,"['abu', 'dhabi', 'stars', 'carpet']",786.0
+894,"['abu', 'dhabi', 'stars', 'carpet']",786.0
+895,"['train', 'derails', 'resort', 'town', 'investigation']",1071.0
+896,"['putin', 'silence', 'food', 'crisis', 'west', 'food', 'crisis']",49071.0
+897,"['melt', 'conversation', 'sandeep', 'bhushan', 'meta']",129.0
+898,"['bare', 'river', 'kenya', 'sand', 'harvesting', 'issue', 'kenya']",929.0
+899,"['netherlands', 'walkway', 'rotterdam', 'climate']",686.0
+900,"['cocacola', 'backlash', 'group', 'garbage', 'climate']",1214.0
+901,"['steve', 'jobs', 'letter', 'sylvester', 'stallone', 'rocky', 'shoe', 'artifact', 'display', 'edge']",243.0
+902,"['tunisia', 'degradation', 'posidonia', 'seasgrass', 'oxygen', 'carbon']",286.0
+903,"['fossil', 'fuel', 'impact', 'climate', 'industry', 'emission']",257.0
+904,"['stockholm', 'climate', 'conference', 'overshadows', 'meet']",157.0
+905,"['snow', 'alps', 'drinking', 'water']",379.0
+906,"['argentine', 'foundation', 'concern', 'need', 'ocean']",314.0
+907,"['mistake', 'covid', 'death', 'toll']",1857.0
+908,"['bank', 'report', 'road', 'accident', 'india']",414.0
+909,"['external', 'affairs', 'minister', 'jaishankar', 'globsec', 'europe', 'hypocrisy']",5643.0
+910,"['day', 'russiaukraine', 'war', 'end', 'sight', 'ukraine', 'war']",2286.0
+911,"['swiatek', 'gauff']",200.0
+912,"['day', 'russiaukraine', 'war', 'global', 'food', 'fuel', 'crisis']",2286.0
+913,"['taiwan', 'brace', 'invasion', 'ukraine', 'taiwan']",70071.0
+914,"['thaw', 'relation', 'biden', 'mbs', 'time']",1000.0
+915,"['meet', 'ukraine', 'rainbow', 'soldier', 'lgbtq', 'soldier', 'motif', 'identity']",714.0
+916,"['west', 'asia', 'post', 'erdogan', 'offensive', 'syria', 'biden', 'saudi', 'arabia']",1643.0
+917,"['coproduction', 'discussing', 'china', 'pacific', 'island', 'pact', 'global', 'food', 'shortage']",143.0
+918,"['people', 'church', 'iowa', 'tale', 'mass']",564.0
+919,"['sri', 'lanka', 'economic', 'crisis', 'seek', 'billion', 'imf']",1357.0
+920,"['pakistan', 'hike', 'petrol', 'diesel', 'price', 'bitter', 'pill', 'deficit']",1071.0
+921,"['day', 'ukrainerussia', 'war', 'cost', 'conflict', 'originals']",543.0
+922,"['arabia', 'tie', 'president', 'biden', 'riyadh']",786.0
+923,"['broadcast', 'incident', 'iowa', 'direct', 'washington']",364.0
+924,"['life', 'goodness', 'dal']",714.0
+925,"['musk', 'tesla', 'staff', 'international']",586.0
+926,"['morale', 'ukrainians', 'songs', 'race', 'russians']",264.0
+927,"['agriculture', 'lobaye', 'region', 'new', 'technology', 'fertiliser']",257.0
+928,"['ukraine', 'school', 'student', 'dress', 'ruin']",8500.0
+929,"['police', 'chief', 'leave', 'texas', 'school']",6700.0
+930,"['taliban', 'appeal', 'support', 'afghanistan', 'earthquake']",12000.0
+931,"['russia', 'lithuania', 'consequence', 'transit', 'sanction']",256000.0
+932,"['report', 'civilian', 'advance', 'ukraine']",88000.0
+933,"['earthquake', 'kill', 'people', 'afghanistan']",51000.0
+934,"['hundreds', 'thousand', 'flood', 'ravage', 'china']",142000.0
+935,"['earthquake', 'kill', 'people', 'afghanistan']",92000.0
+936,"['half', 'separatist', 'force', 'ukraine']",630000.0
+937,"['sri', 'lanka', 'victim', 'trap', 'newsnight']",114000.0
+938,"['earthquake', 'kill', 'hundred', 'afghanistan']",147000.0
+939,"['site', 'texas', 'school', 'shooting']",26000.0
+940,"['election', 'official', 'trump', 'voter', 'death', 'threat']",33000.0
+941,"['bill', 'cosby', 'teen', 'playboy', 'mansion', 'jury', 'find']",31000.0
+942,"['russia', 'city', 'severodonetsk', 'ukraine']",267000.0
+943,"['journalist', 'auction', 'nobel', 'medal']",33000.0
+944,"['rail', 'strike', 'year']",63000.0
+945,"['mountain', 'gorilla', 'survival', 'offer', 'biodiversity', 'crisis']",8500.0
+946,"['boy', 'yoga', 'instructor', 'bbcnews']",13500.0
+947,"['pakistan', 'summer', 'decade']",53000.0
+948,"['monsoons', 'india', 'bangladesh', 'million']",22333.0
+949,"['wildfires', 'northern', 'spain']",13667.0
+950,"['president', 'macron', 'majority', 'split', 'vote']",35000.0
+951,"['russia', 'grain', 'war', 'crime']",36000.0
+952,"['transgender', 'swimmer', 'woman', 'race']",54000.0
+953,"['elections', 'france', 'battle', 'emmanuel', 'macron', 'left']",16333.0
+954,"['war', 'ukraine', 'year', 'nato']",29000.0
+955,"['former', 'gordon', 'brown', 'boris', 'johnson', 'leader', 'crisis']",15500.0
+956,"['cup', 'qatar', 'death', 'gulf', 'killer', 'heat']",46750.0
+957,"['scotland', 'island', 'airport', 'footage']",6000.0
+958,"['trains', 'fire', 'india', 'hiring', 'protest']",86800.0
+959,"['asylum', 'claimant']",9200.0
+960,"['bitcoin', 'will', 'salvador', 'crypto', 'pay']",9400.0
+961,"['woman', 'propaganda', 'icon']",52800.0
+962,"['surgeon', 'train', 'ukraine', 'doctor', 'war', 'injury']",7000.0
+963,"['foreign', 'minister', 'invade', 'ukraine']",68200.0
+964,"['president', 'putin', 'russia', 'sanction']",119400.0
+965,"['nepal', 'everest', 'base', 'camp']",19400.0
+966,"['sri', 'lanka', 'crisis', 'newsnight']",14000.0
+967,"['russia', 'control', 'town', 'severodonetsk']",66167.0
+968,"['russia', 'ukraine', 'war']",283333.0
+969,"['ancient', 'teeth', 'reveal', 'black', 'death', 'researcher']",10571.0
+970,"['staff', 'taliban', 'beating', 'torture', 'afghanistan']",12857.0
+971,"['leader', 'kyiv', 'show', 'solidarity', 'ukraine']",26429.0
+972,"['scraps', 'bread', 'afghans']",14143.0
+973,"['admits', 'amazon', 'pair', 'dom', 'phillips', 'bruno', 'pereira', 'brazil', 'police']",9143.0
+974,"['president', 'biden', 'support', 'ukraine']",16429.0
+975,"['hole', 'astronomer']",44875.0
+976,"['family', 'life', 'occupation']",30125.0
+977,"['year', 'floor', 'grenfell', 'newsnight']",3375.0
+978,"['lizzo', 'change', 'derogatory', 'lyric']",4000.0
+979,"['spain', 'brings', 'record']",30444.0
+980,"['russia', 'bridge', 'city', 'severodonetsk']",57556.0
+981,"['trump', 'slam', 'capitol', 'hearing', 'court']",7667.0
+982,"['flight', 'seeker', 'rwanda']",12556.0
+983,"['government', 'rwanda', 'asylum', 'plan']",11000.0
+984,"['google', 'engineer', 'chatbot', 'become', 'sentient']",37500.0
+985,"['mass', 'beijing', 'covid']",6600.0
+986,"['plan', 'gun', 'control', 'measure', 'senator']",3100.0
+987,"['russia', 'cluster', 'munition', 'city', 'kharkiv']",30700.0
+988,"['defiant', 'russia', 'mcdonald', 'tasty', 'burger', 'chain']",51900.0
+989,"['san', 'josé', 'galleon', 'shipwreck', 'coast']",4400.0
+990,"['china', 'taiwan', 'independence', 'war']",82091.0
+991,"['shelling', 'cause', 'chemical', 'fire', 'city', 'severodonetsk']",43364.0
+992,"['tens', 'thousand', 'gun', 'control', 'texas', 'school']",5091.0
+993,"['thailand', 'trade']",5714.0
+994,"['russia', 'tonne', 'ukraine', 'grain']",9786.0
+995,"['ukraine', 'war', 'food', 'crisis', 'trade', 'body']",5357.0
+996,"['uber', 'power', 'emergency', 'food', 'delivery', 'ukraine']",3000.0
+997,"['restaurants', 'supermarket', 'fine', 'food', 'waste', 'spain']",7357.0
+998,"['incident', 'car', 'plough', 'crowd', 'berlin']",4643.0
+999,"['matthew', 'mcconaughey', 'gun', 'control', 'white', 'house']",6143.0
+1000,"['russia', 'invasion', 'ukraine', 'impact', 'frontline']",12357.0
+1001,"['devastation', 'australia', 'climate', 'change', 'crisis', 'camera']",4143.0
+1002,"['russia', 'ambassador', 'security', 'council', 'meeting']",63500.0
+1003,"['boris', 'johnson', 'leadership', 'vote', 'mps', 'confidence']",15000.0
+1004,"['pilot', 'week']",12643.0
+1005,"['missile', 'ukraine']",121429.0
+1006,"['depot', 'blast', 'bangladesh', 'kill', 'people']",5143.0
+1007,"['prime', 'minister', 'boris', 'johnson', 'vote', 'leadership']",12357.0
+1008,"['lack', 'discipline', 'war', 'crime', 'ukraine', 'lawyer']",8429.0
+1009,"['dozens', 'hundred', 'bangladesh', 'depot', 'explosion']",14714.0
+1010,"['explosions', 'kyiv', 'battle', 'ukraine']",24643.0
+1011,"['prince', 'harry', 'meghan', 'queen', 'platinum', 'jubilee', 'celebration']",7143.0
+1012,"['shot', 'police', 'fuel', 'sri', 'lanka']",4571.0
+1013,"['danny', 'boyle', 'sex', 'pistols', 'jubilee', 'newsnight']",3000.0
+1014,"['has', 'china', 'policy']",3524.0
+1015,"['holidaymakers', 'disruption', 'flight', 'airport']",2905.0
+1016,"['ukraine', 'rocket', 'aid', 'package']",23667.0
+1017,"['california', 'water', 'restriction']",22333.0
+1018,"['torture', 'russianoccupied', 'region', 'ukraine', 'kherson']",2286.0
+1019,"['oil', 'import', 'ukraine', 'war']",6476.0
+1020,"['texas', 'school', 'victim', 'parent', 'nightmare', 'daughter', 'death']",6762.0
+1021,"['teenager', 'marriage', 'chad']",1524.0
+1022,"['tennis', 'player', 'andy', 'murray', 'texas', 'school']",714.0
+1023,"['ukrainians', 'chip', 'prisoner', 'war', 'exchange']",3429.0
+1024,"['uefa', 'scene', 'champions', 'league']",2286.0
+1025,"['elizabeth', 'beacon', 'hope', 'king', 'jordan']",4714.0
+1026,"['sri', 'lankan', 'authority', 'force', 'protester']",1952.0
+1027,"['uvalde', 'police', 'response', 'texas', 'school']",2667.0
+1028,"['president', 'zelensky', 'trip', 'kyiv', 'russia', 'ukraine', 'invasion']",21619.0
+1029,"['police', 'brutality', 'champions', 'league']",24571.0
+1030,"['ambassador', 'interview']",26190.0
+1031,"['jerusalem', 'tension', 'israeli', 'youth', 'flag', 'march']",5571.0
+1032,"['liverpool', 'investigation', 'champions', 'league', 'delay']",6095.0
+1033,"['woman', 'school', 'madagascar']",2286.0
+1034,"['mum', 'fight', 'son', 'president', 'putin', 'war', 'ukraine']",52381.0
+1035,"['texas', 'police', 'anger', 'delay', 'school', 'gunman']",7762.0
+1036,"['rage', 'east', 'ukraine']",23179.0
+1037,"['hundreds', 'vigil', 'texas', 'school', 'victim']",1929.0
+1038,"['sue', 'gray', 'partygate', 'report', 'boris', 'johnson']",6179.0
+1039,"['invasion', 'ukraine', 'phase']",13964.0
+1040,"['evacuation', 'afghanistan', 'disaster', 'newsnight']",1429.0
+1041,"['texas', 'school', 'leaf']",8321.0
+1042,"['file', 'policy', 'uighur', 'detention', 'camp']",32393.0
+1043,"['child', 'teacher', 'shot', 'texas', 'school']",10643.0
+1044,"['slumdog', 'millionaire', 'composer', 'rahman', 'reality', 'film']",571.0
+1045,"['russia', 'ready', 'conflict', 'ukraine', 'attack', 'phase']",39286.0
+1046,"['president', 'biden', 'ukraine', 'war', 'issue', 'month', 'russia', 'invasion']",16143.0
+1047,"['withdrawal', 'afghanistan', 'disaster', 'inquiry']",2000.0
+1048,"['data', 'offer', 'insight', 'china', 'uyghur', 'detention', 'camp']",15214.0
+1049,"['photos', 'boris', 'johnson', 'drinking', 'event', 'newsnight']",3250.0
+1050,"['nazanin', 'zaghariratcliffe', 'confession', 'government']",2036.0
+1051,"['order', 'afghan', 'presenter', 'air']",5286.0
+1052,"['soldier', 'life', 'civilian', 'ukraine', 'war', 'crime', 'trial']",5167.0
+1053,"['russia', 'halt', 'gas', 'supply', 'finland']",22300.0
+1054,"['australia', 'election', 'people', 'minister', 'candidate']",767.0
+1055,"['invasion', 'ukraine', 'food', 'crisis']",4500.0
+1056,"['president', 'joe', 'biden', 'visit', 'south', 'korea']",5100.0
+1057,"['russia', 'bombardment', 'ukraine', 'donbas', 'region']",8633.0
+1058,"['pulp', 'jarvis', 'cocker', 'life', 'content', 'newsnight']",2600.0
+1059,"['russian', 'protest', 'side', 'shopping']",11200.0
+1060,"['crypto', 'market', 'value', 'third', 'month']",5033.0
+1061,"['ghana', 'africa', 'country']",9400.0
+1062,"['ukraine', 'slovenia']",633.0
+1063,"['north', 'sea', 'wind', 'expansion', 'energy']",2067.0
+1064,"['pleads', 'war', 'crime', 'trial', 'ukraine', 'conflict']",8700.0
+1065,"['time', 'change']",3667.0
+1066,"['spread', 'covid', 'north', 'korea']",10100.0
+1067,"['people', 'cryptocurrency', 'nfts']",2967.0
+1068,"['china', 'feminist', 'sophia', 'huang', 'xueqin']",1267.0
+1069,"['afghanistan', 'girl', 'school', 'taliban']",967.0
+1070,"['fight', 'abortion', 'protest', 'newsnight']",633.0
+1071,"['mariupol', 'force', 'troop']",26367.0
+1072,"['president', 'joe', 'biden', 'supremacy', 'buffalo']",2167.0
+1073,"['ukraine', 'war', 'crime', 'child', 'camp']",3867.0
+1074,"['buffalo', 'gunman', 'victim', 'mayor']",1733.0
+1075,"['finland', 'nato']",18533.0
+1076,"['ground', 'combat', 'force', 'ukraine']",80000.0
+1077,"['pentagon', 'press', 'secretary', 'apologises', 'reaction', 'ukraine', 'press', 'conference']",5800.0
+1078,"['attack', 'new', 'york', 'state', 'store']",3167.0
+1079,"['ukraine', 'eurovision', 'sam', 'ryder']",4233.0
+1080,"['woman', 'brazil']",2000.0
+1081,"['child', 'ukraine']",1767.0
+1082,"['russia', 'mistake', 'finland', 'sweden', 'nato']",66667.0
+1083,"['eurovision', 'winner', 'måneskin', 'talk', 'fame']",1367.0
+1084,"['dozens', 'delhi', 'fire', 'sweep', 'office', 'building']",1367.0
+1085,"['crisis', 'sri', 'lanka']",7033.0
+1086,"['force', 'city', 'kharkiv']",93333.0
+1087,"['force', 'journalist', 'shireen', 'abu', 'aqla']",43333.0
+1088,"['ukraine', 'frontline', 'fighting', 'shell', 'village', 'mariupol']",20133.0
+1089,"['reporter', 'shireen', 'abu', 'aqla', 'see', 'violence']",6000.0
+1090,"['lebanon', 'election', 'country', 'crisis']",1100.0
+1091,"['battalion', 'vehicle', 'river']",100000.0
+1092,"['athlete', 'category', 'newsnight']",1233.0
+1093,"['finland', 'nato', 'membership', 'russia', 'invasion', 'ukraine']",15367.0
+1094,"['passenger', 'florida', 'plane', 'pilot', 'fall']",4133.0
+1095,"['report', 'counterattack', 'russians']",136667.0
+1096,"['security', 'deal', 'finland', 'sweden']",5600.0
+1097,"['brazil', 'president', 'jair', 'bolsonaro', 'supporter']",1000.0
+1098,"['journalist', 'israeli', 'raid', 'west', 'bank']",4033.0
+1099,"['australia', 'great', 'barrier', 'reef', 'experience', 'mass', 'bleaching', 'event']",1100.0
+1100,"['sarin', 'gas', 'soldier', 'gulf', 'war', 'syndrome', 'sickness', 'scientist']",1600.0
+1101,"['apple', 'ipod', 'year']",1467.0
+1102,"['arson', 'attack', 'sri', 'lanka', 'protest', 'crisis']",2033.0
+1103,"['sheldon', 'riley', 'mask', 'eurovision']",1600.0
+1104,"['cctv', 'kansas', 'tornado', 'car', 'park']",3033.0
+1105,"['volunteer', 'pilot', 'supply', 'ukraine', 'border']",2833.0
+1106,"['japan', 'child']",40000.0
+1107,"['bill', 'pandemic', 'divorce', 'musk']",6800.0
+1108,"['depp', 'heard', 'trial', 'word']",3067.0
+1109,"['families', 'mariupol', 'troop', 'life']",7833.0
+1110,"['prince', 'harry', 'prince', 'andrew', 'buckingham', 'palace', 'balcony']",4467.0
+1111,"['town', 'city', 'russia', 'war', 'ukraine']",3367.0
+1112,"['karine', 'jeanpierre', 'history', 'white', 'house', 'press', 'secretary']",4567.0
+1113,"['manhunt', 'palestinian', 'axe', 'attacker', 'israel']",1567.0
+1114,"['afghanistan', 'afghan', 'pledge', 'army', 'newsnight']",567.0
+1115,"['candidate', 'philippines', 'election']",12233.0
+1116,"['operation', 'civilian', 'steelworks', 'way']",7100.0
+1117,"['shell', 'profit', 'oil', 'price', 'surge', 'russiaukraine', 'war']",3733.0
+1118,"['north', 'korea', 'test', 'missile', 'south', 'president']",2000.0
+1119,"['capture', 'russia', 'front', 'line']",4567.0
+1120,"['covid', 'death', 'toll', 'who']",2700.0
+1121,"['madrid', 'liverpool', 'champions', 'league', 'comeback', 'man', 'city']",867.0
+1122,"['city', 'crisis', 'san', 'francisco', 'newsnight']",24700.0
+1123,"['millions', 'woman', 'right', 'abortion']",2633.0
+1124,"['new', 'test', 'eye', 'cancer', 'baby', 'roll']",400.0
+1125,"['cost', 'debt', 'china']",20333.0
+1126,"['evacuation', 'ukrainians', 'mariupol', 'plant']",2067.0
+1127,"['village', 'russians']",3900.0
+1128,"['civilian', 'mariupol', 'steel', 'plant']",4600.0
+1129,"['abortion', 'right', 'court']",2333.0
+1130,"['celebrities', 'outfit', 'met', 'gala']",1467.0
+1131,"['civilian', 'mariupol', 'steelworks']",16933.0
+1132,"['china', 'zero', 'covid']",33333.0
+1133,"['putin', 'investigator', 'bucha']",26033.0
+1134,"['force', 'hunt', 'soldier']",83333.0
+1135,"['former', 'afghanistan', 'war', 'taliban']",5800.0
+1136,"['shanghai', 'resident', 'measure']",3067.0
+1137,"['does', 'denmark', 'standard', 'refugee']",1933.0
+1138,"['child', 'war', 'russia', 'parent']",2733.0
+1139,"['sri', 'lanka', 'crisis', 'choice', 'sale', 'tax', 'finance', 'chief']",2367.0
+1140,"['rockets', 'capital', 'kyiv', 'chief', 'city']",22567.0
+1141,"['china', 'lockdown', 'strategy']",8367.0
+1142,"['finland', 'sweden', 'join', 'nato']",113333.0
+1143,"['relation', 'newsnight']",2267.0
+1144,"['activist', 'osman', 'kavala', 'life', 'prison']",1200.0
+1145,"['elon', 'musk', 'strike', 'deal', 'twitter']",2867.0
+1146,"['russia', 'ukraine', 'conflict', 'war', 'three']",13833.0
+1147,"['troop', 'army', 'donbas', 'frontline']",56667.0
+1148,"['afghanistan', 'economy', 'health', 'service', 'taliban', 'takeover']",1800.0
+1149,"['beijing', 'mass', 'covid', 'testing', 'case']",1400.0
+1150,"['generation', 'family', 'missile', 'strike']",3600.0
+1151,"['city', 'brunt', 'refugee', 'crisis']",2033.0
+1152,"['russia', 'failing', 'war', 'aim', 'antony', 'blinken', 'ukraine', 'visit']",33333.0
+1153,"['nigeria', 'trauma', 'explosion', 'oil', 'refinery', 'president', 'buhari']",1367.0
+1154,"['supporters', 'macron', 'french', 'election', 'win', 'pen']",1000.0
+1155,"['macron', 'france', 'pen']",4767.0
+1156,"['secretary', 'state', 'antony', 'blinken', 'kyiv', 'zelensky', 'say']",5767.0
+1157,"['colombia', 'election', 'how', 'tiktok', 'race']",767.0
+1158,"['atrocity', 'russia', 'ukraine', 'official']",7900.0
+1159,"['japan', 'tourist', 'boat']",5567.0
+1160,"['child', 'invasion', 'settling']",2267.0
+1161,"['polls', 'france', 'macron', 'pen']",3867.0
+1162,"['ukrainians', 'ammunition']",2150.0
+1163,"['macron', 'pen', 'clash', 'election', 'debate']",2283.0
+1164,"['conservative', 'party', 'donor', 'link', 'oligarch', 'london', 'property']",850.0
+1165,"['people', 'resistance', 'myanmar']",13550.0
+1166,"['johnson', 'archbishop', 'canterbury', 'newsnight']",617.0
+1167,"['putin', 'force', 'mariupol', 'fighter']",33333.0
+1168,"['fears', 'water', 'borne', 'flood', 'south', 'africa']",617.0
+1169,"['wimbledon', 'tennis', 'tournament', 'ban', 'player']",717.0
+1170,"['couple', 'help', 'surrogate', 'mother', 'home']",583.0
+1171,"['russia', 'civilian', 'mariupol', 'ukraine']",7450.0
+1172,"['woman', 'vaccine', 'rollout', 'newsnight']",333.0
+1173,"['johnny', 'depp', 'amber', 'heard']",2183.0
+1174,"['india', 'economy', 'rider', 'life', 'food']",900.0
+1175,"['blast', 'school', 'afghan', 'capital', 'kabul']",1167.0
+1176,"['impact', 'war', 'life', 'ukraine', 'child']",1183.0
+1177,"['troop', 'battle', 'donbas', 'ukraine']",28333.0
+1178,"['aboriginal', 'australia', 'diversity', 'camera']",733.0
+1179,"['travellers', 'racism', 'suicide', 'crisis']",3183.0
+1180,"['journalist', 'family', 'ukraine']",733.0
+1181,"['sweden', 'quran', 'burning']",11517.0
+1182,"['missiles', 'lviv', 'ukraine', 'west', 'russia', 'bombard', 'city']",12983.0
+1183,"['mountain', 'rescue', 'team', 'trial', 'drone', 'technology', 'climber']",967.0
+1184,"['russia', 'flagship', 'moskva']",30000.0
+1185,"['clashes', 'shanghai', 'china', 'covid', 'eviction']",20000.0
+1186,"['islamic', 'state', 'beatle', 'jihadist', 'jury']",433.0
+1187,"['plan', 'refugee', 'rwanda', 'critic']",10683.0
+1188,"['oil', 'blood', 'money', 'zelensky']",2450.0
+1189,"['russia', 'flagship', 'black', 'sea', 'missile', 'cruiser']",28333.0
+1190,"['medium', 'post', 'war', 'ukraine']",700.0
+1191,"['footage', 'police', 'man']",3833.0
+1192,"['south', 'africa']",3883.0
+1193,"['russians', 'country', 'invasion', 'ukraine']",14133.0
+1194,"['deal', 'asylum', 'seeker', 'rwanda']",1333.0
+1195,"['mariupol', 'brink', 'capture', 'russia', 'force']",31667.0
+1196,"['cluster', 'bomb', 'evidence', 'ukraine', 'railway', 'attack']",2800.0
+1197,"['china', 'cost', 'shanghai']",5467.0
+1198,"['claim', 'troop', 'mariupol']",12133.0
+1199,"['president', 'joe', 'biden', 'russia', 'genocide', 'ukraine']",717.0
+1200,"['south', 'africa', 'flood']",5967.0
+1201,"['new', 'york', 'police', 'hunt', 'man']",1283.0
+1202,"['fight', 'east', 'ukraine', 'set']",25000.0
+1203,"['macron', 'pen', 'economy', 'election']",917.0
+1204,"['shanghai', 'lockdown', 'china', 'covid', 'policy', 'mean', 'economy', 'newsnight']",16667.0
+1205,"['russia', 'mistake', 'zelensky']",3000.0
+1206,"['marine', 'pen', 'emmanuel', 'macron', 'presidential', 'runoff']",2933.0
+1207,"['chancellor', 'rishi', 'sunak', 'wife', 'pressure', 'tax']",2833.0
+1208,"['imran', 'khan', 'pakistan', 'vote']",4033.0
+1209,"['macron', 'pen', 'challenge', 'poll', 'election']",1283.0
+1210,"['johnson', 'zelensky', 'kyiv', 'surprise', 'ukraine', 'visit']",51667.0
+1211,"['sri', 'lanka', 'fuel', 'crisis', 'god']",25000.0
+1212,"['flight', 'delay', 'easter', 'chaos']",2100.0
+1213,"['inside', 'ukraine', 'chernobyl', 'site', 'occupation']",9717.0
+1214,"['covid', 'rule']",1533.0
+1215,"['volodymyr', 'zelensky', 'russia', 'attack', 'railway', 'station']",2350.0
+1216,"['sheeran', 'copyright', 'case', 'honesty', 'money', 'newsnight']",1400.0
+1217,"['missile', 'strike', 'ukraine', 'train', 'station', 'civilian']",5567.0
+1218,"['science', 'woman', 'skin', 'cell', 'year']",11433.0
+1219,"['election', 'pen', 'macron', 'newsnight']",2333.0
+1220,"['dozens', 'ukraine', 'railway', 'station', 'rocket']",2383.0
+1221,"['pink', 'floyd', 'reunite', 'ukraine', 'protest', 'song']",3467.0
+1222,"['pen', 'macron', 'french', 'presidency']",1150.0
+1223,"['life', 'force', 'bucha', 'ukraine']",5133.0
+1224,"['zelensky', 'speech', 'leader', 'war', 'crime', 'trial']",1483.0
+1225,"['hundreds', 'civilian', 'town', 'kyiv']",13067.0
+1226,"['volunteer', 'care']",600.0
+1227,"['satellite', 'image', 'atrocity', 'bucha', 'ukraine']",10733.0
+1228,"['sri', 'lanka', 'mps', 'government', 'country', 'power', 'cut', 'shortage']",3100.0
+1229,"['charles', 'darwin', 'floor', 'gift']",2117.0
+1230,"['rescue', 'mission', 'child']",1650.0
+1231,"['red', 'cross', 'aid', 'convoy', 'russia', 'force', 'mariupol']",4133.0
+1232,"['mother', 'mission', 'vulgar', 'book']",1067.0
+1233,['scientist'],3650.0
+1234,"['hungary', 'viktor', 'orban', 'election', 'victory', 'headache']",2017.0
+1235,"['ukraine', 'president', 'zelensky', 'grammys']",1250.0
+1236,"['sacramento', 'california']",1800.0
+1237,"['eastenders', 'dot', 'cotton', 'actress', 'june', 'brown']",2200.0
+1238,"['ukraine', 'president', 'zelensky', 'force']",3300.0
+1239,"['woman', 'memory', 'ukraine', 'invasion']",1000.0
+1240,"['mass', 'graf', 'hundred', 'body', 'kyiv']",38333.0
+1241,"['president', 'zelensky', 'spokesperson', 'war', 'crime', 'russia']",7817.0
+1242,"['cartoon', 'masyanya', 'russia']",2583.0
+1243,"['putin', 'supply', 'russian', 'gas', 'rouble']",4333.0
+1244,"['trade', 'alliance', 'russia', 'india', 'newsnight']",4567.0
+1245,"['life', 'ukraine', 'refugee', 'poland']",3700.0
+1246,"['ukraine', 'evacuates', 'civilian', 'city', 'mariupol']",1317.0
+1247,"['air', 'fire', 'burn', 'delhi', 'mountain']",833.0
+1248,"['putin', 'adviser', 'russia', 'war', 'ukraine', 'spy']",5650.0
+1249,"['ukrainians', 'russians', 'civilian']",733.0
+1250,"['beatles', 'jihadist', 'trial']",650.0
+1251,"['twenty', 'fine', 'party']",783.0
+1252,"['russia', 'strike', 'peace', 'promise']",15483.0
+1253,"['refugee', 'monk', 'monastery']",2600.0
+1254,"['peace', 'talk', 'ukraine', 'russia', 'way', 'turkey']",5517.0
+1255,"['man', 'people', 'australians', 'shane', 'warne']",350.0
+1256,"['parent', 'baby', 'war', 'zone']",483.0
+1257,"['roman', 'abramovich', 'peace', 'talk', 'ukraine']",53333.0
+1258,"['premature', 'baby', 'life', 'city', 'russia']",667.0
+1259,"['plan', 'ukraine', 'evacuation', 'monday', 'fear', 'provocation']",1283.0
+1260,"['nemtsov', 'new', 'evidence', 'russia', 'assassination']",12483.0
+1261,"['shanghai', 'covid', 'lockdown']",4117.0
+1262,"['zelensky', 'status', 'peace', 'deal']",4767.0
+1263,"['irpin', 'town', 'battle', 'kyiv']",11967.0
+1264,['ukraine'],5017.0
+1265,"['artist', 'russia', 'vladimir', 'putin']",5067.0
+1266,"['putin', 'peace', 'boris', 'johnson', 'newsnight']",8017.0
+1267,"['ukraine', 'war', 'report', 'soldier', 'kharkiv', 'army']",58333.0
+1268,"['refugee', 'friend', 'school', 'poland']",5617.0
+1269,"['ukraine', 'war', 'refugee', 'crisis']",1500.0
+1270,"['madeleine', 'albright', 'secretary', 'state', 'dy']",433.0
+1271,"['warship', 'port', 'berdyansk', 'ukraine']",28333.0
+1272,"['destruction', 'ukraine']",2150.0
+1273,"['ukraine', 'war', 'enters', 'month', 'zelensky', 'protest']",1650.0
+1274,"['jamaica', 'tell', 'william', 'kate', 'country', 'republic']",2267.0
+1275,"['taliban', 'reverse', 'decision', 'afghanistan', 'school', 'girl']",2017.0
+1276,"['resident', 'corona', 'road', 'covid']",333.0
+1277,"['fightback', 'russia', 'gain', 'ground', 'kyiv']",26667.0
+1278,"['animal', 'ukraine']",678.0
+1279,"['citizen', 'response', 'invasion', 'ukraine']",10733.0
+1280,"['town', 'ukraine', 'army']",55556.0
+1281,"['putin', 'alexei', 'navalny', 'year', 'sham', 'trial']",4789.0
+1282,"['land', 'bridge', 'crimea', 'donbas', 'newsnight']",1644.0
+1283,"['mariupol', 'terror', 'history', 'ukraine', 'zelensky']",9089.0
+1284,['life'],333.0
+1285,"['could', 'finland', 'nato', 'frontier', 'newsnight']",5856.0
+1286,"['tanks', 'street', 'hit', 'ukraine', 'mariupol']",8911.0
+1287,"['anger', 'ferry', 'sacking', 'video']",1311.0
+1288,"['people', 'passage', 'ukraine', 'russia', 'war']",1111.0
+1289,"['united', 'putin', 'ukraine', 'war', 'newsnight']",2589.0
+1290,"['vladimir', 'putin', 'unity', 'moscow', 'mass', 'rally']",6900.0
+1291,"['dozens', 'missile', 'strike', 'ukraine']",3489.0
+1292,"['town', 'arm', 'refugee']",611.0
+1293,"['journalist', 'protest', 'ukraine', 'war']",600.0
+1294,"['president', 'putin', 'crimea', 'celebration', 'event']",10300.0
+1295,"['student', 'walkout', 'covid', 'mask']",322.0
+1296,"['china', 'country', 'putin', 'newsnight']",2211.0
+1297,"['russia', 'target', 'ukraine', 'city', 'lviv', 'time']",4400.0
+1298,"['agreement', 'ukraine']",1789.0
+1299,"['london', 'big', 'ben']",5500.0
+1300,"['russia', 'attack', 'civilian', 'city', 'mariupol']",1578.0
+1301,"['product', 'influencers']",411.0
+1302,"['ukraine', 'war', 'policy', 'newsnight']",15556.0
+1303,"['ukraine', 'city', 'mykolaiv', 'brace', 'onlsaught']",3900.0
+1304,"['hints', 'progress', 'peace', 'talk', 'ukraine', 'nato']",8322.0
+1305,"['singing', 'girl', 'poland']",1856.0
+1306,"['russia', 'war', 'ukraine']",8544.0
+1307,"['new', 'york', 'metropolitan', 'opera', 'concert', 'ukraine']",289.0
+1308,"['air', 'strike', 'target', 'rescuer', 'yemen']",2522.0
+1309,"['homes', 'ukraine', 'refugee', 'scheme', 'launch']",1667.0
+1310,"['ukraine', 'capital', 'kyiv', 'moment', 'mayor']",9767.0
+1311,"['poland', 'pressure', 'ukraine', 'war', 'newsnight']",4200.0
+1312,"['has', 'anything', 'woman']",278.0
+1313,"['ukrainians', 'lviv', 'aggression']",1367.0
+1314,"['condition', 'mariupol', 'ukraine', 'city']",11111.0
+1315,"['thousands', 'ukrainians', 'turkey', 'russia', 'invasion', 'ukraine']",1178.0
+1316,"['china', 'russia', 'ukraine', 'invasion']",9311.0
+1317,"['resident', 'strike', 'hit', 'apartment', 'block', 'kyiv']",2556.0
+1318,"['family', 'split', 'war', 'invasion']",644.0
+1319,"['russia', 'brain', 'drain', 'thousand', 'start', 'war', 'ukraine']",12222.0
+1320,"['russia', 'assault', 'ukraine', 'base', 'poland']",5333.0
+1321,"['ukraine', 'student', 'army']",11111.0
+1322,"['orphan', 'kyiv', 'russia', 'invasion']",1189.0
+1323,"['bombing', 'maternity', 'hospital', 'mariupol', 'official']",1256.0
+1324,"['ukraine', 'refugee', 'newsnight']",2311.0
+1325,"['dolly', 'parton', 'partner', 'author', 'james', 'patterson']",167.0
+1326,"['community', 'refugee', 'invasion']",2233.0
+1327,"['toddler', 'safety']",978.0
+1328,"['president', 'zelensky', 'journey', 'war', 'leader']",2222.0
+1329,"['children', 'hit', 'maternity', 'hospital']",10378.0
+1330,"['underwater', 'robot', 'shackleton', 'endurance', 'shipwreck', 'antarctic']",4756.0
+1331,"['doctor', 'video', 'wound']",622.0
+1332,"['maternity', 'child', 'hospital', 'ukraine']",1500.0
+1333,"['ukraine', 'poroshenko', 'plea', 'fighter', 'plane']",3533.0
+1334,"['response', 'ukraine', 'refugee']",2367.0
+1335,"['russia', 'bombing', 'city', 'civilian']",2778.0
+1336,"['president', 'biden', 'oil', 'ban', 'ukraine', 'conflict']",2644.0
+1337,"['refugee', 'ukraine']",1333.0
+1338,['symbol'],4311.0
+1339,"['ukraine', 'president', 'zelensky', 'russia', 'aid']",2889.0
+1340,"['putin', 'power', 'anyone', 'russian', 'president', 'newsnight']",33333.0
+1341,"['civilian', 'russia', 'invasion', 'ukraine', 'passage']",1500.0
+1342,"['couple', 'marry', 'front', 'line', 'war', 'russia']",1244.0
+1343,"['heavy', 'ukraine', 'capital', 'kyiv']",20000.0
+1344,"['misinformation', 'russia', 'invasion', 'ukraine']",4922.0
+1345,"['war', 'ukraine', 'seven', 'day']",6711.0
+1346,"['student', 'ukraine', 'help']",2667.0
+1347,"['helicopter', 'missile', 'ukraine']",21111.0
+1348,"['russians', 'country', 'finland']",111111.0
+1349,"['russia', 'announces', 'corridor', 'city']",8078.0
+1350,"['russia', 'strategy', 'ukraine']",3833.0
+1351,"['board', 'nato', 'surveillance', 'plane', 'activity', 'ukraine']",35556.0
+1352,"['cricket', 'shane', 'warne']",4956.0
+1353,"['ukrainians', 'country', 'arm', 'russia']",2033.0
+1354,"['manic', 'crab', 'underwater', 'camera', 'captivate', 'australians']",4044.0
+1355,"['europe', 'power', 'station', 'russia', 'ukraine']",14444.0
+1356,"['oil', 'west', 'problem']",2856.0
+1357,"['tennis', 'star', 'sergiy', 'stakhovsky']",1189.0
+1358,"['pensioner', 'protest', 'russia']",1300.0
+1359,"['children', 'bomb', 'ukraine']",567.0
+1360,"['refugee', 'ukraine']",1322.0
+1361,"['police', 'son', 'one']",533.0
+1362,"['ukraine', 'war', 'putin', 'plan', 'newsnight']",28889.0
+1363,"['ovation', 'ambassador', 'president', 'biden', 'state', 'union', 'address']",1056.0
+1364,"['invasion', 'ukraine', 'enters', 'day']",16667.0
+1365,"['americans', 'president', 'biden', 'ukraine', 'response']",2178.0
+1366,"['are', 'war', 'crime', 'russia', 'ukraine']",13333.0
+1367,"['ovation', 'president', 'parliament']",2244.0
+1368,"['bombing', 'ukraine', 'capital', 'kyiv']",14444.0
+1369,"['day', 'invasion', 'ukraine']",14444.0
+1370,"['refugees', 'poland', 'ukraine']",811.0
+1371,"['boris', 'johnson']",10856.0
+1372,"['crowds', 'woman', 'child', 'board', 'ukraine']",1556.0
+1373,"['border', 'ten', 'thousand', 'newsnight']",7856.0
+1374,"['attack', 'city', 'kharkiv', 'war', 'crime', 'president', 'zelensky']",16667.0
+1375,"['life', 'india', 'job', 'seeker']",1856.0
+1376,"['hundreds', 'pakistan', 'kite']",678.0
+1377,"['russia', 'cluster', 'bomb', 'rage', 'ukraine', 'city']",80000.0
+1378,"['risk', 'war', 'russiaukraine', 'conflict']",33333.0
+1379,"['mother', 'ukraine', 'baby']",478.0
+1380,"['people', 'ukraine', 'russian']",22222.0
+1381,"['islamic', 'state', 'ericsson', 'telecom', 'worker', 'leak']",867.0
+1382,"['day', 'russia', 'invasion', 'ukraine']",13333.0
+1383,"['ukraine', 'refugee', 'crisis', 'million', 'west']",8022.0
+1384,"['assault', 'intensifies', 'face', 'resistance']",108889.0
+1385,"['zelensky', 'response', 'invasion', 'ukraine']",10322.0
+1386,"['refugee', 'border', 'russia']",7522.0
+1387,"['kyiv', 'attack', 'missile', 'strike', 'capital']",42222.0
+1388,"['vladimir', 'putin']",40000.0
+1389,"['russia', 'invasion', 'ukraine', 'moment', 'day']",3111.0
+1390,"['woman', 'confronts']",35556.0
+1391,"['ukraine', 'capital', 'kyiv']",62222.0
+1392,"['explosions', 'capital', 'kyiv', 'force', 'capture', 'airbase']",17778.0
+1393,"['journalist', 'family', 'home']",21111.0
+1394,"['president', 'putin', 'troop', 'country', 'leadership']",24444.0
+1395,"['explosion', 'sky', 'ukraine', 'capital', 'kyiv']",44444.0
+1396,"['ukraine', 'editor', 'escape', 'kyiv']",1700.0
+1397,"['tank', 'ukraine', 'capital', 'kyiv']",37778.0
+1398,"['champions', 'league', 'russia', 'france', 'ukraine', 'invasion']",778.0
+1399,"['history', 'ukraine']",7800.0
+1400,"['officer', 'george', 'floyd', 'death']",522.0
+1401,"['putin', 'chose', 'war', 'consequence', 'biden']",4344.0
+1402,"['oil', 'share', 'russia']",3200.0
+1403,"['russia', 'troop', 'ukraine', 'border']",4058.0
+1404,"['sanction', 'russia', 'ukraine']",6458.0
+1405,"['student', 'fossil', 'reptile', 'scottsh', 'island']",1967.0
+1406,"['crisis', 'order', 'region', 'newsnight']",8333.0
+1407,"['colombia', 'abortion', 'week', 'pregnancy']",325.0
+1408,"['russia', 'west', 'sanction', 'ukraine']",6842.0
+1409,"['people', 'design', 'agency']",658.0
+1410,"['bangkok', 'department', 'store']",725.0
+1411,"['putin', 'ukraine', 'breakaway', 'region', 'invasion', 'fear']",7750.0
+1412,"['billionaires', 'part', 'inequality', 'problem', 'solution']",450.0
+1413,"['putin', 'region', 'state']",4742.0
+1414,"['australia', 'border', 'visitor', 'year']",342.0
+1415,"['edwards', 'music', 'entrepreneur', 'youtube', 'star']",433.0
+1416,"['biden', 'principle', 'summit', 'putin', 'ukraine', 'tension']",2158.0
+1417,"['hong', 'kong', 'hospital', 'spike', 'covid', 'case']",850.0
+1418,"['tiktok', 'singing', 'sensation']",392.0
+1419,"['elizabeth', 'test', 'covid']",4067.0
+1420,"['boris', 'johnson', 'sign', 'putin', 'ukraine', 'plan']",2967.0
+1421,"['russia', 'war', 'ukraine']",15833.0
+1422,"['jet', 'plane', 'sensation', 'storm', 'eunice']",3108.0
+1423,"['divide', 'scotland', 'gender', 'law']",850.0
+1424,"['troop', 'mali', 'year']",608.0
+1425,"['scale', 'sex', 'abuse', 'italy']",558.0
+1426,"['russia', 'escalation', 'ukraine', 'border']",5742.0
+1427,"['andrew', 'settlement', 'virginia', 'giuffre', 'newsnight']",3367.0
+1428,"['havoc', 'petrópolis', 'brazil']",750.0
+1429,"['petrol', 'tanker', 'crash', 'cause', 'fire', 'long', 'island', 'new', 'york']",542.0
+1430,"['russia', 'ukraine', 'president', 'day', 'unity']",3633.0
+1431,"['sign', 'withdrawal', 'troop', 'ukraine', 'nato', 'chief']",2667.0
+1432,"['russia', 'troop', 'ukraine', 'border']",3567.0
+1433,"['tree', 'storm']",2750.0
+1434,"['protests', 'hijab', 'ban', 'india']",858.0
+1435,"['life', 'ukrainerussia', 'border']",742.0
+1436,"['telegram', 'nude']",1067.0
+1437,"['chagos', 'islander', 'trip', 'home', 'escort']",392.0
+1438,"['attack', 'ukraine', 'possibility', 'biden']",1083.0
+1439,"['prince', 'andrew', 'sex', 'assault', 'case', 'virginia', 'giuffre']",892.0
+1440,"['russia', 'war', 'putin']",6258.0
+1441,"['roblox', 'child', 'game', 'sex', 'problem']",1708.0
+1442,"['russia', 'troop', 'ukraine', 'border']",8000.0
+1443,"['couple', 'year']",1242.0
+1444,"['caroline', 'flack', 'mother', 'police', 'treatment']",142.0
+1445,['türkiye'],2900.0
+1446,"['ukraine', 'city', 'mariupol', 'prepares', 'invasion']",4625.0
+1447,"['mistake', 'money']",533.0
+1448,"['embassy', 'ukraine']",7958.0
+1449,"['russia', 'ukraine']",7892.0
+1450,"['teens', 'ice', 'firefighter', 'rescue']",433.0
+1451,"['ouka', 'dog', 'expert', 'paraglider']",1100.0
+1452,"['spending', 'habit']",492.0
+1453,"['choirs', 'return', 'practice']",708.0
+1454,"['role', 'nato', 'crisis']",6975.0
+1455,"['memories', 'ukraine', 'great', 'famine', 'fuel', 'resentment', 'russia']",725.0
+1456,"['police', 'boris', 'johnson', 'question', 'party']",700.0
+1457,"['attack', 'ukraine', 'capital', 'kyiv', 'day']",22500.0
+1458,"['lions', 'circus', 'nature']",8333.0
+1459,"['lego', 'beach']",6817.0
+1460,"['lovis', 'corinth', 'nazis', 'family', 'owner']",358.0
+1461,"['conflict', 'ambassador', 'russia', 'newsnight']",1217.0
+1462,"['codiscoverer', 'hiv', 'luc', 'montagnier']",267.0
+1463,"['miscarriage', 'pain']",100.0
+1464,"['protests', 'india', 'karnataka', 'state', 'move', 'hijab', 'school']",992.0
+1465,"['fears', 'conflict', 'bosniaherzegovina', 'serb', 'nationalism']",22500.0
+1466,"['student', 'hijab', 'row', 'protest', 'india']",5167.0
+1467,"['nothing', 'medium', 'group', 'code', 'living', 'crisis']",5175.0
+1468,"['test', 'thousand', 'life']",19167.0
+1469,"['president', 'macron', 'assurance', 'russia', 'ukraine', 'crisis']",7808.0
+1470,"['ottawa', 'local', 'end', 'trucker', 'protest', 'capital']",508.0
+1471,"['admits', 'error', 'handling', 'abuse', 'case']",142.0
+1472,"['boris', 'johnson', 'claim', 'jimmy', 'savile', 'backlash']",1183.0
+1473,"['watchdog', 'behaviour', 'police', 'northern', 'ireland', 'murder']",592.0
+1474,"['mauritius', 'boat', 'chagos', 'islands']",1600.0
+1475,"['macron', 'putin', 'ukraine', 'escalation']",1358.0
+1476,"['duchess', 'cambridge', 'cbeebies', 'bedtime']",433.0
+1477,"['jews', 'dressing', 'muslims', 'prayer', 'ban']",2250.0
+1478,"['hundreds', 'funeral', 'boy', 'well']",625.0
+1479,"['leon', 'locksmith', 'rolle', 'book', 'tip', 'teen']",68.0
+1480,"['presidents', 'macron', 'putin', 'war', 'ukraine']",9167.0
+1481,"['canada', 'trucker', 'protest', 'state', 'emergency']",1583.0
+1482,"['fashion', 'graveyard', 'chile', 'atacama', 'desert']",942.0
+1483,"['back', 'camilla', 'consort', 'jubilee']",767.0
+1484,"['peter', 'tatchell', 'fight', 'gay', 'right']",242.0
+1485,"['dog', 'car', 'fire', 'colorado']",675.0
+1486,"['joe', 'rogan', 'spotify']",1692.0
+1487,"['china', 'russia', 'limit', 'plan', 'power']",8200.0
+1488,"['jeff', 'bezos', 'superyacht', 'bridge']",2933.0
+1489,"['russia', 'president', 'putin', 'president', 'china', 'meet', 'olympics']",1825.0
+1490,"['rescuers', 'fiveyearold', 'well']",3283.0
+1491,"['raid', 'kill', 'islamic', 'state', 'leader']",558.0
+1492,"['state', 'leader', 'abu', 'ibrahim', 'alqurayshi', 'syria']",1458.0
+1493,"['crisis', 'deepens', 'boris', 'johnson', 'aide']",7517.0
+1494,"['trial', 'life', 'baby', 'elephant', 'herpes']",275.0
+1495,"['storm', 'ana', 'dozen', 'malawi', 'madagascar', 'mozambique']",408.0
+1496,"['ukraine', 'border', 'tension', 'russia', 'newsnight']",43333.0
+1497,['gold'],992.0
+1498,"['west', 'ukraine']",3033.0
+1499,"['flood', 'town', 'supply']",558.0
+1500,"['russians', 'ukraine', 'tension']",4758.0
+1501,"['penguin', 'climate', 'change']",300.0
+1502,"['people', 'ecuador', 'landslide']",333.0
+1503,"['sue', 'gray', 'report', 'boris', 'johnson']",1250.0
+1504,"['spain', 'cost', 'crisis']",5675.0
+1505,"['sanction', 'russia', 'ukraine', 'invasion', 'fear']",4908.0
+1506,"['energy', 'price']",1317.0
+1507,"['east', 'coast', 'bombogenesis']",2508.0
+1508,"['kazakhstan', 'cryptoboom']",3492.0
+1509,"['pipe', 'india', 'housing', 'crisis']",1475.0
+1510,"['singer', 'joni', 'mitchell', 'song', 'spotify', 'covid', 'row']",742.0
+1511,"['race', 'plane', 'china']",7367.0
+1512,"['covid', 'patient', 'damage', 'lung']",2200.0
+1513,"['invasion', 'ukraine']",5400.0
+1514,['cost'],10000.0
+1515,"['teenager', 'sensation']",3583.0
+1516,"['apple', 'airtag', 'safety', 'guide', 'stalker', 'fear']",1417.0
+1517,"['russia', 'security', 'concern', 'vladimir', 'putin']",4358.0
+1518,"['north', 'korea', 'missile', 'flurry', 'test']",3483.0
+1519,"['doubts', 'timing', 'novak', 'djokovic', 'covid', 'test']",1008.0
+1520,"['moscow', 'war', 'ukraine', 'russia', 'minister']",3017.0
+1521,"['sponsor', 'beijing', 'winter', 'olympics']",1233.0
+1522,"['holocaust', 'survivor', 'tiktok', 'newsnight']",267.0
+1523,"['australia', 'day', 'sun', 'umbrella', 'year', 'aboriginal']",167.0
+1524,"['civilian', 'country']",2317.0
+1525,"['girl', 'meet', 'time', 'decade']",367.0
+1526,"['investigation', 'party', 'boris', 'johnson']",1250.0
+1527,"['troop', 'europe', 'ukraine']",8333.0
+1528,"['police', 'office', 'lockdown', 'party']",1283.0
+1529,"['caver', 'hour', 'relives']",475.0
+1530,"['boris', 'johnson', 'birthday', 'celebration', 'party', 'row']",1383.0
+1531,"['covid', 'intensive', 'care', 'return', 'hospital', 'frontline']",1383.0
+1532,"['troop', 'alert', 'ukraine', 'invasion', 'fear']",11667.0
+1533,"['tension', 'ukraine']",20000.0
+1534,"['child', 'romania', 'sex', 'trade']",13333.0
+1535,"['scientist', 'act']",1350.0
+1536,"['beach', 'boys', 'star', 'brian', 'wilson', 'life', 'film']",375.0
+1537,"['government', 'consequence', 'ukraine']",7583.0
+1538,"['foreign', 'aid', 'tonga', 'covid', 'rule']",480.0
+1539,[],600.0
+1540,"['hillary', 'clinton', 'afghan', 'taliban']",693.0
+1541,"['china', 'covid', 'outbreak']",3160.0
+1542,"['war', 'newsnight']",2313.0
+1543,"['apple', 'airtags', 'tool']",987.0
+1544,"['inflation', 'mean']",1280.0
+1545,"['opposition', 'party', 'tell']",2393.0
+1546,"['olympics', 'business', 'china', 'uyghur', 'xinjiang']",460.0
+1547,"['microsoft', 'call', 'duty', 'maker', 'activision', 'blizzard', 'deal']",600.0
+1548,"['mps', 'plot', 'boris', 'johnson', 'newsnight']",1907.0
+1549,"['invasion', 'ukraine', 'white', 'house']",6667.0
+1550,"['medium', 'north', 'korea']",1333.0
+1551,"['mass', 'murderer', 'anders', 'breivik', 'court', 'release']",2120.0
+1552,"['boris', 'johnson', 'party', 'adviser']",867.0
+1553,"['runway', 'ash', 'hamper', 'tonga', 'tsunami', 'relief', 'effort', 'scale', 'damage']",2120.0
+1554,"['mexico', 'body', 'piece', 'son']",200.0
+1555,"['crisis', 'weapon', 'ukraine', 'newsnight']",2913.0
+1556,"['tonga', 'tsunami', 'cut', 'island', 'communication']",14667.0
+1557,"['anne', 'frank', 'betrayal', 'suspect', 'year']",27333.0
+1558,"['bachelor', 'billboard', 'wife']",393.0
+1559,"['rabbi', 'escape', 'texas', 'synagogue', 'siege']",207.0
+1560,"['wealth', 'men', 'oxfam']",400.0
+1561,"['covid', 'vaccine', 'harm', 'baby', 'pregnancy']",520.0
+1562,"['novak', 'djokovic', 'australia', 'battle']",1540.0
+1563,"['kazakhstan', 'violence', 'leadership', 'power', 'struggle']",247.0
+1564,"['djokovic', 'court', 'appeal', 'deportation', 'order']",567.0
+1565,"['prince', 'andrew', 'title']",3507.0
+1566,"['boris', 'johnson', 'spokesman', 'party']",3080.0
+1567,"['audio', 'shed', 'dictator', 'hour']",6493.0
+1568,"['novak', 'djokovic', 'visa', 'australia', 'time']",1007.0
+1569,"['lawyer', 'agent', 'politics']",2053.0
+1570,"['strip', 'prince', 'andrew', 'hrh', 'title', 'role']",8000.0
+1571,"['sue', 'gray', 'inquiry', 'mean', 'boris', 'johnson']",1760.0
+1572,"['prince', 'andrew', 'title', 'patronage']",1453.0
+1573,"['colonel', 'murder', 'rape', 'torture', 'hell', 'earth', 'jail']",660.0
+1574,"['river', 'pollution', 'report']",600.0
+1575,"['novak', 'djokovic', 'open', 'draw', 'uncertainty']",420.0
+1576,"['prince', 'andrew', 'sex', 'assault', 'case']",1253.0
+1577,"['boris', 'johnson', 'party', 'apology']",4007.0
+1578,"['russia', 'nato', 'meet', 'talk', 'ukraine', 'tension']",1047.0
+1579,"['prime', 'minister', 'boris', 'johnson', 'apology', 'party']",1887.0
+1580,"['search', 'girl']",320.0
+1581,"['children', 'life', 'bronx', 'fire']",300.0
+1582,"['party', 'boris', 'johnson', 'newsnight']",1727.0
+1583,"['novak', 'djokovic', 'release', 'immigration', 'detention', 'australia']",220.0
+1584,"['huge', 'dragon']",2080.0
+1585,"['myanmar', 'leader', 'year']",227.0
+1586,"['past', 'year', 'record', 'satellite', 'data']",300.0
+1587,"['kazakhstan', 'unrest', 'attempt', 'president']",607.0
+1588,"['judge', 'order', 'release', 'tennis', 'player', 'novak', 'djokovic']",1027.0
+1589,"['baby', 'kabul', 'airport', 'evacuation', 'chaos', 'care', 'taxi', 'driver']",607.0
+1590,"['child', 'dead', 'new', 'york', 'apartment', 'fire']",1100.0
+1591,"['coronavirus', 'death']",1333.0
+1592,"['duchess', 'cambridge', 'princess']",380.0
+1593,"['billionaire', 'tax']",500.0
+1594,"['capitol', 'year']",413.0
+1595,"['truck', 'day', 'china']",3040.0
+1596,"['soldiers', 'kazakh', 'president']",2047.0
+1597,"['hotel', 'novak', 'djokovic']",1327.0
+1598,"['hollywood', 'trailblazer', 'sidney', 'poitier']",260.0
+1599,"['gunfire', 'heard', 'scene', 'kazakhstan', 'protest']",587.0
+1600,"['kashmir', 'pashmina', 'industry']",173.0
+1601,['follower'],3473.0
+1602,"['biden', 'trump', 'web', 'lie', 'year', 'capitol', 'riot']",467.0
+1603,"['novak', 'djokovic', 'open', 'exemption', 'covid', 'vaccine']",173.0
+1604,"['gforce', 'journalist', 'handle']",367.0
+1605,"['pardon', 'conviction', 'samesex', 'crime']",247.0
+1606,"['authority', 'weekend', 'curfew', 'delhi', 'covid']",227.0
+1607,"['scotland', 'plastic', 'june']",300.0
+1608,"['winter', 'storm', 'state']",1140.0
+1609,"['theranos', 'founder', 'elizabeth', 'holmes', 'fraud']",3033.0
+1610,"['prince', 'andrew', 'virginia', 'giuffre', 'deal', 'jeffrey', 'epstein']",800.0
+1611,"['farm', 'refugee', 'life', 'australia']",167.0
+1612,"['comedian', 'fire', 'hindu', 'nationalist']",327.0
+1613,"['sudan', 'prime', 'minister', 'abdalla', 'hamdok', 'resigns', 'mass', 'protest']",300.0
+1614,"['amsterdam', 'vaccination', 'protest']",660.0
+1615,"['lebanon', 'year', 'deepening', 'crisis']",3007.0
+1616,"['school', 'pupil', 'england', 'face', 'mask', 'classroom', 'omicron']",1213.0
+1617,"['judge', 'block', 'attempt', 'prince', 'andrew', 'virgina', 'giuffre', 'lawsuit']",3613.0
+1618,"['cross', 'north', 'korea', 'defection']",1900.0
+1619,"['homelessness', 'england', 'space', 'baby']",993.0
+1620,"['south', 'africa', 'bid', 'desmond', 'tutu']",407.0
+1621,"['reunion', 'family', 'restriction']",227.0
+1622,"['tributes', 'betty', 'white']",800.0
+1623,"['afghanistan', 'children', 'kabul', 'piece']",1833.0
+1624,"['south', 'africa', 'hero', 'desmond', 'tutu']",260.0
+1625,"['dams', 'burst', 'brazil']",827.0
+1626,"['tributes', 'hero', 'archbishop', 'desmond', 'tutu']",513.0
+1627,"['oil', 'well']",260.0
+1628,"['electricity', 'neighbour']",540.0
+1629,"['archbishop', 'desmond', 'tutu']",440.0
+1630,"['james', 'webb', 'space', 'telescope', 'how']",4013.0
+1631,"['queen', 'christmas', 'message']",4107.0
+1632,"['space', 'telescope', 'earth']",1320.0
+1633,"['holiday', 'omicron', 'flight']",1240.0
+1634,"['christmas', 'celebration', 'bethlehem']",287.0
+1635,"['rise', 'right', 'georgia']",920.0
+1636,"['kim', 'potter', 'killing', 'daunte', 'wright']",847.0
+1637,"['james', 'franco', 'student', 'school']",547.0
+1638,"['putin', 'security', 'guarantee', 'troop', 'ukraine', 'border']",2120.0
+1639,"['omicron', 'europe', 'italy', 'spain', 'restriction']",667.0
+1640,"['putin', 'ball', 'west', 'court', 'ukraine']",940.0
+1641,"['manhattan', 'newsstand', 'covid']",89.0
+1642,"['kyrgyzstan', 'deer', 'brink', 'extinction']",167.0
+1643,"['philippines', 'super', 'typhoon', 'rai', 'death', 'toll']",739.0
+1644,"['quit', 'million', 'job']",20556.0
+1645,"['scientists', 'research', 'covid', 'variant', 'hiv']",817.0
+1646,"['government', 'restriction', 'omicron', 'threat']",528.0
+1647,"['japan', 'hang', 'men', 'death', 'row', 'time']",1033.0
+1648,"['hour', 'channel', 'migrant']",183.0
+1649,"['life', 'ghislaine', 'maxwell', 'billionaire', 'paedophile', 'jeffrey', 'epstein']",1150.0
+1650,"['omicron', 'covid', 'case']",478.0
+1651,"['myanmar', 'mass', 'killing']",1094.0
+1652,"['ukraine', 'invasion', 'fear', 'troop', 'mass', 'border']",3089.0
+1653,['metaverse'],1372.0
+1654,"['pompidou', 'millennium', 'dome', 'architect', 'richard', 'rogers']",94.0
+1655,"['philippines', 'super', 'typhoon', 'rai', 'death', 'toll']",494.0
+1656,"['tennis', 'star', 'peng', 'shuai', 'assault', 'claim']",117.0
+1657,"['gabriel', 'boric', 'chile', 'president']",339.0
+1658,"['christmas', 'travel', 'omicron', 'spread', 'fauci']",561.0
+1659,"['weather', 'app']",294.0
+1660,"['netherlands', 'christmas', 'lockdown', 'omicron', 'covid']",1294.0
+1661,"['illegal', 'designer', 'dog']",261.0
+1662,"['olivia', 'colman', 'maggie', 'gyllenhaal', 'talk', 'lost', 'daughter']",533.0
+1663,"['myanmar', 'aung', 'san', 'suu', 'kyi', 'prison', 'confinement']",2700.0
+1664,"['kashmir', 'flood', 'landslide']",2000.0
+1665,"['intelligence', 'control', 'start']",3900.0
+1666,"['egypt', 'outrage', 'killing', 'student', 'nayera', 'ashraf']",6300.0
+1667,"['update', 'afghanistan', 'hit', 'earthquake', 'year']",4300.0
+1668,"['protester', 'dy', 'ecuador', 'violence', 'increase']",1700.0
+1669,"['era', 'saudi', 'arabia', 'mbs', 'turkey', 'nation', 'tie']",6600.0
+1670,"['covid', 'bottom', 'line']",1700.0
+1671,"['flood', 'relief', 'effort', 'million']",1200.0
+1672,"['afghanistan', 'earthquake', 'survivor', 'hand', 'aid']",7500.0
+1673,"['india', 'race', 'hundred', 'thousand', 'assam', 'flood']",3800.0
+1674,"['thousands', 'dutch', 'farmer', 'emission', 'target']",5400.0
+1675,"['iraq', 'outbreak', 'iraq']",8500.0
+1676,"['brazil', 'amazon']",4600.0
+1677,"['afghan', 'worker', 'earthquake', 'survivor']",14000.0
+1678,"['force', 'effort', 'ukraine', 'city']",42000.0
+1679,"['vote', 'israel', 'difference', 'inside']",4700.0
+1680,"['saudi', 'arabia', 'mbs', 'visit', 'turkey', 'country', 'tie']",19000.0
+1681,"['afghanistan', 'earthquake']",18000.0
+1682,"['weekend', 'mali', 'attack']",8700.0
+1683,"['tension', 'russia', 'kaliningrad', 'region']",38000.0
+1684,"['protest', 'living', 'cost']",8600.0
+1685,"['armenia', 'bears', 'close']",2700.0
+1686,"['video', 'destruction', 'earthquake', 'afghanistan']",17000.0
+1687,"['hundreds', 'thousand', 'china', 'rain', 'flood']",6700.0
+1688,"['mbs', 'visit', 'turkey', 'aim', 'murder', 'khashoggi']",36000.0
+1689,"['jan', 'highlight', 'pressure', 'state', 'election', 'official']",5500.0
+1690,"['flood', 'millions', 'food', 'shortage']",8500.0
+1691,"['syria', 'adib', 'shishakli', 'documentary']",9500.0
+1692,"['update', 'bangladesh', 'india', 'flood', 'kill', 'million', 'need', 'aid']",21000.0
+1693,"['dozens', 'magnitude', 'quake', 'shake', 'afghanistan', 'pakistan']",91000.0
+1694,"['police', 'response', 'uvalde', 'shooting', 'failure', 'official']",9500.0
+1695,"['apple', 'employee', 'maryland', 'store', 'vote']",6300.0
+1696,"['south', 'africa', 'corruption', 'problem']",7200.0
+1697,"['russia', 'lithuania', 'kaliningrad', 'good', 'restriction']",54000.0
+1698,"['ukraine', 'president', 'adviser', 'talk']",9500.0
+1699,"['drop', 'bitcoin', 'value', 'inside']",27000.0
+1700,"['aviation', 'body', 'iata', 'summit', 'qatar']",3300.0
+1701,"['senate', 'candidate', 'video', 'medium']",8500.0
+1702,"['mexico', 'drought', 'fuel', 'monterrey']",11000.0
+1703,"['ban', 'import', 'china', 'xinjiang', 'effect']",29500.0
+1704,"['colombia', 'eln', 'rebel', 'talk', 'petro']",6000.0
+1705,"['civilian', 'mali', 'attack', 'gov']",7500.0
+1706,['action'],2900.0
+1707,"['superhero', 'dog', 'fight', 'pollution', 'chile']",2900.0
+1708,"['belgium', 'strike', 'protest', 'living', 'cost']",13000.0
+1709,"['coalition', 'bill', 'parliament']",15500.0
+1710,"['fina', 'bar', 'swimmer', 'woman', 'event']",2750.0
+1711,"['sri', 'lanka', 'school', 'government', 'service', 'fuel']",13500.0
+1712,"['election', 'macron', 'coalition']",4150.0
+1713,"['japan', 'court', 'marriage', 'ban']",6000.0
+1714,"['belgium', 'return', 'tooth', 'independence', 'leader', 'family']",4250.0
+1715,"['kenya', 'refugee', 'camp', 'energy']",2600.0
+1716,"['hundreds', 'thousand', 'india', 'flood', 'havoc']",2100.0
+1717,"['zimbabwe', 'health', 'worker', 'strike', 'wage']",5500.0
+1718,"['france', 'president', 'govern', 'year', 'inside']",1950.0
+1719,"['refugee', 'day', 'number']",1800.0
+1720,"['transgender', 'athlete', 'woman', 'swim', 'competition']",5000.0
+1721,"['kenyan', 'mother', 'cyberbullies', 'kindness', 'witness', 'documentary']",3233.0
+1722,"['ethiopia', 'oromia', 'region', 'witnesses']",11000.0
+1723,"['fighter', 'gustavo', 'petro', 'colombia', 'presidency']",4333.0
+1724,"['apple', 'inc', 'worker', 'maryland', 'vote', 'union']",3333.0
+1725,"['election', 'macron', 'loses', 'majority']",4000.0
+1726,"['dozens', 'flood', 'bangladesh', 'india']",5500.0
+1727,"['colombia', 'election', 'economic', 'policy', 'issue']",2175.0
+1728,"['fifa', 'cup', 'countdown', 'south', 'america']",5000.0
+1729,"['brazil', 'remains', 'bruno', 'pereira']",1775.0
+1730,"['european', 'union', 'inside']",4000.0
+1731,"['dozens', 'million', 'flood', 'bangladesh', 'india']",13000.0
+1732,"['israelis', 'target', 'flag', 'west', 'bank']",15750.0
+1733,"['movie', 'godfather', 'halfcentury', 'tribeca']",1260.0
+1734,"['colombia', 'election', 'healthcare', 'economy', 'top', 'mind', 'voter']",780.0
+1735,"['afghanistan', 'blast', 'hit', 'sikh', 'temple', 'kabul']",7800.0
+1736,"['metropolitan', 'museum', 'exhibition', 'feature', 'employee', 'art']",900.0
+1737,"['iraq', 'haemorrhagic', 'fever', 'concerns', 'infection', 'increase']",1800.0
+1738,"['spectacle', 'scrutiny', 'january', 'hearing', 'listening', 'post']",1540.0
+1739,"['nigeria', 'church', 'attack', 'anger', 'seethes']",1880.0
+1740,"['heatwave', 'grip', 'france', 'spain', 'temperature']",4000.0
+1741,"['brazil', 'police', 'remains', 'journalist', 'dom', 'phillips']",2000.0
+1742,"['soldier', 'police', 'officer', 'crime']",520.0
+1743,"['drc', 'rwanda', 'border', 'soldier', 'attack']",25600.0
+1744,"['china', 'covidhit', 'economy', 'cost']",4400.0
+1745,"['journalist', 'nobel', 'prize', 'medal', 'ukraine']",2800.0
+1746,"['leader', 'kyiv', 'trip', 'invasion']",2167.0
+1747,"['arundhati', 'roy', 'india', 'hindu', 'enterprise', 'ajopinion']",16500.0
+1748,"['moldova', 'line', 'people', 'power']",2833.0
+1749,"['colombia', 'will', 'election', 'country']",1250.0
+1750,"['photo', 'bullet', 'journalist']",9333.0
+1751,"['record', 'number', 'people', 'inside']",829.0
+1752,"['sudan', 'sea', 'state', 'port', 'setback']",1714.0
+1753,"['study', 'risk', 'tsunami', 'underwater', 'volcano']",1100.0
+1754,"['lion', 'prowling', 'mma', 'title', 'glory']",2286.0
+1755,"['confesses', 'journalist', 'guide', 'brazil']",843.0
+1756,"['nigeria', 'dye', 'tradition', 'threat']",1157.0
+1757,"['australians', 'threat', 'blackout', 'energy', 'crisis', 'worsens']",2286.0
+1758,"['biden', 'oil', 'refiner', 'profit', 'margin']",1043.0
+1759,"['brazil', 'police', 'confess', 'search', 'men']",1071.0
+1760,"['drc', 'rally', 'denounce', 'support', 'rebel']",3857.0
+1761,"['end', 'ukraine', 'war', 'bottom', 'line']",41000.0
+1762,"['capitol', 'rioter', 'building', 'gop', 'congressman', 'january']",714.0
+1763,"['target', 'inflation', 'rate', 'hike']",1114.0
+1764,"['usain', 'bolt', 'india', 'tribal', 'athletes', 'east', 'documentary']",8286.0
+1765,"['displaced', 'ukrainians', 'one', 'kyiv']",586.0
+1766,"['beijing', 'covid', 'curb', 'virus', 'cluster']",888.0
+1767,"['deportation', 'flight', 'rwanda', 'court', 'ruling']",1112.0
+1768,"['tribeca', 'festival', 'experience']",225.0
+1769,"['commission', 'hungary', 'fuel', 'price']",3000.0
+1770,"['muslim', 'hate', 'rise', 'india', 'essentialmiddleeast']",2125.0
+1771,"['burkina', 'faso', 'attack', 'survivor', 'defenceless']",425.0
+1772,"['ecuador', 'police', 'leader', 'protest', 'fuel', 'price']",1025.0
+1773,"['blind', 'painter', 'esref', 'armagan', 'documentary']",1175.0
+1774,"['sudan', 'diver', 'carcass', 'ship']",2375.0
+1775,"['deportation', 'rwanda', 'court', 'step']",1225.0
+1776,"['official', 'biden', 'saudi', 'arabia', 'meet', 'mbs']",1750.0
+1777,"['nigeria', 'security', 'crisis', 'control']",1100.0
+1778,"['baptist', 'church', 'child', 'sex', 'abuse', 'scandal']",1500.0
+1779,"['microsoft', 'internet', 'browser', 'short']",1250.0
+1780,"['civilians', 'ukraine', 'donbas', 'bridge']",3750.0
+1781,"['asylum', 'seeker', 'inside']",4125.0
+1782,"['outrage', 'india', 'muslim', 'home', 'demolition']",7875.0
+1783,"['cambodia', 'lawyer', 'treason', 'conviction', 'sham']",412.0
+1784,"['rwanda', 'refugee', 'migrant']",2111.0
+1785,"['trump', 'election', 'fraud', 'jan', 'panel']",1000.0
+1786,"['war', 'ukraine', 'food', 'crisis']",2000.0
+1787,"['south', 'africa', 'sport']",944.0
+1788,"['france', 'macron', 'danger', 'majority', 'vote']",867.0
+1789,"['congo', 'inside']",12222.0
+1790,"['heatwave', 'mango', 'production', 'percent']",1800.0
+1791,"['effort', 'child', 'marriage', 'iraq']",350.0
+1792,"['woman', 'zimbabwe', 'mine', 'work', 'relief']",1500.0
+1793,"['homes', 'muslim', 'protester', 'india']",5000.0
+1794,"['sri', 'lanka', 'fuel', 'ration', 'scheme', 'shortage']",1300.0
+1795,"['brazil', 'search', 'team', 'belonging', 'men', 'amazon']",1200.0
+1796,"['worker', 'fearless', 'journalist', 'hong', 'kong', 'witness', 'documentary']",590.0
+1797,"['iraqi', 'mps', 'muqtada', 'bloc', 'resign']",1500.0
+1798,"['gun', 'reform', 'plan', 'republican', 'support', 'senate']",500.0
+1799,"['india', 'interview', 'afreen', 'fatima', 'house']",27800.0
+1800,"['president', 'macron', 'centrist', 'majority', 'projections']",370.0
+1801,"['tanzania', 'land', 'dispute', 'protest', 'herder']",2800.0
+1802,"['india', 'muslim', 'property', 'protes']",14600.0
+1803,"['labour', 'inside']",960.0
+1804,"['china', 'attempt', 'taiwan', 'independence']",2455.0
+1805,"['india', 'moment', 'crisis', 'listening', 'post']",10500.0
+1806,"['france', 'biogas', 'europe', 'reliance', 'russian', 'gas']",1000.0
+1807,"['migration', 'plan', 'day', 'americas', 'summit']",808.0
+1808,"['investigation', 'abu', 'akleh', 'progressing']",917.0
+1809,"['inflation', 'may', 'percent']",1000.0
+1810,"['court', 'asylum', 'seeker', 'deportation', 'rwanda']",1250.0
+1811,"['mexico', 'lethal', 'field', 'journalists', 'talk', 'field']",267.0
+1812,"['could', 'ukraine', 'war', 'prompt', 'hunger', 'crisis', 'africa', 'cost']",833.0
+1813,"['butt', 'rush', 'tackling', 'india', 'cigarette', 'butt', 'crisis']",1000.0
+1814,"['sahara', 'conflict', 'inside']",2000.0
+1815,"['uschina', 'defense', 'chief', 'time']",11667.0
+1816,"['south', 'asia', 'prophet', 'remark', 'india', 'bjp', 'official']",7000.0
+1817,"['illegal', 'destruction', 'colombia', 'amazon', 'threat']",354.0
+1818,"['grain', 'export', 'crisis', 'millions', 'resolution']",1385.0
+1819,"['sufism', 'senegal', 'international', 'student', 'journey']",769.0
+1820,"['iraq', 'date', 'industry', 'drought', 'war', 'sanction', 'export']",1308.0
+1821,"['dialogue', 'meet', 'security', 'challenge']",1077.0
+1822,"['somalia', 'president', 'hassan', 'mohamud', 'challenge']",1385.0
+1823,"['migrant', 'visa', 'mexico']",408.0
+1824,"['summit', 'los', 'angeles', 'meeting', 'focus', 'energy']",569.0
+1825,"['nigeria', 'ruling', 'party', 'pick', 'tinubu', 'ticket']",336.0
+1826,"['talks', 'sudan', 'crisis', 'begin', 'group', 'boycott']",443.0
+1827,"['uvalde', 'survivor', 'friend', 'blood']",257.0
+1828,"['jan', 'panel', 'capitol', 'riot', 'case', 'time', 'hearing']",307.0
+1829,"['king', 'express', 'regret', 'cruelty', 'congo']",607.0
+1830,"['texas', 'survivor']",264.0
+1831,"['man', 'search', 'family', 'witness', 'documentary']",2643.0
+1832,"['person', 'car', 'drive', 'crowd', 'berlin']",786.0
+1833,"['are', 'nfts', 'future', 'art']",421.0
+1834,"['mosque', 'way', 'future', 'indonesia']",3786.0
+1835,"['king', 'wound', 'colonial', 'atrocity', 'inside', 'sto']",857.0
+1836,"['thousands', 'migrant', 'journey', 'mexico']",929.0
+1837,"['thailand', 'return', 'tourism']",543.0
+1838,"['rap', 'dictatorship', 'thailand', 'close']",350.0
+1839,"['year', 'bar', 'fault', 'lines']",1357.0
+1840,"['gaza', 'circus', 'entertainers', 'child', 'strip']",436.0
+1841,"['nigeria', 'church', 'attack', 'survivors', 'grief', 'trauma']",400.0
+1842,"['scientist', 'solution', 'problem', 'documentary']",486.0
+1843,"['search', 'indigenous', 'expert', 'writer', 'brazil']",686.0
+1844,"['boris', 'johnson', 'trust', 'people', 'inside']",707.0
+1845,"['civilians', 'drc', 'rwanda', 'rebel']",664.0
+1846,"['china', 'rule', 'pressure', 'student', 'exam']",314.0
+1847,"['ryanair', 'afrikaans', 'test', 'south', 'africa', 'fury', 'quiz']",1000.0
+1848,"['migrant', 'caravan', 'mexico']",929.0
+1849,"['channel', 'trailer']",500.0
+1850,"['kenya', 'president', 'kenyatta', 'rival', 'odinga', 'poll']",1929.0
+1851,"['prime', 'minister', 'boris', 'johnson', 'confidence', 'vote']",250.0
+1852,"['indonesia', 'bid', 'tie']",857.0
+1853,"['bangladesh', 'shipping', 'depot', 'fire', 'control', 'day']",1357.0
+1854,"['prime', 'minister', 'boris', 'johnson', 'vote']",400.0
+1855,"['griner', 'detention']",407.0
+1856,"['boris', 'johnson', 'future']",593.0
+1857,"['cryptocurrencies', 'comeback', 'inside']",3000.0
+1858,"['malaria', 'lifetime']",70.0
+1859,"['boris', 'johnson', 'confidence', 'vote']",271.0
+1860,"['nigeria', 'search', 'gunman', 'dozen', 'church', 'attack']",500.0
+1861,"['dispute', 'lebanonisrael', 'maritime', 'border']",2786.0
+1862,"['india', 'backlash', 'islamophobic', 'remark']",7000.0
+1863,"['india', 'bjp', 'backlash', 'prophet', 'muhammad', 'insult']",27071.0
+1864,"['worshippers', 'church', 'service', 'nigeria']",20286.0
+1865,"['china', 'astronaut', 'space', 'station']",3429.0
+1866,"['brazil', 'farmer', 'record', 'fertiliser', 'price']",636.0
+1867,"['iraq', 'smelter', 'workers', 'health', 'gold', 'silver']",1857.0
+1868,"['queen', 'platinum', 'jubilee', 'concert']",1429.0
+1869,"['support', 'ukraine', 'cup', 'spot']",236.0
+1870,"['skirmishes', 'police', 'block', 'tunisia', 'protest', 'july', 'referendum']",429.0
+1871,"['russia', 'power', 'severodonetsk', 'ukraine', 'governor']",7429.0
+1872,"['year', 'queen', 'elizabeth', 'second', 'inside']",671.0
+1873,"['hong', 'kong', 'police', 'tiananmen', 'vigil']",929.0
+1874,"['summit', 'americas', 'threats', 'boycott', 'cloud', 'event']",1286.0
+1875,"['louis', 'jazz', 'festival', 'thousands', 'senegal', 'event']",329.0
+1876,"['iraq', 'wetland', 'unesco', 'site', 'climate', 'change']",929.0
+1877,"['china', 'dragon', 'boat', 'festival', 'measure']",643.0
+1878,"['year', 'justice', 'sudan', 'massacre', 'victim']",486.0
+1879,"['bank', 'warns', 'recession', 'cost']",12500.0
+1880,"['jose', 'mujica', 'humblest', 'leader', 'talk']",1929.0
+1881,"['putin', 'port', 'release', 'grain', 'supply']",1429.0
+1882,"['platinum', 'jubilee', 'celebrations', 'queen', 'elizabeth']",343.0
+1883,"['yemen', 'month', 'side']",257.0
+1884,"['thing', 'day', 'russia', 'war', 'ukraine']",2857.0
+1885,"['salvador', 'right', 'violation', 'amnesty']",1071.0
+1886,"['violence', 'biden', 'delivers', 'nation']",650.0
+1887,"['day', 'russia', 'war', 'ukraine']",2571.0
+1888,"['action', 'china', 'uighur', 'genocide']",1000.0
+1889,"['argentina', 'economy', 'inflation', 'bite']",1500.0
+1890,"['refugees', 'car', 'return', 'cameroon', 'year']",650.0
+1891,"['country', 'face', 'war', 'inside']",1786.0
+1892,"['queen', 'elizabeth', 'jubilee', 'mark', 'reign']",786.0
+1893,"['israel', 'demolition', 'palestinian', 'home', 'turn']",2667.0
+1894,"['picasso', 'exhibition', 'return']",200.0
+1895,"['pakistan', 'inflation', 'crisis', 'poverty']",2143.0
+1896,['start'],5143.0
+1897,"['wizards', 'myanmar', 'east', 'documentary']",1667.0
+1898,"['attack', 'woman', 'turkey', 'spark']",2905.0
+1899,"['stockholm', 'conference', 'mark', 'year', 'environment', 'work']",162.0
+1900,"['chile', 'boric', 'decline', 'state', 'union']",190.0
+1901,"['ukraine', 'hope', 'cup', 'spirit']",152.0
+1902,"['anything', 'mass', 'shooting', 'bottom', 'line']",262.0
+1903,"['egypt', 'sentence', 'presenter']",410.0
+1904,"['pop', 'singer', 'music', 'india']",9286.0
+1905,"['fifa', 'cup', 'qatar']",319.0
+1906,"['malaysia', 'export', 'food', 'protectionism', 'move']",952.0
+1907,"['india', 'export', 'price', 'hike']",619.0
+1908,"['fifa', 'cup', 'qatar', 'challenge', 'countdown', 'loom']",6190.0
+1909,"['family', 'drama', 'witness', 'documentary']",905.0
+1910,"['south', 'korea', 'voters', 'poll', 'election']",229.0
+1911,"['med', 'hondo', 'father', 'cinema', 'documentary']",357.0
+1912,"['texas', 'town', 'child', 'school', 'shooting']",400.0
+1913,"['force', 'half', 'city', 'severodonetsk']",1143.0
+1914,"['hunger', 'sahel']",667.0
+1915,"['way', 'cost', 'crisis', 'inside']",3238.0
+1916,"['lebanon', 'speaker']",333.0
+1917,"['death', 'toll', 'rise', 'dozen', 'brazil', 'flood']",257.0
+1918,"['new', 'yorkers', 'police', 'raid', 'homeless', 'shelter']",619.0
+1919,"['mass', 'shooting', 'canada', 'gun', 'control', 'campaign']",443.0
+1920,"['killing', 'health', 'problem', 'ajopinion']",186.0
+1921,"['south', 'africans', 'power', 'cut', 'cable', 'theft']",443.0
+1922,"['colombia', 'petro', 'hernandez', 'runoff', 'election', 'june']",138.0
+1923,"['germany', 'antisemitism', 'blacklisting', 'journalist', 'listening', 'post', 'feature']",2190.0
+1924,"['uvalde', 'family', 'biden', 'something', 'mass', 'shooting']",267.0
+1925,"['largest', 'dam', 'removal', 'history', 'california']",14143.0
+1926,"['fighter', 'head', 'colombia', 'runoff']",195.0
+1927,"['war', 'decay', 'libya', 'desert', 'pearl']",419.0
+1928,"['grandmother', 'combat', 'colombia', 'group', 'witness', 'documentary']",571.0
+1929,"['zelenskyy', 'visit', 'line', 'ukraine', 'northeast']",1000.0
+1930,"['justice', 'department', 'response', 'texas', 'school', 'shooting']",271.0
+1931,"['president', 'condemn', 'israeli', 'flag', 'march', 'warn', 'consequence']",3000.0
+1932,"['flag', 'march']",1667.0
+1933,"['right', 'chief', 'china', 'visit', 'inside']",1571.0
+1934,"['government', 'nazi', 'art']",952.0
+1935,"['iraq', 'government', 'month', 'election']",714.0
+1936,"['hunger', 'grip', 'burkina', 'faso', 'violence']",243.0
+1937,"['triangle', 'sadness', 'palme', 'cannes', 'film']",571.0
+1938,"['brazil', 'protest', 'anger', 'killing', 'man']",390.0
+1939,"['bachelet', 'china', 'trip', 'probe', 'criticism']",319.0
+1940,"['sri', 'lanka', 'protest', 'demonstrators', 'day', 'struggle']",2048.0
+1941,"['gun', 'control', 'nothing', 'backwards']",405.0
+1942,"['brazil', 'police', 'violence', 'officers', 'man', 'death']",338.0
+1943,"['icc', 'case', 'attack', 'legal', 'team', 'abu', 'akleh']",443.0
+1944,"['fernandez', 'cuba', 'socialism', 'talk']",667.0
+1945,"['biden', 'asia', 'plan', 'china', 'influence', 'cost']",952.0
+1946,"['china', 'challenge', 'order', 'inside']",6619.0
+1947,"['drc', 'violence', 'people']",471.0
+1948,"['populism', 'desire', 'change', 'mark', 'colombia', 'vote']",300.0
+1949,"['senegal', 'casamance', 'conflict', 'gambia']",381.0
+1950,"['asphyxiation', 'black', 'man', 'boot', 'brazil', 'police', 'car', 'fury']",1000.0
+1951,"['lawyers', 'abu', 'akleh', 'journalist', 'icc', 'case']",443.0
+1952,"['conference', 'zimbabwe', 'stockpile']",810.0
+1953,"['jerusalem', 'existence', 'resistance', 'close']",667.0
+1954,"['senegal', 'hospital', 'fire', 'baby', 'tivaouane']",138.0
+1955,"['japan', 'border', 'tourist']",619.0
+1956,"['uvalde', 'family', 'baby']",238.0
+1957,"['probe', 'force', 'abu', 'akleh']",571.0
+1958,"['pakistan', 'khan', 'deadline', 'poll']",1381.0
+1959,"['shock', 'horror', 'uvalde', 'child', 'school', 'shooting']",371.0
+1960,"['blinken', 'strategy', 'china', 'rivalry', 'grows']",1524.0
+1961,"['lebanon', 'election', 'result', 'hope', 'change']",319.0
+1962,"['jill', 'biden', 'mass', 'baby', 'formula', 'shipment', 'europe']",132.0
+1963,"['covid', 'north', 'korea', 'start']",7500.0
+1964,"['francia', 'marquez', 'barrier', 'colombia']",264.0
+1965,"['johnson', 'pressure', 'partygate', 'photo']",171.0
+1966,"['moscow', 'putin', 'soldier', 'ukraine']",1036.0
+1967,"['government', 'exruler', 'jammeh']",750.0
+1968,"['enough', 'texas', 'spur', 'plea', 'gun', 'control']",264.0
+1969,"['beto', 'rourke', 'confronts', 'texas', 'governor', 'abbott', 'law']",357.0
+1970,"['rage', 'ukraine', 'aid']",1464.0
+1971,"['complete', 'evil', 'new', 'detail', 'texas']",536.0
+1972,"['ethiopia', 'truce', 'war', 'tigray']",1000.0
+1973,"['calls', 'gun', 'control', 'meet', 'resistance', 'texas', 'school', 'shooting']",607.0
+1974,"['estonia', 'president', 'talk', 'ukraine', 'war']",357.0
+1975,"['latvia', 'president', 'discus', 'ukraine', 'conflict']",243.0
+1976,"['forgotten', 'rohingya', 'inside']",393.0
+1977,"['food', 'price', 'crisis']",1821.0
+1978,"['texas', 'school', 'shooting', 'call', 'gun', 'control']",643.0
+1979,"['mothers', 'against', 'gun', 'violence', 'close']",121.0
+1980,"['fifa', 'qatar', 'kick', 'mena', 'sports', 'tournament']",157.0
+1981,"['gambians', 'government', 'action', 'crime', 'yahya', 'jammeh']",318.0
+1982,"['chinataiwan', 'biden', 'comment']",1286.0
+1983,"['treat', 'refugee', 'compassion', 'ajopinion']",139.0
+1984,"['flood', 'havoc', 'bangladesh', 'india']",429.0
+1985,"['refugees', 'excuse', 'place']",121.0
+1986,"['student', 'snub', 'blinken', 'graduation', 'ceremony']",5679.0
+1987,"['ukraine', 'war', 'kyiv', 'resident']",536.0
+1988,"['activist', 'year', 'toronto', 'billboard', 'witness', 'documentary']",275.0
+1989,['people'],129.0
+1990,"['uganda', 'opposition', 'politician', 'protest', 'price']",339.0
+1991,"['denmark', 'scotland', 'monkeypox', 'virus', 'case']",571.0
+1992,"['africawewant', 'african', 'union']",1214.0
+1993,"['ukraine', 'president', 'pleads', 'economic', 'forum', 'help']",429.0
+1994,"['number', 'people', 'inside']",607.0
+1995,"['indonesia', 'oil', 'export', 'ban']",643.0
+1996,"['brazil', 'ukraine', 'refugees', 'home', 'prudentopolis']",293.0
+1997,"['philippines', 'seven', 'fire', 'engulfs', 'passenger', 'ferry']",367.0
+1998,"['sri', 'lanka', 'crisis', 'drug', 'shortage']",533.0
+1999,"['force', 'qatar', 'emir', 'hosting', 'fifa', 'cup']",333.0
+2000,"['china', 'taiwan']",17233.0
+2001,"['aircraft', 'fly', 'tonne', 'baby', 'formula']",433.0
+2002,"['labor', 'government', 'change', 'forefront', 'inside']",183.0
+2003,"['mexico', 'musician', 'folk', 'festival', 'pause']",153.0
+2004,"['order', 'presenter']",3033.0
+2005,"['renewable', 'energy', 'superpower', 'australia', 'climate', 'action']",190.0
+2006,"['displaced', 'ukrainians', 'home', 'kyiv']",180.0
+2007,"['australia', 'promise', 'action', 'climate', 'change']",137.0
+2008,"['spain', 'heatwaves']",833.0
+2009,"['biden', 'south', 'korea', 'visit', 'security', 'economy']",133.0
+2010,"['opposition', 'candidate', 'poll', 'bangkok', 'election']",173.0
+2011,"['cannes', 'filmmakers', 'france', 'past']",310.0
+2012,"['kenya', 'inflation', 'cost', 'crisis', 'inflames', 'unrest', 'risk']",330.0
+2013,"['textile', 'hub', 'bangladesh', 'muslin', 'fabric']",3033.0
+2014,"['millions', 'cause', 'bangladesh', 'india']",1500.0
+2015,"['wimbledon', 'how', 'russia', 'war', 'ukraine', 'tennis']",333.0
+2016,"['baby', 'formula', 'jet']",270.0
+2017,"['ukraine', 'war', 'conflict', 'donbas', 'intensifies']",900.0
+2018,"['australia', 'election', 'labor', 'party', 'leader', 'albanese', 'victory']",333.0
+2019,"['asia', 'war', 'ukraine', 'rage', 'inside']",2167.0
+2020,"['thousand', 'home', 'india', 'flood']",867.0
+2021,"['mexico', 'folk', 'music', 'festival', 'song']",130.0
+2022,"['teen', 'israeli', 'raid', 'west', 'bank']",1833.0
+2023,"['israel', 'disinformation', 'playbook', 'delay', 'deflect', 'listening', 'post']",600.0
+2024,"['mexico', 'woman', 'families', 'effort', 'one']",90.0
+2025,"['thousand', 'home', 'india', 'flood']",223.0
+2026,"['sri', 'lankan', 'protester', 'party']",933.0
+2027,"['cryptocurrencies', 'comeback', 'cost']",467.0
+2028,['investor'],1167.0
+2029,"['russia', 'economy', 'sanction', 'inside']",19333.0
+2030,"['biden', 'asia', 'tour', 'tie']",400.0
+2031,"['nobel', 'prize', 'winner', 'jose', 'ramoshorta', 'sworn', 'east', 'timor', 'president']",967.0
+2032,"['france', 'germany', 'belgium', 'report', 'virus', 'case']",667.0
+2033,"['mali', 'child', 'labourer', 'children', 'money', 'age']",193.0
+2034,"['cannes', 'film', 'festival', 'russians', 'cold', 'ukraine']",277.0
+2035,"['court', 'argentina', 'massacre']",280.0
+2036,"['voice', 'palestine', 'journalist', 'talk', 'field']",833.0
+2037,"['hunger', 'fear', 'calls', 'russia', 'port', 'export']",633.0
+2038,"['qatar', 'emir', 'chancellor', 'berlin']",967.0
+2039,"['australia', 'election', 'coalition', 'trail', 'race']",197.0
+2040,"['video', 'shireen', 'abu', 'akleh']",633.0
+2041,"['lebanon', 'election', 'map']",367.0
+2042,"['biden', 'cold', 'warera', 'law', 'baby', 'formula', 'shortage']",220.0
+2043,"['poland', 'war', 'ukraine', 'bottom', 'line']",1900.0
+2044,"['climate', 'change', 'theme', 'election']",187.0
+2045,"['army', 'abu', 'akleh', 'killing', 'report']",1300.0
+2046,"['covid', 'symptoms', 'fact']",270.0
+2047,"['cannes', 'balancing', 'film', 'hollywood', 'blockbuster']",333.0
+2048,"['kenya', 'lake', 'flood', 'displace', 'ten', 'thousand', 'damage', 'livelihood']",147.0
+2049,"['ukraine', 'grain', 'export', 'food', 'crisis']",400.0
+2050,"['ukraine', 'war', 'mykolaiv', 'edge', 'fear', 'assault']",1133.0
+2051,"['nato', 'expansion', 'issue']",367.0
+2052,"['israel', 'shireen', 'abu', 'akleh']",1033.0
+2053,"['change', 'lebanon', 'inside']",467.0
+2054,"['security', 'top', 'election', 'agenda']",180.0
+2055,"['cuba', 'crisis', 'decade']",2400.0
+2056,"['sweden', 'finland', 'nato', 'membership', 'application']",600.0
+2057,"['sri', 'lanka', 'crisis', 'petrol', 'station']",1967.0
+2058,"['killing', 'journalist', 'shireen', 'abu', 'akleh', 'start']",5067.0
+2059,"['poor', 'worker', 'brunt', 'record', 'heatwave']",160.0
+2060,"['ramification', 'roe', 'wade']",233.0
+2061,"['peru', 'kitchen', 'price']",277.0
+2062,"['strategy', 'group', 'sahel', 'inside']",260.0
+2063,"['hundreds', 'million', 'south', 'asia']",400.0
+2064,"['lebanon', 'reformist', 'candidate', 'gain', 'election']",333.0
+2065,['railway'],3467.0
+2066,"['fighter', 'azovstal', 'surrender']",1967.0
+2067,"['troop', 'mariupol', 'plant', 'kyiv']",700.0
+2068,"['korea', 'army', 'who', 'concern', 'covid']",367.0
+2069,"['project', 'hold', 'inquiry']",400.0
+2070,"['ukraine', 'war', 'swat', 'police', 'hunt', 'collaborator', 'odes']",867.0
+2071,"['plan', 'extreme', 'heat']",83.0
+2072,"['skies', 'orange', 'iraq', 'sandstorm', 'illness']",433.0
+2073,"['risk', 'trade', 'war', 'brexit', 'row', 'ireland', 'protocol']",600.0
+2074,"['replacement', 'theory', 'buffalo', 'shooting']",367.0
+2075,"['jet', 'suit', 'paramedic', 'flight']",333.0
+2076,['teen'],187.0
+2077,"['mali', 'withdraws', 'west', 'africa', 'alliance']",1633.0
+2078,"['truth', 'illusion', 'investigations']",11967.0
+2079,"['finland', 'sweden', 'joining', 'nato', 'make', 'europe', 'inside']",1133.0
+2080,"['shireen', 'abu', 'akleh', 'report', 'mark', 'year', 'nakba']",533.0
+2081,"['ukraine', 'war', 'kharkiv', 'resident', 'home']",333.0
+2082,"['somalia', 'hassan', 'sheikh', 'mohamud', 'president']",3200.0
+2083,"['buffalo', 'mass', 'shooting']",400.0
+2084,"['lebanon', 'election', 'change', 'voting', 'concludes']",213.0
+2085,"['finland', 'sweden', 'nato', 'membership']",967.0
+2086,"['lebanon', 'election', 'change']",300.0
+2087,"['election', 'answer', 'lebanon', 'challenge']",193.0
+2088,"['north', 'korea', 'implement', 'covid', 'lockdown']",1267.0
+2089,"['art', 'activism', 'palestinians', 'resistance']",183.0
+2090,"['family', 'recount', 'nakba', 'experience']",467.0
+2091,"['sheikh', 'jarrah', 'family', 'israel', 'eviction']",243.0
+2092,"['year', 'israeli', 'bombing', 'building', 'gaza']",327.0
+2093,"['journalist', 'shireen', 'abu', 'akleh']",467.0
+2094,"['eviction', 'israeli', 'occupation']",270.0
+2095,"['law', 'order', 'metaverse', 'vantagepoint']",2167.0
+2096,"['vagrant', 'trilogy', 'play', 'impact', 'war', 'palestinians']",83.0
+2097,"['gunman', 'shooting', 'buffalo']",867.0
+2098,"['ukraine', 'kalush', 'orchestra', 'eurovision', 'russia', 'invasion']",210.0
+2099,"['crisis', 'family', 'house', 'baby', 'formula', 'shortage']",330.0
+2100,"['election', 'monitors', 'vote']",160.0
+2101,"['somalia', 'election']",1100.0
+2102,"['fire', 'india', 'capital', 'new', 'delhi', 'dozen']",293.0
+2103,"['uae', 'president', 'sheikh', 'khalifa', 'zayed', 'nahyan']",2567.0
+2104,"['fund', 'meetup']",157.0
+2105,"['shireen', 'abu', 'akleh', 'blood', 'listening', 'post']",333.0
+2106,"['nauseda', 'war', 'europe', 'eye', 'putin', 'intention', 'talk']",900.0
+2107,"['slain', 'journalist', 'shireen', 'abu', 'akleh']",4833.0
+2108,"['philippine', 'president', 'economy', 'cost']",633.0
+2109,"['force', 'mourner', 'coffin', 'journalist']",1700.0
+2110,"['palestinians', 'opinion', 'shireen', 'inside']",1867.0
+2111,"['slain', 'journalist', 'jerusalem']",2400.0
+2112,"['journalist', 'abu', 'akleh', 'israeli', 'troop']",243.0
+2113,"['israel', 'killing', 'history', 'abuse', 'territory']",433.0
+2114,"['force', 'mourner', 'abu', 'akleh', 'body']",30700.0
+2115,"['shireen', 'abu', 'akleh', 'east', 'jerusalem']",467.0
+2116,"['meeting', 'foreign', 'minister', 'action', 'ukraine']",267.0
+2117,"['front', 'line']",467.0
+2118,"['finland', 'nato', 'membership']",967.0
+2119,"['palestinians', 'abu', 'akleh', 'state', 'service', 'ramallah']",3567.0
+2120,"['house', 'speaker', 'nancy', 'pelosi', 'killing', 'abu', 'akleh']",2767.0
+2121,"['calls', 'grow', 'investigation', 'akleh', 'death']",733.0
+2122,"['journalist', 'shireen', 'abu', 'akleh', 'israeli', 'force']",3033.0
+2123,"['caribbean', 'nation', 'queen']",400.0
+2124,"['state', 'department', 'spokesperson', 'journalist', 'death']",5367.0
+2125,"['outrage', 'israeli', 'journalist']",2833.0
+2126,"['fire', 'journalist']",1233.0
+2127,"['shireen', 'abu', 'akleh', 'journalist', 'israeli', 'force']",3800.0
+2128,"['supply', 'chain', 'brace', 'disruption']",367.0
+2129,"['battle', 'donbas', 'residents', 'fighting', 'rage', 'ukraine']",533.0
+2130,"['sheriffs', 'gang', 'los', 'angeles', 'fault', 'lines']",10700.0
+2131,"['biden', 'inflation', 'priority']",153.0
+2132,"['shireen', 'abu', 'akleh', 'audience']",1933.0
+2133,"['mexico', 'women', 'justice', 'answer']",73.0
+2134,"['shireen', 'abu', 'akleh', 'reporter', 'israeli', 'gunfire']",2300.0
+2135,"['charlettes', 'engineer', 'ivory', 'coast', 'ghana', 'africa', 'direct', 'documentary']",170.0
+2136,"['paraguay', 'prosecutor', 'shot', 'honeymoon', 'colombia']",667.0
+2137,"['shireen', 'abu', 'akleh']",1900.0
+2138,"['sri', 'lanka', 'issue', 'order']",260.0
+2139,"['journalism', 'fight', 'death', 'post', 'feature']",190.0
+2140,"['lebanon', 'voters', 'change', 'may', 'election']",200.0
+2141,"['experts', 'arkansas', 'future', 'supply', 'chain']",193.0
+2142,"['worshipping', 'practice', 'vietnam', 'fisherman']",97.0
+2143,"['sri', 'lanka', 'gov', 'building']",833.0
+2144,"['sukyeol', 'office', 'south', 'korea', 'president']",367.0
+2145,"['farm', 'farmer', 'businesswoman', 'zimbabwe', 'africa', 'direct', 'documentary']",2667.0
+2146,"['mexico', 'death', 'trigger', 'rate']",310.0
+2147,"['dozens', 'ecuador', 'prison', 'riot']",333.0
+2148,"['philippines', 'election', 'marcos', 'set', 'victory']",533.0
+2149,"['sri', 'lanka', 'violence', 'escalates']",11533.0
+2150,"['side', 'sport']",203.0
+2151,"['protests', 'new', 'delhi', 'demolition', 'muslim', 'area']",433.0
+2152,"['behind', 'sinn', 'fein', 'victory', 'northern', 'ireland', 'inside']",3200.0
+2153,"['sri', 'lanka', 'mahinda', 'rajapaksa', 'crisis', 'worsens']",2733.0
+2154,"['west', 'threat', 'putin', 'victory', 'day']",1400.0
+2155,"['russia', 'putin', 'victory', 'day', 'parade']",5433.0
+2156,"['senegal', 'sea', 'level', 'desert']",200.0
+2157,"['mining', 'ghana', 'environmentalists', 'deforestation']",187.0
+2158,"['sri', 'lanka', 'mahinda', 'rajapaksa', 'crisis', 'worsens']",467.0
+2159,"['john', 'lee', 'hong', 'kong', 'executive']",243.0
+2160,"['sixty', 'school', 'attack', 'russia', 'ukraine']",1633.0
+2161,"['germany', 'russia', 'approach', 'mark', 'policy', 'shift']",1600.0
+2162,"['goodbye', 'duterte', 'part', 'punisher', 'power', 'east']",1433.0
+2163,"['goodbye', 'duterte', 'part', 'critics', 'east']",833.0
+2164,"['former', 'security', 'chief', 'john', 'lee', 'hong', 'kong', 'leader']",157.0
+2165,"['putin', 'afford', 'ukraine', 'war', 'cia', 'chief', 'aljazeeranewsfeed']",700.0
+2166,"['woman', 'death', 'childbirth', 'spark', 'outcry', 'senegal']",230.0
+2167,"['sinn', 'fein', 'era', 'northern', 'ireland', 'vote']",967.0
+2168,"['lula', 'campaign', 'transform', 'brazil']",307.0
+2169,"['woman', 'child', 'mariupol', 'steel', 'plant']",1100.0
+2170,"['philippines', 'election']",2033.0
+2171,"['way', 'sri', 'lanka', 'crisis', 'inside']",3133.0
+2172,"['france', 'macron', 'sworn', 'term', 'president']",467.0
+2173,"['order', 'afghan', 'woman', 'public']",967.0
+2174,"['ghana', 'museum', 'preview', 'pan', 'african', 'heritage', 'launch']",160.0
+2175,"['ice', 'racism', 'diversity', 'canadian', 'league']",200.0
+2176,"['hong', 'kong', 'leadership', 'former', 'security', 'chief', 'candidate']",167.0
+2177,"['goodbye', 'duterte', 'part', 'rise', 'punisher', 'east']",2467.0
+2178,"['goodbye', 'duterte', 'part', 'war', 'fronts', 'east']",1300.0
+2179,"['ikrima', 'sabri', 'muslims', 'god', 'talk']",400.0
+2180,"['football', 'fan', 'cup', 'qatar']",147.0
+2181,"['toll', 'covid', 'inside']",160.0
+2182,"['ukraine', 'fighter', 'mariupol', 'evacuation', 'attempt']",1633.0
+2183,"['philippines', 'election', 'marcos', 'opinion', 'poll']",567.0
+2184,"['india', 'power', 'cut', 'homes', 'hospital', 'business', 'shortage']",400.0
+2185,"['covid', 'death', 'toll']",213.0
+2186,"['northern', 'ireland', 'polls', 'sinn', 'fein']",1000.0
+2187,"['attack', 'tel', 'aviv', 'medic']",667.0
+2188,"['civilians', 'line', 'russianheld', 'area']",767.0
+2189,"['disinformation', 'philippines', 'election']",533.0
+2190,"['assault', 'kramatorsk', 'injures', 'people']",217.0
+2191,"['plight', 'refugee', 'migrant', 'upfront']",197.0
+2192,"['kashmir', 'files', 'pandits']",1133.0
+2193,"['philippines', 'election', 'leni', 'robredo', 'pink', 'wave']",933.0
+2194,"['solution', 'work']",1367.0
+2195,"['mariupol', 'steel', 'plant', 'siege', 'accuses', 'russia', 'ceasefire']",2200.0
+2196,"['warfare', 'salvador', 'inside']",1367.0
+2197,"['guinea', 'former', 'president', 'house', 'arrest', 'inquiry']",320.0
+2198,"['salvadorians', 'innocent', 'crackdown', 'gang']",800.0
+2199,"['zelenskyy', 'truce', 'mariupol', 'civilian']",260.0
+2200,"['finland', 'sweden', 'nato', 'brainer', 'opinion']",1133.0
+2201,"['fed', 'interest', 'rate', 'hike']",187.0
+2202,"['philippines', 'election', 'democracy', 'stake']",2133.0
+2203,"['are', 'sweden', 'finland', 'threat', 'inside']",15633.0
+2204,"['russia', 'israel', 'dispute', 'ukraine']",2767.0
+2205,"['northern', 'ireland', 'election', 'history']",1100.0
+2206,"['horn', 'africa', 'drought', 'million']",400.0
+2207,"['chief', 'oil', 'ban', 'round', 'sanction']",313.0
+2208,"['medium', 'toxic', 'health', 'fault', 'lines']",600.0
+2209,"['drc', 'state', 'siege', 'north', 'kivu', 'ituri', 'attack']",127.0
+2210,"['chief', 'resource', 'attack', 'africa', 'sahel']",333.0
+2211,"['journalism', 'siege', 'unesco', 'host', 'conference', 'uruguay']",130.0
+2212,"['mariupol', 'steel', 'plant', 'safety', 'zaporizhzhia']",333.0
+2213,"['songs', 'gulf', 'documentary']",207.0
+2214,"['protest', 'roe', 'wade', 'abortion', 'rollback']",187.0
+2215,"['mexico', 'rise']",333.0
+2216,"['prepares', 'election', 'test', 'johnson']",240.0
+2217,"['evacuee', 'azovstal', 'plant', 'reach', 'ukrainianheld', 'city']",500.0
+2218,"['firewoman', 'bush', 'firefighter', 'south', 'africa', 'africa', 'direct', 'documentary']",123.0
+2219,"['trucking', 'trucker', 'ivory', 'coast', 'africa', 'direct', 'documentary']",187.0
+2220,"['muslims', 'worldwide', 'celebrate', 'eid', 'alfitr']",1467.0
+2221,"['germany', 'opposition', 'oil', 'ban']",1067.0
+2222,"['evacuation', 'civilian', 'ukraine', 'mariupol']",933.0
+2223,"['job', 'movement', 'mongolia']",900.0
+2224,"['peace', 'dialogue', 'inside']",333.0
+2225,"['new', 'zealand', 'tourist', 'time', 'year']",180.0
+2226,"['uganda', 'journalist', 'crackdown', 'dissent']",110.0
+2227,"['mariupol', 'horror', 'shelling']",533.0
+2228,"['meet', 'afghan', 'journalist', 'taliban']",500.0
+2229,"['philippines', 'indigenous', 'defender', 'protection']",280.0
+2230,"['ukraine', 'war', 'passage', 'operation', 'mariupol']",767.0
+2231,"['cuba', 'may', 'day', 'time', 'pandemic']",333.0
+2232,"['nancy', 'pelosi', 'visit', 'ukraine', 'president', 'zelenskyy']",533.0
+2233,"['may', 'day', 'march', 'strife']",500.0
+2234,"['drastically', 'intensifies', 'ukraine']",1033.0
+2235,"['sri', 'lanka', 'unity', 'force', 'march']",330.0
+2236,"['rwanda', 'family', 'man', 'hollywood', 'film']",400.0
+2237,"['iran', 'startup', 'businesses', 'sanction']",1133.0
+2238,"['cameroon', 'water', 'access', 'conflict', 'displaces', 'people']",333.0
+2239,"['nato', 'arm']",1900.0
+2240,"['elon', 'musk', 'twittertakeover', 'town', 'square', 'listening', 'post']",367.0
+2241,"['ballerina', 'olga', 'smirnova', 'bolshoi', 'ballet', 'ukraine', 'war']",867.0
+2242,"['haiti', 'gang', 'thousand', 'home']",767.0
+2243,"['tennis', 'boris', 'becker', 'year', 'bankruptcy', 'case']",933.0
+2244,"['battle', 'ukraine', 'civilians', 'situation']",467.0
+2245,"['salvador', 'autocracy', 'talk', 'field']",400.0
+2246,"['elon', 'musk', 'twitter', 'cost']",400.0
+2247,"['vietnam', 'bridge']",1133.0
+2248,"['quds', 'day', 'tens', 'thousand', 'solidarity', 'palestinians']",1933.0
+2249,"['forest', 'inside']",333.0
+2250,"['hottest', 'summer', 'state', 'heatwave']",633.0
+2251,"['sudan', 'clash', 'govt', 'troop', 'darfur']",400.0
+2252,"['hong', 'kong', 'election', 'candidate', 'manifesto']",127.0
+2253,"['iraqi', 'roma', 'minority']",280.0
+2254,"['air', 'attack', 'chief', 'antonio', 'guterres', 'ukraine']",367.0
+2255,"['millions', 'indonesians', 'home', 'time', 'pandemic']",3267.0
+2256,"['chapter', 'islam']",367.0
+2257,"['sri', 'lankans', 'strike', 'crisis']",327.0
+2258,"['europeans', 'russian', 'gas', 'inside']",9667.0
+2259,"['ukraine', 'russia', 'trade', 'blame', 'attack', 'moldova', 'region']",800.0
+2260,"['chief', 'tour', 'town', 'zelenskyy', 'talk']",700.0
+2261,"['businesses', 'china', 'struggle', 'covid', 'restriction']",367.0
+2262,"['sistine', 'chapel', 'replica', 'mexico', 'city']",103.0
+2263,"['has', 'biden', 'activist', 'bottom', 'line']",103.0
+2264,"['heatwave', 'grip', 'india']",700.0
+2265,"['thailand', 'maya', 'bay', 'rejuvenation', 'spark', 'debate']",433.0
+2266,"['cuba', 'crisis', 'crackdown', 'push']",1167.0
+2267,"['rise', 'ajopinion']",400.0
+2268,"['war', 'absurdity', 'century', 'guterres', 'ukraine']",1433.0
+2269,"['leader', 'tribute', 'madeleine', 'albright']",220.0
+2270,"['russia', 'marine', 'trevor', 'reed', 'prisoner', 'exchange']",500.0
+2271,"['sri', 'lanka', 'emergency']",1000.0
+2272,"['russia', 'gas', 'delivery', 'poland', 'bulgaria']",1200.0
+2273,"['baker', 'war', 'village']",270.0
+2274,"['moldova', 'security', 'meeting', 'transnistria', 'blast']",1533.0
+2275,"['heaven', 'earth', 'ukraine', 'defence']",400.0
+2276,"['azmari', 'musician', 'africa', 'direct', 'documentary']",307.0
+2277,"['putin', 'principle', 'role', 'mariupol', 'evacuation']",467.0
+2278,"['india', 'politics', 'attack', 'muslims']",5933.0
+2279,"['putin', 'chief', 'mariupol', 'situation']",17600.0
+2280,"['future', 'twitter', 'musk', 'inside']",500.0
+2281,"['north', 'korea', 'parade', 'push']",7467.0
+2282,"['libya', 'ramadan', 'food', 'price']",3800.0
+2283,"['nepal', 'capital', 'water', 'shortage']",1267.0
+2284,"['ukraine', 'thousand', 'war', 'crime', 'ukraine']",250.0
+2285,"['russiaukraine', 'contact', 'group']",1200.0
+2286,"['russia', 'invasion', 'prompt', 'ukraine', 'movement', 'thing']",400.0
+2287,"['violence', 'soldier', 'attack']",500.0
+2288,"['musk', 'twitter', 'takeover', 'mean', 'speech']",263.0
+2289,"['court', 'sentence', 'osman', 'kavala', 'life', 'prison']",333.0
+2290,"['pentagon', 'chief', 'lloyd', 'austin', 'talk', 'germany', 'ukraine']",2133.0
+2291,"['degrees', 'abuse', 'impact']",77.0
+2292,"['elon', 'musk', 'twitter', 'deal', 'speech', 'disinformation', 'debate']",220.0
+2293,"['embarks', 'moscow', 'trip', 'criticism']",567.0
+2294,"['shehbaz', 'sharif', 'imran', 'khan', 'pakistan', 'minister', 'start']",8500.0
+2295,"['germany', 'bunker', 'infrastructure', 'ukraine', 'war', 'rage']",833.0
+2296,"['macron', 'defeat', 'pen', 'election']",267.0
+2297,"['digital', 'oppression', 'bangladesh', 'listening', 'post', 'feature']",5000.0
+2298,"['blinken', 'austin', 'pledge', 'aid', 'return', 'diplomat']",1867.0
+2299,"['china', 'beijing', 'mass', 'covid', 'testing', 'spike', 'case']",333.0
+2300,"['macron', 'defeat', 'pen', 'french', 'election', 'change']",700.0
+2301,"['president', 'macron', 'projections']",967.0
+2302,"['rule', 'big', 'tech', 'inside']",367.0
+2303,"['ukraine', 'easter', 'truce', 'mariupol']",633.0
+2304,"['election', 'way', 'runoff']",500.0
+2305,"['gunman', 'israeli', 'occupation']",1600.0
+2306,"['climate', 'fear', 'floods', 'africa', 'worry']",133.0
+2307,"['rio', 'carnival', 'celebration', 'party']",247.0
+2308,"['argentina', 'farmer', 'protest', 'buenos', 'aires']",260.0
+2309,"['residents', 'donbas', 'town', 'refuse']",500.0
+2310,"['battle', 'mariupol', 'civilians', 'azovstal', 'steel', 'plant']",2867.0
+2311,"['sri', 'lanka', 'unrest', 'rambukkana', 'victim']",217.0
+2312,"['occupied', 'west', 'bank', 'wasps', 'nest', 'vow', 'israeli', 'occupation']",1600.0
+2313,"['explosion', 'afghan', 'mosque', 'kill', 'dozen', 'people']",143.0
+2314,"['new', 'israeli', 'raid', 'alaqsa', 'mosque', 'palestinians']",867.0
+2315,"['putin', 'zelenskyy', 'peace', 'effort']",333.0
+2316,"['soldier', 'russia', 'field', 'hospital']",267.0
+2317,"['election', 'macron', 'pen', 'voter']",157.0
+2318,"['pakistan', 'crisis', 'medium', 'listening', 'post']",1517.0
+2319,"['way', 'sri', 'lanka', 'crisis', 'cost']",867.0
+2320,"['afghan', 'taliban', 'threat', 'isil', 'inside']",483.0
+2321,"['india', 'defence', 'trade', 'cooperation']",433.0
+2322,"['icj', 'colombia', 'activity', 'eez', 'water']",88.0
+2323,"['inger', 'andersen', 'injustice', 'crisis', 'talk']",43.0
+2324,"['russia', 'claim', 'mariupol']",267.0
+2325,"['new', 'legislation', 'china', 'protection', 'woman']",122.0
+2326,"['tension', 'hunt', 'kurdish', 'fighter', 'force', 'family']",300.0
+2327,"['oil', 'gas', 'well', 'emission']",103.0
+2328,"['honduras', 'hernandez', 'way', 'drug', 'charge']",200.0
+2329,"['artillery', 'ammunition', 'drone']",283.0
+2330,"['lawmaker', 'probe', 'boris', 'johnson', 'partygate']",135.0
+2331,"['russia', 'ukraine', 'mariupol']",700.0
+2332,"['hong', 'kong', 'plan', 'covid', 'restriction']",145.0
+2333,"['debate', 'inside']",120.0
+2334,"['thailand', 'fearless', 'cop', 'east', 'documentary']",7350.0
+2335,"['russia', 'hope']",450.0
+2336,"['biden', 'bailout', 'power', 'plant']",148.0
+2337,"['wall', 'fire', 'arizona', 'blaze', 'force', 'thousand']",98.0
+2338,"['magnitsky', 'act', 'bottom', 'line']",3967.0
+2339,"['thank', 'million', 'subscribers', 'youtube']",2983.0
+2340,"['hong', 'kong', 'curb', 'business', 'covid', 'case']",110.0
+2341,"['officials', 'meeting', 'russia', 'participation']",1317.0
+2342,"['online', 'justice', 'people', 'power']",82.0
+2343,"['macron', 'pen', 'clash', 'russia', 'hijab', 'debate']",267.0
+2344,"['day', 'commander', 'mariupol', 'appeal', 'help']",500.0
+2345,"['battle', 'donbas', 'civilians', 'ukraine']",97.0
+2346,"['plan', 'seeker']",217.0
+2347,"['ukrainians', 'refugee', 'war']",112.0
+2348,"['india', 'dozens', 'property', 'muslim', 'area']",1250.0
+2349,"['battle', 'donbas', 'mean', 'ukraine', 'war', 'inside']",6333.0
+2350,"['mission', 'east', 'ukraine', 'way']",1383.0
+2351,"['east', 'timor', 'election', 'vote', 'way', 'round']",65.0
+2352,"['elon', 'musk', 'twitter', 'inside']",152.0
+2353,"['hong', 'kong', 'covid', 'crisis', 'pollution', 'waste', 'problem']",250.0
+2354,"['south', 'africa', 'disaster', 'storm', 'hundred']",250.0
+2355,['tension'],867.0
+2356,"['ukrainerussia', 'resistance', 'between']",433.0
+2357,"['war', 'ukraine', 'nato', 'purpose', 'start']",10300.0
+2358,"['philippines', 'marcos', 'junior', 'race']",750.0
+2359,"['judge', 'mask', 'mandate', 'plane', 'train']",83.0
+2360,"['painter', 'art', 'happiness', 'burkina', 'faso', 'africa', 'direct', 'documentary']",70.0
+2361,"['south', 'africa', 'troop', 'relief', 'effort']",67.0
+2362,"['lviv', 'russia', 'attack', 'donbas', 'push']",283.0
+2363,"['interest', 'climate', 'action']",78.0
+2364,"['sri', 'lanka', 'swears', 'minister', 'bid', 'turmoil']",250.0
+2365,"['dozens', 'india', 'delhi', 'clash']",450.0
+2366,"['account', 'sinking', 'russia', 'flagship', 'moskva']",25000.0
+2367,"['narendra', 'modi', 'hate', 'speech', 'india', 'inside']",900.0
+2368,"['libya', 'migrant', 'labourer', 'ramadan']",450.0
+2369,"['tunisians', 'disaster', 'tanker']",250.0
+2370,"['iraq', 'tourism', 'comeback', 'year', 'war']",617.0
+2371,"['leader', 'tension', 'aqsa', 'mosque', 'inside']",1033.0
+2372,"['somalia', 'violence', 'journalist', 'rise']",217.0
+2373,"['russia', 'deadline', 'pass', 'troop', 'mariupol']",2983.0
+2374,"['experts', 'nepal', 'forex', 'reserve']",400.0
+2375,"['settler', 'alaqsa', 'compound', 'tension']",600.0
+2376,"['philippines', 'storm', 'megi', 'rescue', 'worker', 'search', 'survivor']",103.0
+2377,"['jerusalem', 'alaqsa', 'mosque', 'fear', 'conflict']",967.0
+2378,"['situation', 'mariupol', 'leader']",583.0
+2379,"['somalia', 'parliament', 'rise', 'challenge', 'inside']",1500.0
+2380,"['chile', 'lithium', 'indigenous', 'community', 'fight', 'miner']",167.0
+2381,"['germany', 'refugee', 'need']",367.0
+2382,"['astronaut', 'earth', 'month', 'space']",2817.0
+2383,"['new', 'york', 'auto', 'show', 'industry', 'focus', 'vehicle']",200.0
+2384,"['myanmar', 'year', 'opposition', 'boycott', 'celebration']",103.0
+2385,"['philippines', 'storm', 'megi', 'death', 'toll', 'rise', 'flood']",102.0
+2386,"['ukraine', 'war', 'sophia', 'cathedral', 'zone']",250.0
+2387,"['russia', 'threatens', 'kyiv', 'strike', 'crossborder', 'attack']",3917.0
+2388,"['piece', 'equipment']",9600.0
+2389,"['execution', 'patrick', 'lyoya', 'family', 'demand', 'justice']",142.0
+2390,"['palestinians', 'israeli', 'raid', 'occupied', 'west', 'bank']",1400.0
+2391,"['elon', 'musk', 'twitter']",140.0
+2392,"['election', 'macron', 'pen', 'rally', 'end', 'france']",467.0
+2393,"['attack', 'minority', 'india', 'upfront']",3067.0
+2394,['covid'],167.0
+2395,"['plan', 'asylum', 'seeker', 'rwanda']",300.0
+2396,"['south', 'africa', 'rain', 'flood']",300.0
+2397,"['mortar', 'attack', 'strike', 'somalia', 'area', 'mps']",250.0
+2398,"['sri', 'lanka', 'new', 'year', 'celebration', 'crisis']",467.0
+2399,"['war', 'ukraine', 'worsen', 'food', 'shortage', 'inside']",5750.0
+2400,"['israel', 'security', 'force', 'palestinians', 'west', 'bank']",717.0
+2401,"['south', 'africa']",233.0
+2402,"['kashmir', 'ramadan', 'alarm', 'clock']",167.0
+2403,"['stake', 'ukraine', 'bottom', 'line']",5950.0
+2404,"['support', 'waver', 'chile', 'reform', 'deadline', 'nears']",110.0
+2405,"['evidence', 'war', 'crime', 'kyiv', 'mount']",250.0
+2406,"['south', 'africa', 'death', 'toll', 'kwazulunatal', 'flood']",157.0
+2407,"['iraq', 'horse', 'regains', 'popularity', 'year', 'conflict']",233.0
+2408,"['gulf', 'guinea', 'piracy', 'threat', 'west', 'african', 'state']",73.0
+2409,"['death', 'toll', 'philippines', 'landslide', 'flood']",77.0
+2410,"['mexico', 'rise', 'disappearance']",85.0
+2411,"['ukraine', 'city', 'brace', 'influx', 'people']",108.0
+2412,"['south', 'africa', 'overnight', 'flood', 'dozen', 'durban', 'environs']",483.0
+2413,"['boris', 'johnson', 'apology', 'party']",162.0
+2414,"['putin', 'russia', 'choice', 'ukraine']",1333.0
+2415,"['nypd', 'identifies', 'person', 'interest', 'brooklyn', 'subway']",167.0
+2416,"['imran', 'khan', 'mean', 'pakistan']",1417.0
+2417,"['indonesia', 'bill', 'violence']",217.0
+2418,"['people', 'brooklyn']",2150.0
+2419,"['ukrainians', 'home', 'destruction']",217.0
+2420,"['pakistan', 'shehbaz', 'sharif', 'job', 'inside']",433.0
+2421,"['ukraine', 'war', 'trigger', 'fertiliser', 'shortage']",333.0
+2422,"['inflation', 'percent', 'year']",367.0
+2423,"['violence', 'hindus', 'muslims', 'festival']",3250.0
+2424,"['pakistan', 'prime', 'minister', 'shehbaz', 'sharif']",350.0
+2425,"['illegal', 'mining', 'surge', 'land', 'brazil', 'report']",145.0
+2426,"['shehbaz', 'sharif', 'pakistan', 'minister']",717.0
+2427,"['ukraine', 'fears', 'offensive', 'east']",500.0
+2428,"['ghana', 'man', 'country', 'glass', 'waste', 'crisis']",163.0
+2429,"['president', 'france', 'inside']",283.0
+2430,"['france', 'election', 'pen']",217.0
+2431,"['ukraine', 'president', 'zelenskyy', 'kyiv', 'assault']",367.0
+2432,"['covid', 'outbreak', 'china', 'shanghai', 'lockdown']",483.0
+2433,"['isil', 'project', 'force']",517.0
+2434,"['pakistan', 'minister']",983.0
+2435,"['protests', 'pakistan', 'khan', 'removal', 'sharif']",1367.0
+2436,"['mexico', 'president', 'lopez', 'obrador', 'vote', 'turnout']",148.0
+2437,"['makariv', 'landmines', 'volunteer', 'life', 'city']",183.0
+2438,"['macron', 'pen', 'election', 'runoff', 'projections']",167.0
+2439,"['invasion', 'ukraine']",683.0
+2440,"['imran', 'khan', 'joke', 'pakistan', 'constitution', 'ajopinion']",517.0
+2441,"['ukraine', 'security', 'inside']",917.0
+2442,"['turnout', 'france', 'poll', 'president']",118.0
+2443,"['somalia', 'first', 'blood', 'bank', 'decade', 'rise', 'unrest']",82.0
+2444,"['romania', 'thousand', 'refugee']",167.0
+2445,"['pakistan', 'imran', 'khan', 'vote']",2150.0
+2446,"['president', 'volodymyr', 'zelenskyy', 'liberation']",217.0
+2447,"['fallout', 'pakistan', 'crisis', 'inside']",1350.0
+2448,"['army', 'palestinian', 'jenin', 'refugee', 'camp', 'raid']",350.0
+2449,"['south', 'china', 'sea', 'fisherman', 'livelihood']",283.0
+2450,"['brazil', 'amazon', 'deforestation', 'record']",152.0
+2451,"['allprivate', 'astronaut', 'team', 'space', 'landmark', 'launch']",250.0
+2452,"['billion', 'former', 'banker', 'scandal']",300.0
+2453,"['russia', 'withdraws', 'chernihiv', 'resident', 'aid']",200.0
+2454,"['way', 'ketanji', 'brown', 'jackson']",125.0
+2455,"['ukraine', 'missile', 'attack', 'dozens', 'kramatorsk', 'railway', 'station']",333.0
+2456,"['leader', 'grant', 'force', 'freedom', 'tel', 'aviv', 'attack']",1250.0
+2457,"['france', 'vote', 'oligarchs', 'demagogue', 'medium', 'listening', 'post']",417.0
+2458,"['commission', 'president', 'ursula', 'von', 'der', 'leyen', 'ukraine']",417.0
+2459,"['russell', 'beckham', 'light', 'challenge', 'child', 'talk']",70.0
+2460,"['release', 'oil', 'reserve', 'bring', 'price', 'cost']",583.0
+2461,"['kramatorsk', 'train', 'station', 'attack', 'ukraine']",250.0
+2462,"['war', 'yemen', 'end', 'inside']",1033.0
+2463,"['election', 'candidate']",283.0
+2464,"['chile', 'heritage', 'museum', 'home', 'risk', 'closing']",62.0
+2465,"['south', 'africa', 'struggle', 'land', 'right', 'upfront']",85.0
+2466,"['force', 'russians', 'video', 'report']",9867.0
+2467,"['ukraine', 'seeds', 'war', 'documentary']",650.0
+2468,['resistance'],1583.0
+2469,"['russia', 'right', 'council']",550.0
+2470,"['ukraine', 'hospitals', 'bombardment']",83.0
+2471,"['pakistan', 'court', 'rule', 'vote', 'imran', 'khan']",983.0
+2472,"['india', 'ukraine', 'war', 'fuel', 'price']",317.0
+2473,"['are', 'war', 'crime', 'allegation', 'ethiopia', 'inside']",300.0
+2474,"['lebanon', 'bank', 'customer', 'action', 'life', 'saving']",767.0
+2475,"['video', 'troop', 'soldier']",8450.0
+2476,"['court', 'transfer', 'khashoggi', 'trial', 'saudi', 'arabia']",132.0
+2477,"['russia', 'plan', 'ukraine']",1067.0
+2478,"['are', 'iran', 'close', 'deal', 'nuke', 'sanction', 'bottom', 'line']",850.0
+2479,"['france', 'election', 'pen', 'gap', 'macron', 'race']",167.0
+2480,"['music', 'resistance', 'luhansk', 'philharmonic', 'orchestra', 'lviv']",78.0
+2481,"['uschina', 'cyberwar', 'east', 'documentary']",2617.0
+2482,"['reveals', 'russia', 'sanction', 'atrocity', 'ukraine']",183.0
+2483,"['cambodia', 'law', 'mother']",100.0
+2484,"['starlink', 'interference', 'astronomers', 'satellite', 'light', 'pollution']",850.0
+2485,"['ukraine', 'war', 'demining', 'work', 'chuhuiv']",217.0
+2486,"['stolen', 'charles', 'darwin', 'diary', 'cambridge', 'library']",75.0
+2487,"['ukraine', 'war', 'borodyanka', 'resident', 'home']",183.0
+2488,"['killing', 'survivors', 'atrocity']",567.0
+2489,"['wreckage', 'plane']",153.0
+2490,"['ukraine', 'war']",350.0
+2491,"['election', 'frontrunners']",183.0
+2492,"['sri', 'lanka', 'president', 'revoke', 'emergency', 'order', 'crisis']",333.0
+2493,"['zelenskyy', 'act', 'attack']",120.0
+2494,"['brittney', 'griner', 'hostage']",217.0
+2495,"['russia', 'atrocity', 'ukraine', 'inside']",1117.0
+2496,"['archbishop', 'canterbury', 'call', 'action']",52.0
+2497,"['yemenis', 'ramadan', 'food', 'shortage']",267.0
+2498,"['elon', 'musk', 'stake', 'twitter']",300.0
+2499,"['satellite', 'picture', 'russia', 'denial', 'ukraine', 'killing']",450.0
+2500,"['ukraine', 'young', 'war', 'widow', 'grief', 'anger']",317.0
+2501,"['sanction', 'russia', 'killing', 'bucha']",153.0
+2502,"['covid', 'test', 'result', 'shanghai', 'population', 'review']",87.0
+2503,"['sri', 'lanka', 'opposition', 'reject', 'government']",367.0
+2504,"['calls', 'war', 'crime', 'grow', 'bucha', 'killing']",483.0
+2505,"['ukraine', 'war', 'inquiry', 'bucha', 'killing']",1000.0
+2506,"['politician', 'change', 'warning', 'inside']",167.0
+2507,"['china', 'taiwan', 'project', 'force']",4750.0
+2508,"['sri', 'lanka', 'president', 'unity', 'gov', 'crisis', 'worsens']",200.0
+2509,"['nigeria', 'manufacturer', 'job', 'cut', 'diesel', 'price']",157.0
+2510,"['ukraine', 'bucha', 'killing', 'spark', 'outrage']",1250.0
+2511,"['ecuador', 'prison', 'gang', 'riot']",283.0
+2512,"['hong', 'kong', 'carrie', 'lam', 'term']",153.0
+2513,"['pakistan', 'imran', 'khan', 'coup', 'attempt']",850.0
+2514,"['police', 'sacramento', 'shooting']",250.0
+2515,"['ukraine', 'president', 'zelenskyy', 'speech', 'grammys']",467.0
+2516,"['costa', 'rica', 'economist', 'rodrigo', 'chaves', 'election']",130.0
+2517,"['sri', 'lankan', 'cabinet', 'resigns', 'masse', 'crisis', 'deepens']",383.0
+2518,"['digital', 'colonialism', 'pandemic', 'nesrine', 'malik', 'nanjala', 'nyabola', 'studio']",383.0
+2519,"['dissolution', 'pakistan']",417.0
+2520,"['hungary', 'orban', 'victory', 'election', 'win']",400.0
+2521,"['urge', 'probe', 'death', 'ukraine', 'bucha']",283.0
+2522,"['serbia', 'president', 'vucic', 'term']",160.0
+2523,"['india', 'crypto', 'tax', 'investors', 'crossroad', 'asset']",300.0
+2524,"['france', 'macron', 'election', 'race', 'tightens']",250.0
+2525,"['city', 'idp', 'need', 'aid']",148.0
+2526,"['pakistan', 'parliament', 'motion', 'khan']",4067.0
+2527,"['costa', 'ricans', 'poll', 'election', 'runoff']",65.0
+2528,"['hungary', 'election']",160.0
+2529,"['hundreds', 'mass', 'grave', 'bucha', 'kyiv', 'mayor']",3700.0
+2530,"['qatar', 'cup', 'inside']",283.0
+2531,"['wrestlemania', 'dallas', 'star', 'wwe']",100.0
+2532,"['election', 'voters', 'president', 'sunday']",113.0
+2533,"['ukraine', 'force', 'kyiv']",500.0
+2534,"['vote', 'elections', 'war', 'ukraine']",283.0
+2535,"['supply', 'chain', 'crisis', 'business', 'door']",450.0
+2536,"['filipino', 'american', 'soldier', 'exercise']",1550.0
+2537,"['congo', 'conflict', 'rebel', 'group', 'ceasefire']",130.0
+2538,"['icrc', 'mariupol', 'evacuation']",137.0
+2539,"['yemen', 'warring', 'party', 'truce']",150.0
+2540,"['international', 'space', 'station', 'russia', 'cooperation']",2167.0
+2541,"['worker', 'nyc', 'vote']",148.0
+2542,"['pressure', 'china', 'stance', 'russia', 'war', 'ukraine']",467.0
+2543,"['malaysia', 'border', 'time', 'year']",200.0
+2544,"['barrel', 'oil', 'day', 'reserve']",200.0
+2545,"['coal', 'miner', 'strike', 'employer', 'alabama', 'nonunion', 'worker']",122.0
+2546,"['india', 'russia']",783.0
+2547,"['refugees', 'poland', 'services', 'capital', 'warsaw']",250.0
+2548,"['kharkiv', 'bodies', 'street', 'ukraine', 'city']",8083.0
+2549,"['kyiv', 'governor', 'russia', 'troop', 'region']",1867.0
+2550,"['qatar', 'cup', 'group', 'stage', 'draw', 'friday']",617.0
+2551,"['shoppers', 'ramadan', 'price']",217.0
+2552,"['sri', 'lanka', 'how', 'crisis', 'people']",1650.0
+2553,"['biden', 'barrel', 'oil', 'day', 'price']",1050.0
+2554,"['russia', 'ukraine', 'invasion', 'reevaluation', 'security']",567.0
+2555,"['ukraine', 'thousands', 'child', 'city', 'lviv']",90.0
+2556,"['pakistan', 'prime', 'minister', 'vote', 'confidence', 'inside']",1200.0
+2557,"['ukraine', 'russia', 'expulsion', 'fifa']",153.0
+2558,"['jablonski', 'certainty', 'putin', 'poland', 'talk']",283.0
+2559,"['resident', 'ukraine', 'mariupol']",200.0
+2560,"['ukraine', 'war', 'end', 'globalisation', 'bottom', 'line']",6700.0
+2561,"['mysterious', 'chinese', 'fugitive', 'billionaire', 'guo', 'east', 'documentary']",1967.0
+2562,"['tunisia', 'president', 'dissolve', 'parliament', 'power', 'grab']",167.0
+2563,"['india', 'country', 'crisis']",283.0
+2564,"['scepticism', 'vow', 'activity', 'ukraine', 'region']",317.0
+2565,"['thousands', 'congo', 'clash', 'uganda']",333.0
+2566,"['rise', 'attack', 'israelis', 'inside']",1550.0
+2567,"['ukraine', 'kharkiv', 'emergency', 'service', 'capacity']",200.0
+2568,"['artist', 'pay']",127.0
+2569,"['standing', 'medium', 'kashmir']",233.0
+2570,"['pakistan', 'pressure', 'russia', 'relation']",2083.0
+2571,"['video', 'israel']",102.0
+2572,"['trafficker', 'ukraine', 'refugee', 'poland']",333.0
+2573,"['south', 'africans', 'crisis']",72.0
+2574,"['event', 'qatar', 'power', 'sport', 'extremism']",103.0
+2575,"['sri', 'lanka', 'farmer', 'gov', 'policy', 'crop', 'yield', 'drop']",200.0
+2576,"['haitians', 'kidnapping', 'gang', 'violence']",317.0
+2577,"['ukraine', 'leader', 'refocus', 'east']",683.0
+2578,"['bukele', 'reprisal', 'salvador', 'gang', 'spike', 'violence']",1217.0
+2579,"['historic', 'injustice', 'biden', 'hate', 'crime']",108.0
+2580,"['destination', 'damascus', 'medium', 'tourism', 'syria', 'listening', 'post']",200.0
+2581,"['israel', 'gunman', 'tel', 'aviv']",383.0
