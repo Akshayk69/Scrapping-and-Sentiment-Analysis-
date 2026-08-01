@@ -2,9 +2,19 @@ name: Azure Web App Deploy
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [closed]
 
 jobs:
   build-and-deploy:
+    # only run for manual dispatch, pushes to main, or merged PRs
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'push' && startsWith(github.ref, 'refs/heads/main')) ||
+      (github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
